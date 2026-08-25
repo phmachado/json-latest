@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-25T19:03:54.830Z",
+  "geradoEm": "2026-08-25T12:56:13.994Z",
   "data": "2026-08-25",
   "canais": [
     {
@@ -9,12 +9,12 @@
       "totalLives": 2,
       "lives": [
         {
-          "videoId": "JTf2fJEp12k",
-          "titulo": "AO VIVO: DIA DE CLÁSSICO MINEIRO! CRUZEIRO E ATLÉTICO COMEÇAM A DECIDIR VAGA NA SEMI | GERAL CAZÉTV",
-          "thumbnail": "https://i.ytimg.com/vi/JTf2fJEp12k/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-25T20:50:00Z",
-          "horarioBrasilia": "25/08, 17:50",
-          "link": "https://www.youtube.com/watch?v=JTf2fJEp12k"
+          "videoId": "PGa-aoyy7gA",
+          "titulo": "AO VIVO: VALENCIA X REAL BETIS | LALIGA 26/27 | 1ª RODADA",
+          "thumbnail": "https://i.ytimg.com/vi/PGa-aoyy7gA/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-08-25T18:15:00Z",
+          "horarioBrasilia": "25/08, 15:15",
+          "link": "https://www.youtube.com/watch?v=PGa-aoyy7gA"
         },
         {
           "videoId": "8bvkDtLYYnQ",
@@ -31,11 +31,27 @@
       "canalId": "UCgCKagVhzGnZcuP9bSMgMCg",
       "nome": "ge tv",
       "logo": "https://yt3.ggpht.com/dc3tNE8gU99pZ_5gPcl_7U-hKf_Zzguxa4wTSexNKVNAWxli7hblw2BsrdHWASnjXRWciqecfTk=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 2,
+      "totalLives": 4,
       "lives": [
         {
+          "videoId": "Jif4YsefR8o",
+          "titulo": "AO VIVO! PRIMEIRA DESCIDA FAZ PRÉVIA DA NFC NORTE E NFC LESTE  #podcast | ge.globo",
+          "thumbnail": "https://i.ytimg.com/vi/Jif4YsefR8o/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-08-25T14:00:00Z",
+          "horarioBrasilia": "25/08, 11:00",
+          "link": "https://www.youtube.com/watch?v=Jif4YsefR8o"
+        },
+        {
+          "videoId": "pAEeMQL-5mY",
+          "titulo": "AO VIVO! NA PONTA DOS DEDOS RECEBE RAFAEL SUZUKI  | #podcast | ge.globo",
+          "thumbnail": "https://i.ytimg.com/vi/pAEeMQL-5mY/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-08-25T17:00:00Z",
+          "horarioBrasilia": "25/08, 14:00",
+          "link": "https://www.youtube.com/watch?v=pAEeMQL-5mY"
+        },
+        {
           "videoId": "BQIDMA6kc74",
-          "titulo": "AO VIVO! CRUZEIRO X ATLÉTICO-MG, PALMEIRAS X SANTOS, GRENAL e MUITA COPA DO BRASIL! | ge tv",
+          "titulo": "COM DENILSON É SHOW ESTREIA AO VIVO NESTA TERÇA-FEIRA, ÀS 18H! | ge tv",
           "thumbnail": "https://i.ytimg.com/vi/BQIDMA6kc74/hqdefault_live.jpg",
           "horarioAgendadoUTC": "2026-08-25T21:00:00Z",
           "horarioBrasilia": "25/08, 18:00",
@@ -56,11 +72,27 @@
       "canalId": "UCs-6sCz2LJm1PrWQN4ErsPw",
       "nome": "TNT Sports Brasil",
       "logo": "https://yt3.ggpht.com/VQ2IGEcrhMSpuFb3RFDQOsVV9xI0shwQVorL8VLUGUGaV61Va1UMo4iwFOBVfOsrwTTYET22Hdk=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 1,
+      "totalLives": 3,
       "lives": [
         {
+          "videoId": "3_BA445Q1ec",
+          "titulo": "ALLAN NO CITY; NOVELA ÁLVAREZ; QUARTAS DA COPA DO BRASIL; DECISÃO NA CHAMPIONS | De Placa 25/08/26",
+          "thumbnail": "https://i.ytimg.com/vi/3_BA445Q1ec/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-08-25T13:30:00Z",
+          "horarioBrasilia": "25/08, 10:30",
+          "link": "https://www.youtube.com/watch?v=3_BA445Q1ec"
+        },
+        {
+          "videoId": "IZqzpRPnKnQ",
+          "titulo": "VALE VAGA NA CHAMPIONS! BODO/GLIMT X NEC (AO VIVO E COM IMAGENS) - UEFA CHAMPIONS LEAGUE 2026/2027",
+          "thumbnail": "https://i.ytimg.com/vi/IZqzpRPnKnQ/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-08-25T18:00:00Z",
+          "horarioBrasilia": "25/08, 15:00",
+          "link": "https://www.youtube.com/watch?v=IZqzpRPnKnQ"
+        },
+        {
           "videoId": "zGGaahdjXAg",
-          "titulo": "AO VIVO: CAMPEONATO MUNDIAL DE ENTERRADAS DO SHAQUILLE O'NEAL | DUNKMAN",
+          "titulo": "AO VIVO: CAMPEONATO MUNDIAL DE ENTERRADAS DO SHAQUILLE O'NEIL | DUNKMAN",
           "thumbnail": "https://i.ytimg.com/vi/zGGaahdjXAg/hqdefault_live.jpg",
           "horarioAgendadoUTC": "2026-08-25T23:45:00Z",
           "horarioBrasilia": "25/08, 20:45",
@@ -81,8 +113,25 @@
       "canalId": "UC_oToDrJ6uca7d1dFVBmLtg",
       "nome": "Canal GOAT",
       "logo": "https://yt3.ggpht.com/NtXade9YlBhuNpJu5Tcj-PRXH57GtNbON4e6KgaGhZnuqKPDvrhUGcQl88j7F72BKLAaZ72QEow=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 0,
-      "lives": [],
+      "totalLives": 2,
+      "lives": [
+        {
+          "videoId": "Kneh0jivrNs",
+          "titulo": "AL TAAWOUN X AL FAYHA | AO VIVO E COM IMAGENS | SAUDI PRO LEAGUE",
+          "thumbnail": "https://i.ytimg.com/vi/Kneh0jivrNs/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-08-25T15:40:00Z",
+          "horarioBrasilia": "25/08, 12:40",
+          "link": "https://www.youtube.com/watch?v=Kneh0jivrNs"
+        },
+        {
+          "videoId": "onsQ_f4BqgQ",
+          "titulo": "AL ETTIFAQ X AL NASSR | AO VIVO E COM IMAGENS | SAUDI PRO LEAGUE",
+          "thumbnail": "https://i.ytimg.com/vi/onsQ_f4BqgQ/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-08-25T17:30:00Z",
+          "horarioBrasilia": "25/08, 14:30",
+          "link": "https://www.youtube.com/watch?v=onsQ_f4BqgQ"
+        }
+      ],
       "erro": null
     },
     {
@@ -105,19 +154,36 @@
       "canalId": "UCMcc9elPZGpg6eU4i3YaCpA",
       "nome": "SportyNet",
       "logo": "https://yt3.ggpht.com/gljY0R_KSQ6j9HLIgFWayZnekdpxPfCH-aKmm_2OFV5nru3CuGMtPTL8cG0qliPcM65gtTPb=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 0,
-      "lives": [],
+      "totalLives": 1,
+      "lives": [
+        {
+          "videoId": "DNgCjrgDHw4",
+          "titulo": "JUVENTUDE X CRB: AO VIVO E COM IMAGENS | RODADA 24 | SÉRIE B",
+          "thumbnail": "https://i.ytimg.com/vi/DNgCjrgDHw4/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-08-25T21:30:00Z",
+          "horarioBrasilia": "25/08, 18:30",
+          "link": "https://www.youtube.com/watch?v=DNgCjrgDHw4"
+        }
+      ],
       "erro": null
     },
     {
       "canalId": "UC3KHYFWeB0WimMBfm3NEahQ",
       "nome": "UOL Esporte",
       "logo": "https://yt3.ggpht.com/WnRMVUq4sj-Q1bAp8yz9y7WqUzqcbSZYQMkeMlHF1Kdv0fa39fw1zf3ylt1cil-ntjuL-s21TA=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 4,
+      "totalLives": 5,
       "lives": [
         {
+          "videoId": "yzzBBmj2-aw",
+          "titulo": "DE PRIMEIRA AO VIVO | 25 DE AGOSTO",
+          "thumbnail": "https://i.ytimg.com/vi/yzzBBmj2-aw/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-08-25T16:30:00Z",
+          "horarioBrasilia": "25/08, 13:30",
+          "link": "https://www.youtube.com/watch?v=yzzBBmj2-aw"
+        },
+        {
           "videoId": "ZWxxVwImpVo",
-          "titulo": "SANTOS FICA OTIMISTA PELA CONTRATAÇÃO DO MEIA ARTHUR! SAIBA OS DETALHES",
+          "titulo": "LIVE DO SANTOS AO VIVO | 25 DE AGOSTO",
           "thumbnail": "https://i.ytimg.com/vi/ZWxxVwImpVo/hqdefault_live.jpg",
           "horarioAgendadoUTC": "2026-08-25T20:00:00Z",
           "horarioBrasilia": "25/08, 17:00",
