@@ -1,0 +1,31 @@
+{
+  "geradoEm": "2026-08-25T11:49:03.252Z",
+  "data": "2026-08-25",
+  "canais": [
+    {
+      "canalId": "UCZiYbVptd3PVPf4f6eR6UaQ",
+      "nome": "CazéTV",
+      "logo": "https://yt3.ggpht.com/Zm3t3pgNIYY1HgkWYaWmU3E--oljMiWqX_2Ig4zkxziTkP3VOR9TGUmgJAPu7XrhP06ebxDg=s800-c-k-c0x00ffffff-no-rj",
+      "totalLives": 2,
+      "lives": [
+        {
+          "videoId": "PGa-aoyy7gA",
+          "titulo": "AO VIVO: VALENCIA X REAL BETIS | LALIGA 26/27 | 1ª RODADA",
+          "thumbnail": "https://i.ytimg.com/vi/PGa-aoyy7gA/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-08-25T18:15:00Z",
+          "horarioBrasilia": "25/08, 15:15",
+          "link": "https://www.youtube.com/watch?v=PGa-aoyy7gA"
+        },
+        {
+          "videoId": "8bvkDtLYYnQ",
+          "titulo": "INDEPENDIENTE DEL VALLE X TOLIMA: COPA LIBERTADORES | LANCES EM TEMPO REAL | NOCHE DE COPA",
+          "thumbnail": "https://i.ytimg.com/vi/8bvkDtLYYnQ/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-08-26T00:00:00Z",
+          "horarioBrasilia": "25/08, 21:00",
+          "link": "https://www.youtube.com/watch?v=8bvkDtLYYnQ"
+        }
+      ],
+      "erro": null
+    }
+  ]
+}
