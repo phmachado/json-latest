@@ -154,17 +154,8 @@
       "canalId": "UCMcc9elPZGpg6eU4i3YaCpA",
       "nome": "SportyNet",
       "logo": "https://yt3.ggpht.com/gljY0R_KSQ6j9HLIgFWayZnekdpxPfCH-aKmm_2OFV5nru3CuGMtPTL8cG0qliPcM65gtTPb=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 1,
-      "lives": [
-        {
-          "videoId": "DNgCjrgDHw4",
-          "titulo": "JUVENTUDE X CRB: AO VIVO E COM IMAGENS | RODADA 24 | SÉRIE B",
-          "thumbnail": "https://i.ytimg.com/vi/DNgCjrgDHw4/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-25T21:30:00Z",
-          "horarioBrasilia": "25/08, 18:30",
-          "link": "https://www.youtube.com/watch?v=DNgCjrgDHw4"
-        }
-      ],
+      "totalLives": 0,
+      "lives": [],
       "erro": null
     },
     {
