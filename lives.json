@@ -1,31 +1,47 @@
 {
-  "geradoEm": "2026-08-25T18:17:47.831Z",
+  "geradoEm": "2026-08-25T18:21:21.131Z",
   "data": "2026-08-25",
   "canais": [
     {
       "canalId": "UCZiYbVptd3PVPf4f6eR6UaQ",
       "nome": "CazéTV",
       "logo": "https://yt3.ggpht.com/Zm3t3pgNIYY1HgkWYaWmU3E--oljMiWqX_2Ig4zkxziTkP3VOR9TGUmgJAPu7XrhP06ebxDg=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 0,
-      "lives": [],
+      "totalLives": 3,
+      "lives": [
+        {
+          "videoId": "PGa-aoyy7gA",
+          "titulo": "AO VIVO: VALENCIA X REAL BETIS | LALIGA 26/27 | 1ª RODADA",
+          "thumbnail": "https://i.ytimg.com/vi/PGa-aoyy7gA/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-08-25T18:15:00Z",
+          "horarioBrasilia": "25/08, 15:15",
+          "link": "https://www.youtube.com/watch?v=PGa-aoyy7gA"
+        },
+        {
+          "videoId": "JTf2fJEp12k",
+          "titulo": "AO VIVO: DIA DE CLÁSSICO MINEIRO! CRUZEIRO E ATLÉTICO COMEÇAM A DECIDIR VAGA NA SEMI | GERAL CAZÉTV",
+          "thumbnail": "https://i.ytimg.com/vi/JTf2fJEp12k/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-08-25T20:50:00Z",
+          "horarioBrasilia": "25/08, 17:50",
+          "link": "https://www.youtube.com/watch?v=JTf2fJEp12k"
+        },
+        {
+          "videoId": "8bvkDtLYYnQ",
+          "titulo": "INDEPENDIENTE DEL VALLE X TOLIMA: COPA LIBERTADORES | LANCES EM TEMPO REAL | NOCHE DE COPA",
+          "thumbnail": "https://i.ytimg.com/vi/8bvkDtLYYnQ/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-08-26T00:00:00Z",
+          "horarioBrasilia": "25/08, 21:00",
+          "link": "https://www.youtube.com/watch?v=8bvkDtLYYnQ"
+        }
+      ],
       "erro": null
     },
     {
       "canalId": "UCgCKagVhzGnZcuP9bSMgMCg",
       "nome": "ge tv",
       "logo": "https://yt3.ggpht.com/dc3tNE8gU99pZ_5gPcl_7U-hKf_Zzguxa4wTSexNKVNAWxli7hblw2BsrdHWASnjXRWciqecfTk=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 1,
-      "lives": [
-        {
-          "videoId": "eoGCyyqN9TU",
-          "titulo": "CRUZEIRO X ATLÉTICO-MG | AQUECIMENTO AO VIVO | COPA DO BRASIL 2026 | #live | sportv",
-          "thumbnail": "https://i.ytimg.com/vi/eoGCyyqN9TU/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-25T22:00:00Z",
-          "horarioBrasilia": "25/08, 19:00",
-          "link": "https://www.youtube.com/watch?v=eoGCyyqN9TU"
-        }
-      ],
-      "erro": null
+      "totalLives": 0,
+      "lives": [],
+      "erro": "Erro na busca (search.list): 429 {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:866138276654'.\",\n    \"errors\": [\n      {\n        \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:866138276654'.\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXHAUSTED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"RATE_LIMIT_EXCEEDED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"window_start_time\": \"1787641200\",\n          \"quota_limit\": \"defaultSearchListPerDayPerProject\",\n          \"quota_metric\": \"youtube.googleapis.com/search_list\",\n          \"consumer\": \"projects/866138276654\",\n          \"quota_unit\": \"1/d/{project}\",\n          \"service\": \"youtube.googleapis.com\",\n          \"quota_location\": \"global\",\n          \"quota_limit_value\": \"100\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.Help\",\n        \"links\": [\n          {\n            \"description\": \"Request a higher quota limit.\",\n            \"url\": \"https://cloud.google.com/docs/quotas/help/request_increase\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
     },
     {
       "canalId": "UCs-6sCz2LJm1PrWQN4ErsPw",
@@ -33,7 +49,7 @@
       "logo": "https://yt3.ggpht.com/VQ2IGEcrhMSpuFb3RFDQOsVV9xI0shwQVorL8VLUGUGaV61Va1UMo4iwFOBVfOsrwTTYET22Hdk=s800-c-k-c0x00ffffff-no-rj",
       "totalLives": 0,
       "lives": [],
-      "erro": null
+      "erro": "Erro na busca (search.list): 429 {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:866138276654'.\",\n    \"errors\": [\n      {\n        \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:866138276654'.\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXHAUSTED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"RATE_LIMIT_EXCEEDED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"service\": \"youtube.googleapis.com\",\n          \"quota_location\": \"global\",\n          \"quota_metric\": \"youtube.googleapis.com/search_list\",\n          \"quota_unit\": \"1/d/{project}\",\n          \"quota_limit_value\": \"100\",\n          \"consumer\": \"projects/866138276654\",\n          \"quota_limit\": \"defaultSearchListPerDayPerProject\",\n          \"window_start_time\": \"1787641200\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.Help\",\n        \"links\": [\n          {\n            \"description\": \"Request a higher quota limit.\",\n            \"url\": \"https://cloud.google.com/docs/quotas/help/request_increase\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
     },
     {
       "canalId": "UCw5-xj3AKqEizC7MvHaIPqA",
@@ -41,7 +57,7 @@
       "logo": "https://yt3.ggpht.com/atSFp-_qcwnDISOTP77d1_noGzZ0fQ-ogLumFMNzdDJVWbJwueHbDeeSAezGe0gKgf9zmx8YgQ=s800-c-k-c0x00ffffff-no-rj",
       "totalLives": 0,
       "lives": [],
-      "erro": null
+      "erro": "Erro na busca (search.list): 429 {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:866138276654'.\",\n    \"errors\": [\n      {\n        \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:866138276654'.\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXHAUSTED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"RATE_LIMIT_EXCEEDED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"quota_metric\": \"youtube.googleapis.com/search_list\",\n          \"service\": \"youtube.googleapis.com\",\n          \"window_start_time\": \"1787641200\",\n          \"consumer\": \"projects/866138276654\",\n          \"quota_unit\": \"1/d/{project}\",\n          \"quota_limit_value\": \"100\",\n          \"quota_location\": \"global\",\n          \"quota_limit\": \"defaultSearchListPerDayPerProject\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.Help\",\n        \"links\": [\n          {\n            \"description\": \"Request a higher quota limit.\",\n            \"url\": \"https://cloud.google.com/docs/quotas/help/request_increase\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
     },
     {
       "canalId": "UC_oToDrJ6uca7d1dFVBmLtg",
@@ -57,7 +73,7 @@
       "logo": "https://yt3.ggpht.com/oBgJPP0LOnImgTAk6TzhGdb-cENNNjuzdedazT6VGVZtagNc1pTmUZgw82pf_y3s73vCJ4-2Lg=s800-c-k-c0x00ffffff-no-rj",
       "totalLives": 0,
       "lives": [],
-      "erro": null
+      "erro": "Erro na busca (search.list): 429 {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:866138276654'.\",\n    \"errors\": [\n      {\n        \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:866138276654'.\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXHAUSTED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"RATE_LIMIT_EXCEEDED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"quota_limit_value\": \"100\",\n          \"quota_unit\": \"1/d/{project}\",\n          \"quota_metric\": \"youtube.googleapis.com/search_list\",\n          \"quota_limit\": \"defaultSearchListPerDayPerProject\",\n          \"window_start_time\": \"1787641200\",\n          \"service\": \"youtube.googleapis.com\",\n          \"quota_location\": \"global\",\n          \"consumer\": \"projects/866138276654\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.Help\",\n        \"links\": [\n          {\n            \"description\": \"Request a higher quota limit.\",\n            \"url\": \"https://cloud.google.com/docs/quotas/help/request_increase\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
     },
     {
       "canalId": "UCf9WJPpsh5BHDY-OeISgIqA",
@@ -88,42 +104,9 @@
       "canalId": "UC3KHYFWeB0WimMBfm3NEahQ",
       "nome": "UOL Esporte",
       "logo": "https://yt3.ggpht.com/WnRMVUq4sj-Q1bAp8yz9y7WqUzqcbSZYQMkeMlHF1Kdv0fa39fw1zf3ylt1cil-ntjuL-s21TA=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 4,
-      "lives": [
-        {
-          "videoId": "ZWxxVwImpVo",
-          "titulo": "SANTOS FICA OTIMISTA PELA CONTRATAÇÃO DO MEIA ARTHUR! SAIBA OS DETALHES",
-          "thumbnail": "https://i.ytimg.com/vi/ZWxxVwImpVo/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-25T20:00:00Z",
-          "horarioBrasilia": "25/08, 17:00",
-          "link": "https://www.youtube.com/watch?v=ZWxxVwImpVo"
-        },
-        {
-          "videoId": "JxFYFVMX4ng",
-          "titulo": "ÚLTIMAS NOTÍCIAS DO ESPORTE | 25 DE AGOSTO",
-          "thumbnail": "https://i.ytimg.com/vi/JxFYFVMX4ng/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-25T20:30:00Z",
-          "horarioBrasilia": "25/08, 17:30",
-          "link": "https://www.youtube.com/watch?v=JxFYFVMX4ng"
-        },
-        {
-          "videoId": "bfIuPiYlb7c",
-          "titulo": "CARTÃO VERMELHO AO VIVO | 25 DE AGOSTO",
-          "thumbnail": "https://i.ytimg.com/vi/bfIuPiYlb7c/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-25T21:00:00Z",
-          "horarioBrasilia": "25/08, 18:00",
-          "link": "https://www.youtube.com/watch?v=bfIuPiYlb7c"
-        },
-        {
-          "videoId": "WuZrJbGQDpg",
-          "titulo": "FIM DE PAPO AO VIVO | 25 DE AGOSTO",
-          "thumbnail": "https://i.ytimg.com/vi/WuZrJbGQDpg/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-26T02:30:00Z",
-          "horarioBrasilia": "25/08, 23:30",
-          "link": "https://www.youtube.com/watch?v=WuZrJbGQDpg"
-        }
-      ],
-      "erro": null
+      "totalLives": 0,
+      "lives": [],
+      "erro": "Erro na busca (search.list): 429 {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:866138276654'.\",\n    \"errors\": [\n      {\n        \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:866138276654'.\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXHAUSTED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"RATE_LIMIT_EXCEEDED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"quota_limit\": \"defaultSearchListPerDayPerProject\",\n          \"consumer\": \"projects/866138276654\",\n          \"window_start_time\": \"1787641200\",\n          \"quota_location\": \"global\",\n          \"service\": \"youtube.googleapis.com\",\n          \"quota_unit\": \"1/d/{project}\",\n          \"quota_limit_value\": \"100\",\n          \"quota_metric\": \"youtube.googleapis.com/search_list\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.Help\",\n        \"links\": [\n          {\n            \"description\": \"Request a higher quota limit.\",\n            \"url\": \"https://cloud.google.com/docs/quotas/help/request_increase\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
     },
     {
       "canalId": "UCH-BU-Os3JSo2L8lBQxE8KA",
@@ -131,7 +114,7 @@
       "logo": "https://yt3.ggpht.com/CTQyaT5nUAWjH0Vb-WIOrecZ3f4mAlS1N4niAFtIAX-g8gpTxITlkOY-dnRyh3th_1HxJ7KE=s800-c-k-c0x00ffffff-no-rj",
       "totalLives": 0,
       "lives": [],
-      "erro": null
+      "erro": "Erro na busca (search.list): 429 {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:866138276654'.\",\n    \"errors\": [\n      {\n        \"message\": \"Quota exceeded for quota metric 'Search Queries' and limit 'Search Queries per day' of service 'youtube.googleapis.com' for consumer 'project_number:866138276654'.\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXHAUSTED\",\n    \"details\": [\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.ErrorInfo\",\n        \"reason\": \"RATE_LIMIT_EXCEEDED\",\n        \"domain\": \"googleapis.com\",\n        \"metadata\": {\n          \"quota_limit\": \"defaultSearchListPerDayPerProject\",\n          \"consumer\": \"projects/866138276654\",\n          \"window_start_time\": \"1787641200\",\n          \"quota_location\": \"global\",\n          \"service\": \"youtube.googleapis.com\",\n          \"quota_unit\": \"1/d/{project}\",\n          \"quota_limit_value\": \"100\",\n          \"quota_metric\": \"youtube.googleapis.com/search_list\"\n        }\n      },\n      {\n        \"@type\": \"type.googleapis.com/google.rpc.Help\",\n        \"links\": [\n          {\n            \"description\": \"Request a higher quota limit.\",\n            \"url\": \"https://cloud.google.com/docs/quotas/help/request_increase\"\n          }\n        ]\n      }\n    ]\n  }\n}\n"
     }
   ]
 }
