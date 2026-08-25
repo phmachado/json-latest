@@ -177,6 +177,17 @@ async function processarCanal(channelId, apiKey, inicioUTC, fimUTC) {
     resultado.logo = info.logo;
 
     const resultadosSearch = await buscarUpcoming(channelId, apiKey);
+
+    console.log(`\n--- ${info.nome} ---`);
+    console.log(
+      resultadosSearch.map(item => ({
+        videoId: item.id?.videoId,
+        titulo: item.snippet?.title,
+        publishedAt: item.snippet?.publishedAt,
+        liveBroadcastContent: item.snippet?.liveBroadcastContent,
+      }))
+    );
+
     const videoIds = resultadosSearch
       .filter(item => item.snippet.liveBroadcastContent === 'upcoming')
       .map(item => item.id.videoId);
