@@ -75,6 +75,8 @@ async function buscarUpcoming(channelId, apiKey) {
   url.searchParams.set('eventType', 'upcoming');
   url.searchParams.set('type', 'video');
   url.searchParams.set('maxResults', '50');
+  url.searchParams.set('regionCode', 'BR');
+  url.searchParams.set('hl', 'pt-BR');
   url.searchParams.set('key', apiKey);
 
   const res = await fetch(url);
