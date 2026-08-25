@@ -1,5 +1,5 @@
 {
-  "geradoEm": "2026-08-25T12:35:19.320Z",
+  "geradoEm": "2026-08-25T12:56:13.994Z",
   "data": "2026-08-25",
   "canais": [
     {
@@ -105,6 +105,121 @@
       "canalId": "UCw5-xj3AKqEizC7MvHaIPqA",
       "nome": "ESPN Brasil",
       "logo": "https://yt3.ggpht.com/atSFp-_qcwnDISOTP77d1_noGzZ0fQ-ogLumFMNzdDJVWbJwueHbDeeSAezGe0gKgf9zmx8YgQ=s800-c-k-c0x00ffffff-no-rj",
+      "totalLives": 0,
+      "lives": [],
+      "erro": null
+    },
+    {
+      "canalId": "UC_oToDrJ6uca7d1dFVBmLtg",
+      "nome": "Canal GOAT",
+      "logo": "https://yt3.ggpht.com/NtXade9YlBhuNpJu5Tcj-PRXH57GtNbON4e6KgaGhZnuqKPDvrhUGcQl88j7F72BKLAaZ72QEow=s800-c-k-c0x00ffffff-no-rj",
+      "totalLives": 2,
+      "lives": [
+        {
+          "videoId": "Kneh0jivrNs",
+          "titulo": "AL TAAWOUN X AL FAYHA | AO VIVO E COM IMAGENS | SAUDI PRO LEAGUE",
+          "thumbnail": "https://i.ytimg.com/vi/Kneh0jivrNs/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-08-25T15:40:00Z",
+          "horarioBrasilia": "25/08, 12:40",
+          "link": "https://www.youtube.com/watch?v=Kneh0jivrNs"
+        },
+        {
+          "videoId": "onsQ_f4BqgQ",
+          "titulo": "AL ETTIFAQ X AL NASSR | AO VIVO E COM IMAGENS | SAUDI PRO LEAGUE",
+          "thumbnail": "https://i.ytimg.com/vi/onsQ_f4BqgQ/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-08-25T17:30:00Z",
+          "horarioBrasilia": "25/08, 14:30",
+          "link": "https://www.youtube.com/watch?v=onsQ_f4BqgQ"
+        }
+      ],
+      "erro": null
+    },
+    {
+      "canalId": "UCv-Nx8pSfG_LxbViMz14RWQ",
+      "nome": "Jovem Pan Esportes",
+      "logo": "https://yt3.ggpht.com/oBgJPP0LOnImgTAk6TzhGdb-cENNNjuzdedazT6VGVZtagNc1pTmUZgw82pf_y3s73vCJ4-2Lg=s800-c-k-c0x00ffffff-no-rj",
+      "totalLives": 0,
+      "lives": [],
+      "erro": null
+    },
+    {
+      "canalId": "UCf9WJPpsh5BHDY-OeISgIqA",
+      "nome": "N Sports",
+      "logo": "https://yt3.ggpht.com/tt9WaJh3uawWJUv4upgjMNJgirABgKgaionIiPMTor-5rL5EnszV6sL8KDLOwXmqUZmKfnlu=s800-c-k-c0x00ffffff-no-rj",
+      "totalLives": 0,
+      "lives": [],
+      "erro": null
+    },
+    {
+      "canalId": "UCMcc9elPZGpg6eU4i3YaCpA",
+      "nome": "SportyNet",
+      "logo": "https://yt3.ggpht.com/gljY0R_KSQ6j9HLIgFWayZnekdpxPfCH-aKmm_2OFV5nru3CuGMtPTL8cG0qliPcM65gtTPb=s800-c-k-c0x00ffffff-no-rj",
+      "totalLives": 1,
+      "lives": [
+        {
+          "videoId": "DNgCjrgDHw4",
+          "titulo": "JUVENTUDE X CRB: AO VIVO E COM IMAGENS | RODADA 24 | SÉRIE B",
+          "thumbnail": "https://i.ytimg.com/vi/DNgCjrgDHw4/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-08-25T21:30:00Z",
+          "horarioBrasilia": "25/08, 18:30",
+          "link": "https://www.youtube.com/watch?v=DNgCjrgDHw4"
+        }
+      ],
+      "erro": null
+    },
+    {
+      "canalId": "UC3KHYFWeB0WimMBfm3NEahQ",
+      "nome": "UOL Esporte",
+      "logo": "https://yt3.ggpht.com/WnRMVUq4sj-Q1bAp8yz9y7WqUzqcbSZYQMkeMlHF1Kdv0fa39fw1zf3ylt1cil-ntjuL-s21TA=s800-c-k-c0x00ffffff-no-rj",
+      "totalLives": 5,
+      "lives": [
+        {
+          "videoId": "yzzBBmj2-aw",
+          "titulo": "DE PRIMEIRA AO VIVO | 25 DE AGOSTO",
+          "thumbnail": "https://i.ytimg.com/vi/yzzBBmj2-aw/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-08-25T16:30:00Z",
+          "horarioBrasilia": "25/08, 13:30",
+          "link": "https://www.youtube.com/watch?v=yzzBBmj2-aw"
+        },
+        {
+          "videoId": "ZWxxVwImpVo",
+          "titulo": "LIVE DO SANTOS AO VIVO | 25 DE AGOSTO",
+          "thumbnail": "https://i.ytimg.com/vi/ZWxxVwImpVo/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-08-25T20:00:00Z",
+          "horarioBrasilia": "25/08, 17:00",
+          "link": "https://www.youtube.com/watch?v=ZWxxVwImpVo"
+        },
+        {
+          "videoId": "JxFYFVMX4ng",
+          "titulo": "ÚLTIMAS NOTÍCIAS DO ESPORTE | 25 DE AGOSTO",
+          "thumbnail": "https://i.ytimg.com/vi/JxFYFVMX4ng/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-08-25T20:30:00Z",
+          "horarioBrasilia": "25/08, 17:30",
+          "link": "https://www.youtube.com/watch?v=JxFYFVMX4ng"
+        },
+        {
+          "videoId": "bfIuPiYlb7c",
+          "titulo": "CARTÃO VERMELHO AO VIVO | 25 DE AGOSTO",
+          "thumbnail": "https://i.ytimg.com/vi/bfIuPiYlb7c/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-08-25T21:00:00Z",
+          "horarioBrasilia": "25/08, 18:00",
+          "link": "https://www.youtube.com/watch?v=bfIuPiYlb7c"
+        },
+        {
+          "videoId": "WuZrJbGQDpg",
+          "titulo": "FIM DE PAPO AO VIVO | 25 DE AGOSTO",
+          "thumbnail": "https://i.ytimg.com/vi/WuZrJbGQDpg/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-08-26T02:30:00Z",
+          "horarioBrasilia": "25/08, 23:30",
+          "link": "https://www.youtube.com/watch?v=WuZrJbGQDpg"
+        }
+      ],
+      "erro": null
+    },
+    {
+      "canalId": "UCH-BU-Os3JSo2L8lBQxE8KA",
+      "nome": "Xsports",
+      "logo": "https://yt3.ggpht.com/CTQyaT5nUAWjH0Vb-WIOrecZ3f4mAlS1N4niAFtIAX-g8gpTxITlkOY-dnRyh3th_1HxJ7KE=s800-c-k-c0x00ffffff-no-rj",
       "totalLives": 0,
       "lives": [],
       "erro": null
