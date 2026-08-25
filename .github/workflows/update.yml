@@ -2,7 +2,7 @@ name: Update YouTube JSON
 
 on:
   schedule:
-    - cron: "0 10 * * *" # 07:00 BRT
+    - cron: "0 10 * * *"
   workflow_dispatch:
 
 permissions:
@@ -22,7 +22,7 @@ jobs:
           node-version: 20
 
       - name: Run script
-        run: node script.js
+        run: node script.js "$(TZ=America/Sao_Paulo date +%Y-%m-%d)"
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
 
