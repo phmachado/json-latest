@@ -21,8 +21,17 @@ jobs:
         with:
           node-version: 20
 
+      - name: Check environment
+        run: |
+          echo "Node: $(node --version)"
+          echo "Date UTC: $(date -u)"
+          echo "Date Brasilia: $(TZ=America/Sao_Paulo date)"
+          echo "API key configured: ${YOUTUBE_API_KEY:+yes}"
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+
       - name: Run script
-        run: node script.js "$(TZ=America/Sao_Paulo date +%Y-%m-%d)"
+        run: node script.js 2026-08-25
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
 
