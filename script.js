@@ -32,6 +32,8 @@ const CHANNEL_IDS = process.env.YT_CHANNEL_IDS
       'UCMcc9elPZGpg6eU4i3YaCpA', // SportyNet
       'UC3KHYFWeB0WimMBfm3NEahQ', // UOL Sports
       'UCH-BU-Os3JSo2L8lBQxE8KA', // XSports
+      'UC8RrjoT8ovQ43Le7qvHuoMA', // Metrópoles Esportes
+      'UCfi9IhipFGSa0eD_EA8JHrA', // Canal GoLBrasil
     ];
 
 // Data passada como argumento (ex: node lives-do-dia.js 2026-08-25)
