@@ -2,7 +2,7 @@ name: Update YouTube JSON
 
 on:
   schedule:
-    - cron: "41 10 * * *"
+    - cron: "17 6 * * *"
   workflow_dispatch:
 
 permissions:
