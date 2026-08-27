@@ -1,24 +1,16 @@
 {
-  "geradoEm": "2026-08-27T17:39:28.199Z",
+  "geradoEm": "2026-08-27T20:36:21.701Z",
   "data": "2026-08-27",
   "canais": [
     {
       "canalId": "UCZiYbVptd3PVPf4f6eR6UaQ",
       "nome": "CazéTV",
       "logo": "https://yt3.ggpht.com/Zm3t3pgNIYY1HgkWYaWmU3E--oljMiWqX_2Ig4zkxziTkP3VOR9TGUmgJAPu7XrhP06ebxDg=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 4,
+      "totalLives": 3,
       "lives": [
         {
-          "videoId": "TDFBtodGRCs",
-          "titulo": "AO VIVO: BARCELONA X ATHLETIC CLUB BILBAO | LALIGA 26/27 | 1ª RODADA",
-          "thumbnail": "https://i.ytimg.com/vi/TDFBtodGRCs/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-27T18:00:00Z",
-          "horarioBrasilia": "27/08, 15:00",
-          "link": "https://www.youtube.com/watch?v=TDFBtodGRCs"
-        },
-        {
           "videoId": "xRDEtqQfkkk",
-          "titulo": "GERAL CAZÉTV | 27/08",
+          "titulo": "AO VIVO: GRENAL NA COPA DO BRASIL! INTER E GRÊMIO FAZEM MAIS UM CLÁSSICO HISTÓRICO | GERAL CAZÉTV",
           "thumbnail": "https://i.ytimg.com/vi/xRDEtqQfkkk/hqdefault_live.jpg",
           "horarioAgendadoUTC": "2026-08-27T21:00:00Z",
           "horarioBrasilia": "27/08, 18:00",
@@ -97,8 +89,17 @@
       "canalId": "UCv-Nx8pSfG_LxbViMz14RWQ",
       "nome": "Jovem Pan Esportes",
       "logo": "https://yt3.ggpht.com/oBgJPP0LOnImgTAk6TzhGdb-cENNNjuzdedazT6VGVZtagNc1pTmUZgw82pf_y3s73vCJ4-2Lg=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 0,
-      "lives": [],
+      "totalLives": 1,
+      "lives": [
+        {
+          "videoId": "H8uwQIVQMB8",
+          "titulo": "PAN NA ÁREA - 27/08/26",
+          "thumbnail": "https://i.ytimg.com/vi/H8uwQIVQMB8/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-08-27T21:30:00Z",
+          "horarioBrasilia": "27/08, 18:30",
+          "link": "https://www.youtube.com/watch?v=H8uwQIVQMB8"
+        }
+      ],
       "erro": null
     },
     {
@@ -113,36 +114,19 @@
       "canalId": "UCMcc9elPZGpg6eU4i3YaCpA",
       "nome": "SportyNet",
       "logo": "https://yt3.ggpht.com/gljY0R_KSQ6j9HLIgFWayZnekdpxPfCH-aKmm_2OFV5nru3CuGMtPTL8cG0qliPcM65gtTPb=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 1,
-      "lives": [
-        {
-          "videoId": "eI3dBzimBlA",
-          "titulo": "CELTA DE VIGO X OSASUNA: AO VIVO, COM IMAGENS E EXCLUSIVO | LALIGA | RODADA 1",
-          "thumbnail": "https://i.ytimg.com/vi/eI3dBzimBlA/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-27T18:30:00Z",
-          "horarioBrasilia": "27/08, 15:30",
-          "link": "https://www.youtube.com/watch?v=eI3dBzimBlA"
-        }
-      ],
+      "totalLives": 0,
+      "lives": [],
       "erro": null
     },
     {
       "canalId": "UC3KHYFWeB0WimMBfm3NEahQ",
       "nome": "UOL Esporte",
       "logo": "https://yt3.ggpht.com/WnRMVUq4sj-Q1bAp8yz9y7WqUzqcbSZYQMkeMlHF1Kdv0fa39fw1zf3ylt1cil-ntjuL-s21TA=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 4,
+      "totalLives": 3,
       "lives": [
         {
-          "videoId": "V9QcVZuNwTU",
-          "titulo": "AJAX X SION: AO VIVO | UEFA CONFERENCE LEAGUE | COM IMAGENS E NARRAÇÃO",
-          "thumbnail": "https://i.ytimg.com/vi/V9QcVZuNwTU/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-27T17:45:00Z",
-          "horarioBrasilia": "27/08, 14:45",
-          "link": "https://www.youtube.com/watch?v=V9QcVZuNwTU"
-        },
-        {
           "videoId": "WV4RogyOB34",
-          "titulo": "ÚLTIMAS NOTÍCIAS DO ESPORTE | 27 DE AGOSTO",
+          "titulo": "PALMEIRAS PERDE ARIAS POR LESÃO; NEYMAR FORA DO CLÁSSICO GERA POLÊMICA NOS BASTIDORES DO SANTOS E+",
           "thumbnail": "https://i.ytimg.com/vi/WV4RogyOB34/hqdefault_live.jpg",
           "horarioAgendadoUTC": "2026-08-27T20:30:00Z",
           "horarioBrasilia": "27/08, 17:30",
@@ -171,16 +155,8 @@
       "canalId": "UCH-BU-Os3JSo2L8lBQxE8KA",
       "nome": "Xsports",
       "logo": "https://yt3.ggpht.com/CTQyaT5nUAWjH0Vb-WIOrecZ3f4mAlS1N4niAFtIAX-g8gpTxITlkOY-dnRyh3th_1HxJ7KE=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 3,
+      "totalLives": 2,
       "lives": [
-        {
-          "videoId": "1uiYY1DAKz0",
-          "titulo": "ANDERLECHT X KAIRAT ALMATY | ELIMINATÓRIAS DA EUROPA LEAGUE | AO VIVO E COM IMAGENS",
-          "thumbnail": "https://i.ytimg.com/vi/1uiYY1DAKz0/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-27T18:30:00Z",
-          "horarioBrasilia": "27/08, 15:30",
-          "link": "https://www.youtube.com/watch?v=1uiYY1DAKz0"
-        },
         {
           "videoId": "pM2oD3PZp5o",
           "titulo": "ESTUDIANTES X BARRACAS CENTRAL | OITAVAS DE FINAL DA COPA ARGENTINA | AO VIVO E COM IMAGENS",
@@ -221,25 +197,8 @@
       "canalId": "UCfi9IhipFGSa0eD_EA8JHrA",
       "nome": "Canal GoLBrasil ",
       "logo": "https://yt3.ggpht.com/jH0azzxNbxmjDmzpzqV94Rnq0l3VUzxNinwPx4MqjEOTfkqbiCIxm-M0CQogVux0Z9_QJzy6=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 2,
-      "lives": [
-        {
-          "videoId": "Bdn6e-s7c1I",
-          "titulo": "AO VIVO: RIJEKA X MIDTJYLLAND I UEFA CONFERENCE LEAGUE I CANAL GOL BRASIL",
-          "thumbnail": "https://i.ytimg.com/vi/Bdn6e-s7c1I/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-27T18:45:00Z",
-          "horarioBrasilia": "27/08, 15:45",
-          "link": "https://www.youtube.com/watch?v=Bdn6e-s7c1I"
-        },
-        {
-          "videoId": "POYSj8Aiuec",
-          "titulo": "AO VIVO: ADT X MOQUEGUA I COPA DA LIGA PERUANA I CANAL GOL BRASIL",
-          "thumbnail": "https://i.ytimg.com/vi/POYSj8Aiuec/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-27T20:00:00Z",
-          "horarioBrasilia": "27/08, 17:00",
-          "link": "https://www.youtube.com/watch?v=POYSj8Aiuec"
-        }
-      ],
+      "totalLives": 0,
+      "lives": [],
       "erro": null
     }
   ]
