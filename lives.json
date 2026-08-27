@@ -1,52 +1,36 @@
 {
-  "geradoEm": "2026-08-26T10:47:08.028Z",
-  "data": "2026-08-26",
+  "geradoEm": "2026-08-27T11:38:47.606Z",
+  "data": "2026-08-27",
   "canais": [
     {
       "canalId": "UCZiYbVptd3PVPf4f6eR6UaQ",
       "nome": "CazéTV",
       "logo": "https://yt3.ggpht.com/Zm3t3pgNIYY1HgkWYaWmU3E--oljMiWqX_2Ig4zkxziTkP3VOR9TGUmgJAPu7XrhP06ebxDg=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 5,
+      "totalLives": 3,
       "lives": [
         {
-          "videoId": "bAP-3LdADLw",
-          "titulo": "AO VIVO: TÊNIS | GUTO MIGUEL X THOMAS FANCUTT | ATP CHALLENGER DE KINGSTON 2 | OITAVAS DE FINAL",
-          "thumbnail": "https://i.ytimg.com/vi/bAP-3LdADLw/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-26T15:00:00Z",
-          "horarioBrasilia": "26/08, 12:00",
-          "link": "https://www.youtube.com/watch?v=bAP-3LdADLw"
+          "videoId": "TDFBtodGRCs",
+          "titulo": "AO VIVO: BARCELONA X ATHLETIC CLUB BILBAO | LALIGA 26/27 | 1ª RODADA",
+          "thumbnail": "https://i.ytimg.com/vi/TDFBtodGRCs/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-08-27T18:00:00Z",
+          "horarioBrasilia": "27/08, 15:00",
+          "link": "https://www.youtube.com/watch?v=TDFBtodGRCs"
         },
         {
-          "videoId": "L4TAakwlQHM",
-          "titulo": "AO VIVO: AL AHLI X AUCKLAND FC | MUNDIAL DE CLUBES DA FIFA 2026 | 1ª FASE",
-          "thumbnail": "https://i.ytimg.com/vi/L4TAakwlQHM/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-26T17:30:00Z",
-          "horarioBrasilia": "26/08, 14:30",
-          "link": "https://www.youtube.com/watch?v=L4TAakwlQHM"
+          "videoId": "bUo8iG8KoNs",
+          "titulo": "AO VIVO: TÊNIS | GUTO MIGUEL X ANDREW FANTY | ATP CHALLENGER DE KINGSTON 2 | QUARTAS DE FINAL",
+          "thumbnail": "https://i.ytimg.com/vi/bUo8iG8KoNs/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-08-27T22:00:00Z",
+          "horarioBrasilia": "27/08, 19:00",
+          "link": "https://www.youtube.com/watch?v=bUo8iG8KoNs"
         },
         {
-          "videoId": "SWprYWItU4s",
-          "titulo": "AO VIVO: REAL MADRID X REAL SOCIEDAD | LALIGA 26/27 | 1ª RODADA",
-          "thumbnail": "https://i.ytimg.com/vi/SWprYWItU4s/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-26T18:00:00Z",
-          "horarioBrasilia": "26/08, 15:00",
-          "link": "https://www.youtube.com/watch?v=SWprYWItU4s"
-        },
-        {
-          "videoId": "7OtXcAh6CB0",
-          "titulo": "AO VIVO: PALMEIRAS X RB BRAGANTINO | PAULISTÃO F 2026 | 7ª RODADA",
-          "thumbnail": "https://i.ytimg.com/vi/7OtXcAh6CB0/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-26T20:45:00Z",
-          "horarioBrasilia": "26/08, 17:45",
-          "link": "https://www.youtube.com/watch?v=7OtXcAh6CB0"
-        },
-        {
-          "videoId": "GqEcLQzIzG0",
-          "titulo": "AO VIVO: GERAL CAZÉTV | 26/08",
-          "thumbnail": "https://i.ytimg.com/vi/GqEcLQzIzG0/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-26T23:20:00Z",
-          "horarioBrasilia": "26/08, 20:20",
-          "link": "https://www.youtube.com/watch?v=GqEcLQzIzG0"
+          "videoId": "sJBPyLS2MBo",
+          "titulo": "AO VIVO: BRASIL X REPÚBLICA DOMINICANA | ELIMINATÓRIAS COPA DO MUNDO DE BASQUETE",
+          "thumbnail": "https://i.ytimg.com/vi/sJBPyLS2MBo/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-08-27T22:30:00Z",
+          "horarioBrasilia": "27/08, 19:30",
+          "link": "https://www.youtube.com/watch?v=sJBPyLS2MBo"
         }
       ],
       "erro": null
@@ -55,23 +39,15 @@
       "canalId": "UCgCKagVhzGnZcuP9bSMgMCg",
       "nome": "ge tv",
       "logo": "https://yt3.ggpht.com/dc3tNE8gU99pZ_5gPcl_7U-hKf_Zzguxa4wTSexNKVNAWxli7hblw2BsrdHWASnjXRWciqecfTk=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 2,
+      "totalLives": 1,
       "lives": [
         {
-          "videoId": "ljy_FTVY5Bo",
-          "titulo": "AO VIVO: PALMEIRAS X SANTOS | QUARTAS DE FINAL | COPA DO BRASIL 2026 | ge tv",
-          "thumbnail": "https://i.ytimg.com/vi/ljy_FTVY5Bo/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-26T21:30:00Z",
-          "horarioBrasilia": "26/08, 18:30",
-          "link": "https://www.youtube.com/watch?v=ljy_FTVY5Bo"
-        },
-        {
-          "videoId": "2ocY9xQVQiE",
-          "titulo": "AO VIVO: VASCO X VITÓRIA | QUARTAS DE FINAL | COPA DO BRASIL 2026 | ge tv",
-          "thumbnail": "https://i.ytimg.com/vi/2ocY9xQVQiE/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-26T23:00:00Z",
-          "horarioBrasilia": "26/08, 20:00",
-          "link": "https://www.youtube.com/watch?v=2ocY9xQVQiE"
+          "videoId": "00BoR6Wax0M",
+          "titulo": "AO VIVO: NFL | NEW ENGLAND PATRIOTS X CLEVELAND BROWNS | PRÉ-TEMPORADA 2026/27 | ge tv",
+          "thumbnail": "https://i.ytimg.com/vi/00BoR6Wax0M/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-08-27T23:30:00Z",
+          "horarioBrasilia": "27/08, 20:30",
+          "link": "https://www.youtube.com/watch?v=00BoR6Wax0M"
         }
       ],
       "erro": null
@@ -80,15 +56,23 @@
       "canalId": "UCs-6sCz2LJm1PrWQN4ErsPw",
       "nome": "TNT Sports Brasil",
       "logo": "https://yt3.ggpht.com/VQ2IGEcrhMSpuFb3RFDQOsVV9xI0shwQVorL8VLUGUGaV61Va1UMo4iwFOBVfOsrwTTYET22Hdk=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 1,
+      "totalLives": 2,
       "lives": [
         {
-          "videoId": "jMNi5keT6oA",
-          "titulo": "VALE VAGA NA CHAMPIONS! LYON X FENERBAHÇE (AO VIVO E COM IMAGENS) - UEFA CHAMPIONS LEAGUE 2026/2027",
-          "thumbnail": "https://i.ytimg.com/vi/jMNi5keT6oA/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-26T18:00:00Z",
-          "horarioBrasilia": "26/08, 15:00",
-          "link": "https://www.youtube.com/watch?v=jMNi5keT6oA"
+          "videoId": "s7Li7-tFq-A",
+          "titulo": "AO VIVO: PALMEIRAS 3X0 SANTOS; POR QUE NEYMAR NÃO JOGOU; VASO VENCE NA RAÇA!; SORTEIO DA CHAMPIONS!",
+          "thumbnail": "https://i.ytimg.com/vi/s7Li7-tFq-A/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-08-27T12:00:00Z",
+          "horarioBrasilia": "27/08, 09:00",
+          "link": "https://www.youtube.com/watch?v=s7Li7-tFq-A"
+        },
+        {
+          "videoId": "PwJYxBvkwrQ",
+          "titulo": "AO VIVO: SORTEIO DA FASE DE LIGA DA UEFA CHAMPIONS LEAGUE 2026/2027 COM IMAGENS",
+          "thumbnail": "https://i.ytimg.com/vi/PwJYxBvkwrQ/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-08-27T15:00:00Z",
+          "horarioBrasilia": "27/08, 12:00",
+          "link": "https://www.youtube.com/watch?v=PwJYxBvkwrQ"
         }
       ],
       "erro": null
@@ -97,42 +81,16 @@
       "canalId": "UCw5-xj3AKqEizC7MvHaIPqA",
       "nome": "ESPN Brasil",
       "logo": "https://yt3.ggpht.com/atSFp-_qcwnDISOTP77d1_noGzZ0fQ-ogLumFMNzdDJVWbJwueHbDeeSAezGe0gKgf9zmx8YgQ=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 1,
-      "lives": [
-        {
-          "videoId": "KpPBaRYIWjE",
-          "titulo": "AO VIVO: FANTASY NFL - AS MELHORES DICAS PARA VOCÊ VENCER SUA LIGA! | ESPN",
-          "thumbnail": "https://i.ytimg.com/vi/KpPBaRYIWjE/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-26T18:00:00Z",
-          "horarioBrasilia": "26/08, 15:00",
-          "link": "https://www.youtube.com/watch?v=KpPBaRYIWjE"
-        }
-      ],
+      "totalLives": 0,
+      "lives": [],
       "erro": null
     },
     {
       "canalId": "UC_oToDrJ6uca7d1dFVBmLtg",
       "nome": "Canal GOAT",
       "logo": "https://yt3.ggpht.com/NtXade9YlBhuNpJu5Tcj-PRXH57GtNbON4e6KgaGhZnuqKPDvrhUGcQl88j7F72BKLAaZ72QEow=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 2,
-      "lives": [
-        {
-          "videoId": "3avNMVWCwf0",
-          "titulo": "AL DIRIYAH X AL KHOLOOD | AO VIVO E COM IMAGENS | SAUDI PRO LEAGUE",
-          "thumbnail": "https://i.ytimg.com/vi/3avNMVWCwf0/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-26T17:30:00Z",
-          "horarioBrasilia": "26/08, 14:30",
-          "link": "https://www.youtube.com/watch?v=3avNMVWCwf0"
-        },
-        {
-          "videoId": "r7GV2v4mAEg",
-          "titulo": "NC COURAGE X ANGEL CITY | AO VIVO E COM IMAGENS | NWSL",
-          "thumbnail": "https://i.ytimg.com/vi/r7GV2v4mAEg/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-26T23:30:00Z",
-          "horarioBrasilia": "26/08, 20:30",
-          "link": "https://www.youtube.com/watch?v=r7GV2v4mAEg"
-        }
-      ],
+      "totalLives": 0,
+      "lives": [],
       "erro": null
     },
     {
@@ -147,17 +105,8 @@
       "canalId": "UCf9WJPpsh5BHDY-OeISgIqA",
       "nome": "N Sports",
       "logo": "https://yt3.ggpht.com/tt9WaJh3uawWJUv4upgjMNJgirABgKgaionIiPMTor-5rL5EnszV6sL8KDLOwXmqUZmKfnlu=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 1,
-      "lives": [
-        {
-          "videoId": "lm2m0FwlOd8",
-          "titulo": "🔴 AO VIVO E COM IMAGENS I RALLY DOS SERTÕES ETAPA 4",
-          "thumbnail": "https://i.ytimg.com/vi/lm2m0FwlOd8/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-26T11:00:00Z",
-          "horarioBrasilia": "26/08, 08:00",
-          "link": "https://www.youtube.com/watch?v=lm2m0FwlOd8"
-        }
-      ],
+      "totalLives": 0,
+      "lives": [],
       "erro": null
     },
     {
@@ -175,44 +124,44 @@
       "totalLives": 5,
       "lives": [
         {
-          "videoId": "hpciwre1oos",
-          "titulo": "UOL NEWS ESPORTE AO VIVO | 26 DE AGOSTO",
-          "thumbnail": "https://i.ytimg.com/vi/hpciwre1oos/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-26T11:30:00Z",
-          "horarioBrasilia": "26/08, 08:30",
-          "link": "https://www.youtube.com/watch?v=hpciwre1oos"
+          "videoId": "xIXpa06UYV0",
+          "titulo": "DE PRIMEIRA AO VIVO | 27 DE AGOSTO",
+          "thumbnail": "https://i.ytimg.com/vi/xIXpa06UYV0/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-08-27T16:45:00Z",
+          "horarioBrasilia": "27/08, 13:45",
+          "link": "https://www.youtube.com/watch?v=xIXpa06UYV0"
         },
         {
-          "videoId": "zHVZpUYrI9I",
-          "titulo": "DE PRIMEIRA AO VIVO | 26 DE AGOSTO",
-          "thumbnail": "https://i.ytimg.com/vi/zHVZpUYrI9I/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-26T16:45:00Z",
-          "horarioBrasilia": "26/08, 13:45",
-          "link": "https://www.youtube.com/watch?v=zHVZpUYrI9I"
+          "videoId": "V9QcVZuNwTU",
+          "titulo": "AJAX X SION: AO VIVO | UEFA CONFERENCE LEAGUE | COM IMAGENS E NARRAÇÃO",
+          "thumbnail": "https://i.ytimg.com/vi/V9QcVZuNwTU/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-08-27T17:45:00Z",
+          "horarioBrasilia": "27/08, 14:45",
+          "link": "https://www.youtube.com/watch?v=V9QcVZuNwTU"
         },
         {
-          "videoId": "hkLCLVEKFYg",
-          "titulo": "LIVE DO PALMEIRAS | 26 DE AGOSTO",
-          "thumbnail": "https://i.ytimg.com/vi/hkLCLVEKFYg/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-26T19:00:00Z",
-          "horarioBrasilia": "26/08, 16:00",
-          "link": "https://www.youtube.com/watch?v=hkLCLVEKFYg"
+          "videoId": "WV4RogyOB34",
+          "titulo": "ÚLTIMAS NOTÍCIAS DO ESPORTE | 27 DE AGOSTO",
+          "thumbnail": "https://i.ytimg.com/vi/WV4RogyOB34/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-08-27T20:30:00Z",
+          "horarioBrasilia": "27/08, 17:30",
+          "link": "https://www.youtube.com/watch?v=WV4RogyOB34"
         },
         {
-          "videoId": "yEIIj7SqyCc",
-          "titulo": "ÚLTIMAS NOTÍCIAS DO ESPORTE | 26 DE AGOSTO",
-          "thumbnail": "https://i.ytimg.com/vi/yEIIj7SqyCc/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-26T20:30:00Z",
-          "horarioBrasilia": "26/08, 17:30",
-          "link": "https://www.youtube.com/watch?v=yEIIj7SqyCc"
+          "videoId": "ONBBqt2AUT4",
+          "titulo": "LIVE DO SÃO PAULO AO VIVO | 27 DE AGOSTO",
+          "thumbnail": "https://i.ytimg.com/vi/ONBBqt2AUT4/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-08-27T21:00:00Z",
+          "horarioBrasilia": "27/08, 18:00",
+          "link": "https://www.youtube.com/watch?v=ONBBqt2AUT4"
         },
         {
-          "videoId": "Xn-e2I0TBD8",
-          "titulo": "FIM DE PAPO AO VIVO | 26 DE AGOSTO",
-          "thumbnail": "https://i.ytimg.com/vi/Xn-e2I0TBD8/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-27T02:30:00Z",
-          "horarioBrasilia": "26/08, 23:30",
-          "link": "https://www.youtube.com/watch?v=Xn-e2I0TBD8"
+          "videoId": "fqjrjm7wtvY",
+          "titulo": "FIM DE PAPO AO VIVO | 27 DE AGOSTO",
+          "thumbnail": "https://i.ytimg.com/vi/fqjrjm7wtvY/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-08-28T02:30:00Z",
+          "horarioBrasilia": "27/08, 23:30",
+          "link": "https://www.youtube.com/watch?v=fqjrjm7wtvY"
         }
       ],
       "erro": null
@@ -221,23 +170,97 @@
       "canalId": "UCH-BU-Os3JSo2L8lBQxE8KA",
       "nome": "Xsports",
       "logo": "https://yt3.ggpht.com/CTQyaT5nUAWjH0Vb-WIOrecZ3f4mAlS1N4niAFtIAX-g8gpTxITlkOY-dnRyh3th_1HxJ7KE=s800-c-k-c0x00ffffff-no-rj",
+      "totalLives": 3,
+      "lives": [
+        {
+          "videoId": "1uiYY1DAKz0",
+          "titulo": "ANDERLECHT X KAIRAT ALMATY | ELIMINATÓRIAS DA EUROPA LEAGUE | AO VIVO E COM IMAGENS",
+          "thumbnail": "https://i.ytimg.com/vi/1uiYY1DAKz0/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-08-27T18:30:00Z",
+          "horarioBrasilia": "27/08, 15:30",
+          "link": "https://www.youtube.com/watch?v=1uiYY1DAKz0"
+        },
+        {
+          "videoId": "pM2oD3PZp5o",
+          "titulo": "ESTUDIANTES X BARRACAS CENTRAL | OITAVAS DE FINAL DA COPA ARGENTINA | AO VIVO E COM IMAGENS",
+          "thumbnail": "https://i.ytimg.com/vi/pM2oD3PZp5o/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-08-27T21:50:00Z",
+          "horarioBrasilia": "27/08, 18:50",
+          "link": "https://www.youtube.com/watch?v=pM2oD3PZp5o"
+        },
+        {
+          "videoId": "OXPk0ihlCqU",
+          "titulo": "RODADA XSPORTS | COPA DO BRASIL PEGANDO FOGO, TUDO SOBRE AS QUARTAS DE FINAL!",
+          "thumbnail": "https://i.ytimg.com/vi/OXPk0ihlCqU/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-08-28T01:00:00Z",
+          "horarioBrasilia": "27/08, 22:00",
+          "link": "https://www.youtube.com/watch?v=OXPk0ihlCqU"
+        }
+      ],
+      "erro": null
+    },
+    {
+      "canalId": "UC8RrjoT8ovQ43Le7qvHuoMA",
+      "nome": "Metrópoles Esportes",
+      "logo": "https://yt3.ggpht.com/v8aQZpnGvmyJESJlihwnHykFcQhUw4iXxFC9-DKmjqvP2KzLcUgGvXHnRB0YV47DoAJemkhQsQ=s800-c-k-c0x00ffffff-no-rj",
       "totalLives": 2,
       "lives": [
         {
-          "videoId": "7NQnWNMeQnc",
-          "titulo": "ATLÉTICO ALDOSIVI X INDEPENDIENTE RIVADAVIA | COPA ARGENTINA | AO VIVO E COM IMAGENS",
-          "thumbnail": "https://i.ytimg.com/vi/7NQnWNMeQnc/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-26T22:00:00Z",
-          "horarioBrasilia": "26/08, 19:00",
-          "link": "https://www.youtube.com/watch?v=7NQnWNMeQnc"
+          "videoId": "fk0XegQ2pBU",
+          "titulo": "Verdão atropela o Peixe sem Neymar e Gabigol, Safiel em alta e Grenal nas quartas da Copa do Brasil",
+          "thumbnail": "https://i.ytimg.com/vi/fk0XegQ2pBU/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-08-27T12:30:00Z",
+          "horarioBrasilia": "27/08, 09:30",
+          "link": "https://www.youtube.com/watch?v=fk0XegQ2pBU"
         },
         {
-          "videoId": "Iuj8Fzd2daY",
-          "titulo": "RODADA XSPORTS | TUDO QUE ROLOU NOS CONFRONTOS DE HOJE DA COPA DO BRASIL",
-          "thumbnail": "https://i.ytimg.com/vi/Iuj8Fzd2daY/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-27T02:30:00Z",
-          "horarioBrasilia": "26/08, 23:30",
-          "link": "https://www.youtube.com/watch?v=Iuj8Fzd2daY"
+          "videoId": "hTagPAHE0Kc",
+          "titulo": "NACIONAL x CSA - BRASILEIRÃO SÉRIE D 2026 - AO VIVO E COM IMAGENS - 27.08.26",
+          "thumbnail": "https://i.ytimg.com/vi/hTagPAHE0Kc/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-08-27T23:15:00Z",
+          "horarioBrasilia": "27/08, 20:15",
+          "link": "https://www.youtube.com/watch?v=hTagPAHE0Kc"
+        }
+      ],
+      "erro": null
+    },
+    {
+      "canalId": "UCfi9IhipFGSa0eD_EA8JHrA",
+      "nome": "Canal GoLBrasil ",
+      "logo": "https://yt3.ggpht.com/jH0azzxNbxmjDmzpzqV94Rnq0l3VUzxNinwPx4MqjEOTfkqbiCIxm-M0CQogVux0Z9_QJzy6=s800-c-k-c0x00ffffff-no-rj",
+      "totalLives": 4,
+      "lives": [
+        {
+          "videoId": "3oQh8PtrLh0",
+          "titulo": "AO VIVO: COPENHAGE  X INTER TURKU I UEFA EUROPA LEAGUE I CANAL GOL BRASIL",
+          "thumbnail": "https://i.ytimg.com/vi/3oQh8PtrLh0/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-08-27T17:00:00Z",
+          "horarioBrasilia": "27/08, 14:00",
+          "link": "https://www.youtube.com/watch?v=3oQh8PtrLh0"
+        },
+        {
+          "videoId": "SszGnsAqRGo",
+          "titulo": "AO VIVO: PAFOS X DINAMO CITY I UEFA CONFERENCE LEAGUE I CANAL GOL BRASIL",
+          "thumbnail": "https://i.ytimg.com/vi/SszGnsAqRGo/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-08-27T17:00:00Z",
+          "horarioBrasilia": "27/08, 14:00",
+          "link": "https://www.youtube.com/watch?v=SszGnsAqRGo"
+        },
+        {
+          "videoId": "Bdn6e-s7c1I",
+          "titulo": "AO VIVO: RIJEKA X MIDTJYLLAND I UEFA CONFERENCE LEAGUE I CANAL GOL BRASIL",
+          "thumbnail": "https://i.ytimg.com/vi/Bdn6e-s7c1I/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-08-27T18:45:00Z",
+          "horarioBrasilia": "27/08, 15:45",
+          "link": "https://www.youtube.com/watch?v=Bdn6e-s7c1I"
+        },
+        {
+          "videoId": "POYSj8Aiuec",
+          "titulo": "AO VIVO: ADT X MOQUEGUA I COPA DA LIGA PERUANA I CANAL GOL BRASIL",
+          "thumbnail": "https://i.ytimg.com/vi/POYSj8Aiuec/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-08-27T20:00:00Z",
+          "horarioBrasilia": "27/08, 17:00",
+          "link": "https://www.youtube.com/watch?v=POYSj8Aiuec"
         }
       ],
       "erro": null
