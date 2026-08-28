@@ -1,13 +1,13 @@
 /**
- * lives-do-dia.js
+ * script.js
  *
  * Busca as lives AGENDADAS (upcoming) de um ou mais canais do YouTube e filtra
  * apenas as que vão ao ar em uma data específica (horário de Brasília).
  * Gera um arquivo JSON estruturado com os resultados, separado por canal.
  *
  * Uso:
- *   node lives-do-dia.js                 -> usa a data de hoje
- *   node lives-do-dia.js 2026-08-25       -> usa a data informada (YYYY-MM-DD)
+ *   node script.js                 -> usa a data de hoje
+ *   node script.js 2026-08-25       -> usa a data informada (YYYY-MM-DD)
  *
  * Configure a API_KEY e o CHANNEL_IDS abaixo (ou via variáveis de ambiente).
  */
@@ -36,7 +36,7 @@ const CHANNEL_IDS = process.env.YT_CHANNEL_IDS
       'UCfi9IhipFGSa0eD_EA8JHrA', // Canal GoLBrasil
     ];
 
-// Data passada como argumento (ex: node lives-do-dia.js 2026-08-25)
+// Data passada como argumento (ex: node script.js 2026-08-25)
 const DATA_ARG = process.argv[2]; // formato esperado: YYYY-MM-DD
 
 const BASE_URL = 'https://www.googleapis.com/youtube/v3';
