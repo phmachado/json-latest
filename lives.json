@@ -1,69 +1,52 @@
 {
-  "geradoEm": "2026-08-31T09:58:22.991Z",
-  "data": "2026-08-31",
+  "geradoEm": "2026-09-01T09:58:19.932Z",
+  "data": "2026-09-01",
   "canais": [
     {
       "canalId": "UCZiYbVptd3PVPf4f6eR6UaQ",
       "nome": "CazéTV",
       "logo": "https://yt3.ggpht.com/Zm3t3pgNIYY1HgkWYaWmU3E--oljMiWqX_2Ig4zkxziTkP3VOR9TGUmgJAPu7XrhP06ebxDg=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 5,
-      "lives": [
-        {
-          "videoId": "Sw3CDgTlA5Y",
-          "titulo": "AO VIVO: LECCE X ROMA | SÉRIE A ITALIANA 26/27 | 2ª RODADA",
-          "thumbnail": "https://i.ytimg.com/vi/Sw3CDgTlA5Y/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-31T15:30:00Z",
-          "horarioBrasilia": "31/08, 12:30",
-          "link": "https://www.youtube.com/watch?v=Sw3CDgTlA5Y"
-        },
-        {
-          "videoId": "-yxRpupWAgo",
-          "titulo": "AO VIVO: OSASUNA X GETAFE | LALIGA 26/27 | 3ª RODADA",
-          "thumbnail": "https://i.ytimg.com/vi/-yxRpupWAgo/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-31T17:15:00Z",
-          "horarioBrasilia": "31/08, 14:15",
-          "link": "https://www.youtube.com/watch?v=-yxRpupWAgo"
-        },
-        {
-          "videoId": "e1xt2UsGPuY",
-          "titulo": "AO VIVO: BARCELONA X RAYO VALLECANO | LA LIGA 26/27 | 3ª RODADA",
-          "thumbnail": "https://i.ytimg.com/vi/e1xt2UsGPuY/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-31T18:30:00Z",
-          "horarioBrasilia": "31/08, 15:30",
-          "link": "https://www.youtube.com/watch?v=e1xt2UsGPuY"
-        },
-        {
-          "videoId": "76im1couC9M",
-          "titulo": "AO VIVO: BRASIL X MÉXICO | ELIMINATÓRIAS PARA A COPA DO MUNDO DE BASQUETE",
-          "thumbnail": "https://i.ytimg.com/vi/76im1couC9M/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-31T21:20:00Z",
-          "horarioBrasilia": "31/08, 18:20",
-          "link": "https://www.youtube.com/watch?v=76im1couC9M"
-        },
-        {
-          "videoId": "cOs2EcjYQMQ",
-          "titulo": "AO VIVO: GERAL CAZÉTV | 31/08",
-          "thumbnail": "https://i.ytimg.com/vi/cOs2EcjYQMQ/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-31T21:30:00Z",
-          "horarioBrasilia": "31/08, 18:30",
-          "link": "https://www.youtube.com/watch?v=cOs2EcjYQMQ"
-        }
-      ],
+      "totalLives": 0,
+      "lives": [],
       "erro": null
     },
     {
       "canalId": "UCgCKagVhzGnZcuP9bSMgMCg",
       "nome": "ge tv",
       "logo": "https://yt3.ggpht.com/dc3tNE8gU99pZ_5gPcl_7U-hKf_Zzguxa4wTSexNKVNAWxli7hblw2BsrdHWASnjXRWciqecfTk=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 1,
+      "totalLives": 4,
       "lives": [
         {
-          "videoId": "hbkcfzRvfZM",
-          "titulo": "AO VIVO! FLAMENGO X BOTAFOGO, CORINTHIANS X SANTOS E OS CLÁSSICOS DA COPA DO BRASIL! | Panela sportv",
-          "thumbnail": "https://i.ytimg.com/vi/hbkcfzRvfZM/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-31T20:00:00Z",
-          "horarioBrasilia": "31/08, 17:00",
-          "link": "https://www.youtube.com/watch?v=hbkcfzRvfZM"
+          "videoId": "pzaSFECkw2I",
+          "titulo": "AO VIVO! PRIMEIRA DESCIDA DEBATE RETORNO DE AARON DONALD AO RAMS E MAIS! #podcast | ge.globo",
+          "thumbnail": "https://i.ytimg.com/vi/pzaSFECkw2I/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-01T14:00:00Z",
+          "horarioBrasilia": "01/09, 11:00",
+          "link": "https://www.youtube.com/watch?v=pzaSFECkw2I"
+        },
+        {
+          "videoId": "Ik_hqsA5A34",
+          "titulo": "AO VIVO! NA PONTA DOS DEDOS RECEBE FELIPE MASSA  | #podcast | ge.globo",
+          "thumbnail": "https://i.ytimg.com/vi/Ik_hqsA5A34/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-01T17:00:00Z",
+          "horarioBrasilia": "01/09, 14:00",
+          "link": "https://www.youtube.com/watch?v=Ik_hqsA5A34"
+        },
+        {
+          "videoId": "fI5Ir7cegks",
+          "titulo": "AO VIVO! ATLÉTICO-MG X CRUZEIRO, SANTOS X PALMEIRAS, GRENAL e muita COPA DO BRASIL! | Denilson Show",
+          "thumbnail": "https://i.ytimg.com/vi/fI5Ir7cegks/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-01T21:00:00Z",
+          "horarioBrasilia": "01/09, 18:00",
+          "link": "https://www.youtube.com/watch?v=fI5Ir7cegks"
+        },
+        {
+          "videoId": "zAesOWYFZfg",
+          "titulo": "ATLÉTICO-MG X CRUZEIRO | AQUECIMENTO AO VIVO | COPA DO BRASIL 2026 | #live | sportv",
+          "thumbnail": "https://i.ytimg.com/vi/zAesOWYFZfg/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-01T22:00:00Z",
+          "horarioBrasilia": "01/09, 19:00",
+          "link": "https://www.youtube.com/watch?v=zAesOWYFZfg"
         }
       ],
       "erro": null
@@ -80,33 +63,25 @@
       "canalId": "UCw5-xj3AKqEizC7MvHaIPqA",
       "nome": "ESPN Brasil",
       "logo": "https://yt3.ggpht.com/atSFp-_qcwnDISOTP77d1_noGzZ0fQ-ogLumFMNzdDJVWbJwueHbDeeSAezGe0gKgf9zmx8YgQ=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 2,
-      "lives": [
-        {
-          "videoId": "q1P-YM0_abQ",
-          "titulo": "ASTON VILLA X ARSENAL AO VIVO: GAMEDAY ESPN COM REACT DA TROPA DO TYLTY",
-          "thumbnail": "https://i.ytimg.com/vi/q1P-YM0_abQ/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-31T18:40:00Z",
-          "horarioBrasilia": "31/08, 15:40",
-          "link": "https://www.youtube.com/watch?v=q1P-YM0_abQ"
-        },
-        {
-          "videoId": "YoXhyTBJzOc",
-          "titulo": "FORTALEZA X OPERÁRIO-PR AO VIVO: SÉRIE B ABRE O JOGO | B DE BOLA 41",
-          "thumbnail": "https://i.ytimg.com/vi/YoXhyTBJzOc/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-31T21:00:00Z",
-          "horarioBrasilia": "31/08, 18:00",
-          "link": "https://www.youtube.com/watch?v=YoXhyTBJzOc"
-        }
-      ],
+      "totalLives": 0,
+      "lives": [],
       "erro": null
     },
     {
       "canalId": "UC_oToDrJ6uca7d1dFVBmLtg",
       "nome": "Canal GOAT",
       "logo": "https://yt3.ggpht.com/NtXade9YlBhuNpJu5Tcj-PRXH57GtNbON4e6KgaGhZnuqKPDvrhUGcQl88j7F72BKLAaZ72QEow=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 0,
-      "lives": [],
+      "totalLives": 1,
+      "lives": [
+        {
+          "videoId": "tubPx2KwBGI",
+          "titulo": "AL HILAL X AL AHLI | AO VIVO E COM IMAGENS | SAUDI PRO LEAGUE",
+          "thumbnail": "https://i.ytimg.com/vi/tubPx2KwBGI/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-01T17:30:00Z",
+          "horarioBrasilia": "01/09, 14:30",
+          "link": "https://www.youtube.com/watch?v=tubPx2KwBGI"
+        }
+      ],
       "erro": null
     },
     {
@@ -121,15 +96,23 @@
       "canalId": "UCf9WJPpsh5BHDY-OeISgIqA",
       "nome": "N Sports",
       "logo": "https://yt3.ggpht.com/tt9WaJh3uawWJUv4upgjMNJgirABgKgaionIiPMTor-5rL5EnszV6sL8KDLOwXmqUZmKfnlu=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 1,
+      "totalLives": 2,
       "lives": [
         {
-          "videoId": "12KXJUkBM6A",
-          "titulo": "🔴 AO VIVO E COM IMAGENS I BAHIA X PALMEIRAS I QUARTAS DE FINAL I BRASILEIRÃO FEMININO 2026",
-          "thumbnail": "https://i.ytimg.com/vi/12KXJUkBM6A/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-31T23:30:00Z",
-          "horarioBrasilia": "31/08, 20:30",
-          "link": "https://www.youtube.com/watch?v=12KXJUkBM6A"
+          "videoId": "4m8ai_jwtyI",
+          "titulo": "DEU JOGO 01/09/2026",
+          "thumbnail": "https://i.ytimg.com/vi/4m8ai_jwtyI/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-01T14:00:00Z",
+          "horarioBrasilia": "01/09, 11:00",
+          "link": "https://www.youtube.com/watch?v=4m8ai_jwtyI"
+        },
+        {
+          "videoId": "5jlpZYnnm5w",
+          "titulo": "🔴 AO VIVO E COM IMAGENS | STOKE CITY X NORWICH | EFL CHAMPIONSHIP 2026/27",
+          "thumbnail": "https://i.ytimg.com/vi/5jlpZYnnm5w/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-01T18:45:00Z",
+          "horarioBrasilia": "01/09, 15:45",
+          "link": "https://www.youtube.com/watch?v=5jlpZYnnm5w"
         }
       ],
       "erro": null
@@ -141,20 +124,20 @@
       "totalLives": 2,
       "lives": [
         {
-          "videoId": "dgls-diuFP4",
-          "titulo": "LEVADIAKOS X PANATHINAIKOS: AO VIVO, COM IMAGENS E EXCLUSIVO | RODADA 2 | CAMPEONATO GREGO",
-          "thumbnail": "https://i.ytimg.com/vi/dgls-diuFP4/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-31T16:15:00Z",
-          "horarioBrasilia": "31/08, 13:15",
-          "link": "https://www.youtube.com/watch?v=dgls-diuFP4"
+          "videoId": "avDqdJEHGZk",
+          "titulo": "PARMA X CREMONESE: AO VIVO, COM IMAGENS E EXCLUSIVO | RODADA 2 | COPA DA ITÁLIA",
+          "thumbnail": "https://i.ytimg.com/vi/avDqdJEHGZk/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-01T15:45:00Z",
+          "horarioBrasilia": "01/09, 12:45",
+          "link": "https://www.youtube.com/watch?v=avDqdJEHGZk"
         },
         {
-          "videoId": "wgGX47o7Ew8",
-          "titulo": "ATALANTA X BOLOGNA: AO VIVO E COM IMAGENS | RODADA 2 | SERIE A",
-          "thumbnail": "https://i.ytimg.com/vi/wgGX47o7Ew8/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-31T18:30:00Z",
-          "horarioBrasilia": "31/08, 15:30",
-          "link": "https://www.youtube.com/watch?v=wgGX47o7Ew8"
+          "videoId": "PFVVOUK6858",
+          "titulo": "TORINO X MONZA: AO VIVO, COM IMAGENS E EXCLUSIVO | RODADA 2 | COPA DA ITÁLIA",
+          "thumbnail": "https://i.ytimg.com/vi/PFVVOUK6858/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-01T18:45:00Z",
+          "horarioBrasilia": "01/09, 15:45",
+          "link": "https://www.youtube.com/watch?v=PFVVOUK6858"
         }
       ],
       "erro": null
@@ -163,39 +146,15 @@
       "canalId": "UC3KHYFWeB0WimMBfm3NEahQ",
       "nome": "UOL Esporte",
       "logo": "https://yt3.ggpht.com/WnRMVUq4sj-Q1bAp8yz9y7WqUzqcbSZYQMkeMlHF1Kdv0fa39fw1zf3ylt1cil-ntjuL-s21TA=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 4,
+      "totalLives": 1,
       "lives": [
         {
-          "videoId": "JhA2Xf6oBVg",
-          "titulo": "POSSE DE BOLA AO VIVO COM MAURO CEZAR, ARNALDO RIBEIRO, TIRONI, JUCA KFOURI, TRAJANO E LAVIERI",
-          "thumbnail": "https://i.ytimg.com/vi/JhA2Xf6oBVg/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-31T11:30:00Z",
-          "horarioBrasilia": "31/08, 08:30",
-          "link": "https://www.youtube.com/watch?v=JhA2Xf6oBVg"
-        },
-        {
-          "videoId": "yl0CQpyGmuk",
-          "titulo": "DE PRIMEIRA AO VIVO | 31 DE AGOSTO",
-          "thumbnail": "https://i.ytimg.com/vi/yl0CQpyGmuk/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-31T16:30:00Z",
-          "horarioBrasilia": "31/08, 13:30",
-          "link": "https://www.youtube.com/watch?v=yl0CQpyGmuk"
-        },
-        {
-          "videoId": "I_2QHBpK57I",
-          "titulo": "ÚLTIMAS NOTÍCIAS DO ESPORTE | 31 DE AGOSTO",
-          "thumbnail": "https://i.ytimg.com/vi/I_2QHBpK57I/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-31T20:30:00Z",
-          "horarioBrasilia": "31/08, 17:30",
-          "link": "https://www.youtube.com/watch?v=I_2QHBpK57I"
-        },
-        {
-          "videoId": "3EsiF_fySZY",
-          "titulo": "LIVE DO FLAMENGO | 31 DE AGOSTO",
-          "thumbnail": "https://i.ytimg.com/vi/3EsiF_fySZY/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-31T21:00:00Z",
-          "horarioBrasilia": "31/08, 18:00",
-          "link": "https://www.youtube.com/watch?v=3EsiF_fySZY"
+          "videoId": "exhE-sTn4uw",
+          "titulo": "UOL NEWS ESPORTE AO VIVO | 1 DE SETEMBRO",
+          "thumbnail": "https://i.ytimg.com/vi/exhE-sTn4uw/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-01T11:30:00Z",
+          "horarioBrasilia": "01/09, 08:30",
+          "link": "https://www.youtube.com/watch?v=exhE-sTn4uw"
         }
       ],
       "erro": null
@@ -204,39 +163,32 @@
       "canalId": "UCH-BU-Os3JSo2L8lBQxE8KA",
       "nome": "Xsports",
       "logo": "https://yt3.ggpht.com/CTQyaT5nUAWjH0Vb-WIOrecZ3f4mAlS1N4niAFtIAX-g8gpTxITlkOY-dnRyh3th_1HxJ7KE=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 0,
-      "lives": [],
+      "totalLives": 1,
+      "lives": [
+        {
+          "videoId": "rQvANBBsPqs",
+          "titulo": "RODADA XSPORTS | TUDO QUE ROLOU EM CRUZEIRO E ATLÉTICO-MG NO JOGO DE VOLTA DA COPA DO BRASIL!",
+          "thumbnail": "https://i.ytimg.com/vi/rQvANBBsPqs/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-02T02:00:00Z",
+          "horarioBrasilia": "01/09, 23:00",
+          "link": "https://www.youtube.com/watch?v=rQvANBBsPqs"
+        }
+      ],
       "erro": null
     },
     {
       "canalId": "UC8RrjoT8ovQ43Le7qvHuoMA",
       "nome": "Metrópoles Esportes",
       "logo": "https://yt3.ggpht.com/v8aQZpnGvmyJESJlihwnHykFcQhUw4iXxFC9-DKmjqvP2KzLcUgGvXHnRB0YV47DoAJemkhQsQ=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 3,
+      "totalLives": 1,
       "lives": [
         {
-          "videoId": "y5AZJRz1k8k",
-          "titulo": "METRÓPOLES 90 MINUTOS - AO VIVO - 31.08.26",
-          "thumbnail": "https://i.ytimg.com/vi/y5AZJRz1k8k/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-31T12:30:00Z",
-          "horarioBrasilia": "31/08, 09:30",
-          "link": "https://www.youtube.com/watch?v=y5AZJRz1k8k"
-        },
-        {
-          "videoId": "fpJ0txDXntc",
-          "titulo": "GRÊMIO PRUDENTE x PAULISTA - COPA PAULISTA 2026 - AO VIVO E COM IMAGENS - 31.08.26",
-          "thumbnail": "https://i.ytimg.com/vi/fpJ0txDXntc/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-31T22:15:00Z",
-          "horarioBrasilia": "31/08, 19:15",
-          "link": "https://www.youtube.com/watch?v=fpJ0txDXntc"
-        },
-        {
-          "videoId": "-xNGjGAntS0",
-          "titulo": "COMERCIAL x EC SÃO BERNARDO - COPA PAULISTA 2026 - AO VIVO E COM IMAGENS - 31.08.26",
-          "thumbnail": "https://i.ytimg.com/vi/-xNGjGAntS0/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-31T22:45:00Z",
-          "horarioBrasilia": "31/08, 19:45",
-          "link": "https://www.youtube.com/watch?v=-xNGjGAntS0"
+          "videoId": "cM-nV7nXcJ0",
+          "titulo": "METRÓPOLES 90 MINUTOS - AO VIVO - 01.09.26",
+          "thumbnail": "https://i.ytimg.com/vi/cM-nV7nXcJ0/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-01T12:30:00Z",
+          "horarioBrasilia": "01/09, 09:30",
+          "link": "https://www.youtube.com/watch?v=cM-nV7nXcJ0"
         }
       ],
       "erro": null
@@ -245,23 +197,15 @@
       "canalId": "UCfi9IhipFGSa0eD_EA8JHrA",
       "nome": "Canal GoLBrasil ",
       "logo": "https://yt3.ggpht.com/jH0azzxNbxmjDmzpzqV94Rnq0l3VUzxNinwPx4MqjEOTfkqbiCIxm-M0CQogVux0Z9_QJzy6=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 2,
+      "totalLives": 1,
       "lives": [
         {
-          "videoId": "I3bsyfy3dE4",
-          "titulo": "AOVIVO: SIRIUS X MALMO I ALLSVENSKAN I CANAL GOL BRASIL",
-          "thumbnail": "https://i.ytimg.com/vi/I3bsyfy3dE4/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-31T17:00:00Z",
-          "horarioBrasilia": "31/08, 14:00",
-          "link": "https://www.youtube.com/watch?v=I3bsyfy3dE4"
-        },
-        {
-          "videoId": "BEIOz5VFWVs",
-          "titulo": "AO VIVO: SOCCA WORLD CUP I DIA 4 I CANAL GOL BRASIL",
-          "thumbnail": "https://i.ytimg.com/vi/BEIOz5VFWVs/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-08-31T19:00:00Z",
-          "horarioBrasilia": "31/08, 16:00",
-          "link": "https://www.youtube.com/watch?v=BEIOz5VFWVs"
+          "videoId": "BJz0wxFnW1A",
+          "titulo": "AO VIVO: SOCCA WORLD CUP I DIA 5 I CANAL GOL BRASIL",
+          "thumbnail": "https://i.ytimg.com/vi/BJz0wxFnW1A/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-01T17:00:00Z",
+          "horarioBrasilia": "01/09, 14:00",
+          "link": "https://www.youtube.com/watch?v=BJz0wxFnW1A"
         }
       ],
       "erro": null
