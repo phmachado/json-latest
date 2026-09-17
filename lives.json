@@ -1,140 +1,124 @@
 {
-  "geradoEm": "2026-09-16T09:58:18.423Z",
-  "data": "2026-09-16",
+  "geradoEm": "2026-09-17T09:58:19.993Z",
+  "data": "2026-09-17",
   "canais": [
     {
       "canalId": "UCZiYbVptd3PVPf4f6eR6UaQ",
       "nome": "CazéTV",
       "logo": "https://yt3.ggpht.com/Zm3t3pgNIYY1HgkWYaWmU3E--oljMiWqX_2Ig4zkxziTkP3VOR9TGUmgJAPu7XrhP06ebxDg=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 16,
+      "totalLives": 14,
       "lives": [
         {
-          "videoId": "7QWgeSfwbCE",
-          "titulo": "AO VIVO: BRASIL X ESTADOS UNIDOS | COPA DO MUNDO FEMININA SUB-20 FIFA 2026 | OITAVAS DE FINAL",
-          "thumbnail": "https://i.ytimg.com/vi/7QWgeSfwbCE/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-16T12:00:00Z",
-          "horarioBrasilia": "16/09, 09:00",
-          "link": "https://www.youtube.com/watch?v=7QWgeSfwbCE"
+          "videoId": "B-HPksUoZYI",
+          "titulo": "AO VIVO: FRANÇA X CANADÁ | COPA DO MUNDO FEMININA SUB-20 FIFA 2026 | OITAVAS DE FINAL",
+          "thumbnail": "https://i.ytimg.com/vi/B-HPksUoZYI/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-17T12:30:00Z",
+          "horarioBrasilia": "17/09, 09:30",
+          "link": "https://www.youtube.com/watch?v=B-HPksUoZYI"
         },
         {
-          "videoId": "7BrgId-CZZo",
-          "titulo": "AO VIVO: ESPANHA X PORTUGAL | COPA DO MUNDO FEMININA SUB-20 FIFA 2026 | OITAVAS DE FINAL",
-          "thumbnail": "https://i.ytimg.com/vi/7BrgId-CZZo/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-16T16:00:00Z",
-          "horarioBrasilia": "16/09, 13:00",
-          "link": "https://www.youtube.com/watch?v=7BrgId-CZZo"
+          "videoId": "jEjVOYt-32Y",
+          "titulo": "AO VIVO: SORTEIO DA COPA DAVIS | QUADRA ABERTA",
+          "thumbnail": "https://i.ytimg.com/vi/jEjVOYt-32Y/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-17T14:00:00Z",
+          "horarioBrasilia": "17/09, 11:00",
+          "link": "https://www.youtube.com/watch?v=jEjVOYt-32Y"
         },
         {
-          "videoId": "1QMyDw_DwkQ",
-          "titulo": "AO VIVO: ATLÉTICO DE MADRID X OSASUNA | LALIGA 26/27 | 6ª RODADA",
-          "thumbnail": "https://i.ytimg.com/vi/1QMyDw_DwkQ/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-16T16:15:00Z",
-          "horarioBrasilia": "16/09, 13:15",
-          "link": "https://www.youtube.com/watch?v=1QMyDw_DwkQ"
+          "videoId": "yzs_24bXpWg",
+          "titulo": "AO VIVO: REAL BETIS X GETAFE | LALIGA 26/27 | 6ª RODADA",
+          "thumbnail": "https://i.ytimg.com/vi/yzs_24bXpWg/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-17T16:30:00Z",
+          "horarioBrasilia": "17/09, 13:30",
+          "link": "https://www.youtube.com/watch?v=yzs_24bXpWg"
         },
         {
-          "videoId": "J9WOSCUhin4",
-          "titulo": "AO VIVO (SOM AMBIENTE): ARARAT-ARMENIA X SPARTA PRAHA | EUROPA LEAGUE 26/27 | 1ª RODADA",
-          "thumbnail": "https://i.ytimg.com/vi/J9WOSCUhin4/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-16T16:35:00Z",
-          "horarioBrasilia": "16/09, 13:35",
-          "link": "https://www.youtube.com/watch?v=J9WOSCUhin4"
+          "videoId": "CwfSNkwowzw",
+          "titulo": "AO VIVO (SOM AMBIENTE): OFI X HOFFENHEIM | EUROPA LEAGUE 26/27 | 1ª RODADA",
+          "thumbnail": "https://i.ytimg.com/vi/CwfSNkwowzw/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-17T16:40:00Z",
+          "horarioBrasilia": "17/09, 13:40",
+          "link": "https://www.youtube.com/watch?v=CwfSNkwowzw"
         },
         {
-          "videoId": "ukN6dbIMZ6U",
-          "titulo": "AO VIVO (SOM AMBIENTE): OMONIA X CELTA | EUROPA LEAGUE 26/27 | 1ª RODADA",
-          "thumbnail": "https://i.ytimg.com/vi/ukN6dbIMZ6U/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-16T16:35:00Z",
-          "horarioBrasilia": "16/09, 13:35",
-          "link": "https://www.youtube.com/watch?v=ukN6dbIMZ6U"
+          "videoId": "OfxVU_xLCco",
+          "titulo": "AO VIVO (SOM AMBIENTE): LEVSKI SOFIA X FC SALZBURG | EUROPA LEAGUE 26/27 | 1ª RODADA",
+          "thumbnail": "https://i.ytimg.com/vi/OfxVU_xLCco/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-17T16:40:00Z",
+          "horarioBrasilia": "17/09, 13:40",
+          "link": "https://www.youtube.com/watch?v=OfxVU_xLCco"
         },
         {
-          "videoId": "6UKjXIVHQDg",
-          "titulo": "AO VIVO: SUNDERLAND X AZ-ALKMAAR | EUROPA LEAGUE 26/27 | 1ª RODADA",
-          "thumbnail": "https://i.ytimg.com/vi/6UKjXIVHQDg/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-16T17:20:00Z",
-          "horarioBrasilia": "16/09, 14:20",
-          "link": "https://www.youtube.com/watch?v=6UKjXIVHQDg"
+          "videoId": "hy1RIIN7q7Q",
+          "titulo": "AO VIVO: JUVENTUS X NEC NIJMEGEN | EUROPA LEAGUE 26/27 | 1ª RODADA",
+          "thumbnail": "https://i.ytimg.com/vi/hy1RIIN7q7Q/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-17T17:45:00Z",
+          "horarioBrasilia": "17/09, 14:45",
+          "link": "https://www.youtube.com/watch?v=hy1RIIN7q7Q"
         },
         {
-          "videoId": "wAce0KbmUNo",
-          "titulo": "AO VIVO: MILAN X BENFICA | EUROPA LEAGUE 26/27 | 1ª RODADA",
-          "thumbnail": "https://i.ytimg.com/vi/wAce0KbmUNo/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-16T17:20:00Z",
-          "horarioBrasilia": "16/09, 14:20",
-          "link": "https://www.youtube.com/watch?v=wAce0KbmUNo"
+          "videoId": "5VTY1Pp43Ks",
+          "titulo": "AO VIVO: BEŞIKTAŞ X OLYMPIQUE MARSEILLE | EUROPA LEAGUE 26/27 | 1ª RODADA",
+          "thumbnail": "https://i.ytimg.com/vi/5VTY1Pp43Ks/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-17T17:45:00Z",
+          "horarioBrasilia": "17/09, 14:45",
+          "link": "https://www.youtube.com/watch?v=5VTY1Pp43Ks"
         },
         {
-          "videoId": "30wBl9ZJTRA",
-          "titulo": "AO VIVO: BARCELONA X RACING CLUB | LALIGA 26/27 | 6ª RODADA",
-          "thumbnail": "https://i.ytimg.com/vi/30wBl9ZJTRA/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-16T18:50:00Z",
-          "horarioBrasilia": "16/09, 15:50",
-          "link": "https://www.youtube.com/watch?v=30wBl9ZJTRA"
+          "videoId": "mJRl1XVq4Fo",
+          "titulo": "AO VIVO: REAL SOCIEDAD X BOURNEMOUTH | EUROPA LEAGUE 26/27 | 1ª RODADA",
+          "thumbnail": "https://i.ytimg.com/vi/mJRl1XVq4Fo/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-17T17:45:00Z",
+          "horarioBrasilia": "17/09, 14:45",
+          "link": "https://www.youtube.com/watch?v=mJRl1XVq4Fo"
         },
         {
-          "videoId": "3Y2o08-E6w4",
-          "titulo": "AO VIVO (SOM AMBIENTE): HAPOEL BEER SHEVA X DINAMO ZAGREB | EUROPA LEAGUE 26/27 | 1ª RODADA",
-          "thumbnail": "https://i.ytimg.com/vi/3Y2o08-E6w4/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-16T18:50:00Z",
-          "horarioBrasilia": "16/09, 15:50",
-          "link": "https://www.youtube.com/watch?v=3Y2o08-E6w4"
+          "videoId": "BdTU64EwnxU",
+          "titulo": "AO VIVO (SOM AMBIENTE): CELTIC X FERENCVÁROSI | EUROPA LEAGUE 26/27 | 1ª RODADA",
+          "thumbnail": "https://i.ytimg.com/vi/BdTU64EwnxU/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-17T18:45:00Z",
+          "horarioBrasilia": "17/09, 15:45",
+          "link": "https://www.youtube.com/watch?v=BdTU64EwnxU"
         },
         {
-          "videoId": "3bcoT9HlSzs",
-          "titulo": "AO VIVO (SOM AMBIENTE): STURM GRAZ X RENNES | EUROPA LEAGUE 26/27 | 1ª RODADA",
-          "thumbnail": "https://i.ytimg.com/vi/3bcoT9HlSzs/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-16T18:50:00Z",
-          "horarioBrasilia": "16/09, 15:50",
-          "link": "https://www.youtube.com/watch?v=3bcoT9HlSzs"
+          "videoId": "GcCcyu3ORIE",
+          "titulo": "AO VIVO (SOM AMBIENTE): LILLESTROM X TORREENSE | EUROPA LEAGUE 26/27 | 1ª RODADA",
+          "thumbnail": "https://i.ytimg.com/vi/GcCcyu3ORIE/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-17T18:45:00Z",
+          "horarioBrasilia": "17/09, 15:45",
+          "link": "https://www.youtube.com/watch?v=GcCcyu3ORIE"
         },
         {
-          "videoId": "KfwFmyhne_M",
-          "titulo": "AO VIVO (SOM AMBIENTE): OLYMPIAKOS X JAGIELLONIA | EUROPA LEAGUE 26/27 | 1ª RODADA",
-          "thumbnail": "https://i.ytimg.com/vi/KfwFmyhne_M/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-16T18:50:00Z",
-          "horarioBrasilia": "16/09, 15:50",
-          "link": "https://www.youtube.com/watch?v=KfwFmyhne_M"
+          "videoId": "th0JC76LafQ",
+          "titulo": "AO VIVO (SOM AMBIENTE): CRYSTAL PALACE X LECH POZNAŃ | EUROPA LEAGUE 26/27 | 1ª RODADA",
+          "thumbnail": "https://i.ytimg.com/vi/th0JC76LafQ/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-17T18:45:00Z",
+          "horarioBrasilia": "17/09, 15:45",
+          "link": "https://www.youtube.com/watch?v=th0JC76LafQ"
         },
         {
-          "videoId": "KdvQRYB-FN0",
-          "titulo": "AO VIVO (SOM AMBIENTE): ANDERLECHT X LYON | EUROPA LEAGUE 2026 | 1ª RODADA",
-          "thumbnail": "https://i.ytimg.com/vi/KdvQRYB-FN0/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-16T18:50:00Z",
-          "horarioBrasilia": "16/09, 15:50",
-          "link": "https://www.youtube.com/watch?v=KdvQRYB-FN0"
+          "videoId": "HVzaY_ht_PQ",
+          "titulo": "AO VIVO (SOM AMBIENTE): VIKTORIA PLZEŇ X UNION SAINT-GILLOISE | EUROPA LEAGUE 26/27 | 1ª RODADA",
+          "thumbnail": "https://i.ytimg.com/vi/HVzaY_ht_PQ/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-17T18:55:00Z",
+          "horarioBrasilia": "17/09, 15:55",
+          "link": "https://www.youtube.com/watch?v=HVzaY_ht_PQ"
         },
         {
-          "videoId": "htjHXQkNjX4",
-          "titulo": "AO VIVO (SOM AMBIENTE): BAYER LEVERKUSEN X NK CELJE | EUROPA LEAGUE 26/27 | 1ª RODADA",
-          "thumbnail": "https://i.ytimg.com/vi/htjHXQkNjX4/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-16T18:50:00Z",
-          "horarioBrasilia": "16/09, 15:50",
-          "link": "https://www.youtube.com/watch?v=htjHXQkNjX4"
+          "videoId": "Ix-sWy4C9LY",
+          "titulo": "AO VIVO: A EUROPA LEAGUE ESTÁ DE VOLTA! FLAMENGO DECIDE VAGA NA SEMIFINAL! | SEIS EM UM",
+          "thumbnail": "https://i.ytimg.com/vi/Ix-sWy4C9LY/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-17T20:50:00Z",
+          "horarioBrasilia": "17/09, 17:50",
+          "link": "https://www.youtube.com/watch?v=Ix-sWy4C9LY"
         },
         {
-          "videoId": "SuILXk_Ge_k",
-          "titulo": "AO VIVO: LEVANTE X ATHLETIC CLUB BILBAO | LALIGA 26/27 | 6ª RODADA",
-          "thumbnail": "https://i.ytimg.com/vi/SuILXk_Ge_k/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-16T19:15:00Z",
-          "horarioBrasilia": "16/09, 16:15",
-          "link": "https://www.youtube.com/watch?v=SuILXk_Ge_k"
-        },
-        {
-          "videoId": "F5ETwTcA0cY",
-          "titulo": "PALMEIRAS X LDU E ATLÉTICO-MG X SANTOS | LIBERTADORES E SUL-AMERICANA | NARRAÇÃO AO VIVO",
-          "thumbnail": "https://i.ytimg.com/vi/F5ETwTcA0cY/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-16T21:20:00Z",
-          "horarioBrasilia": "16/09, 18:20",
-          "link": "https://www.youtube.com/watch?v=F5ETwTcA0cY"
-        },
-        {
-          "videoId": "dTnAnbIOwOI",
-          "titulo": "AO VIVO: PÓS-LIBERTADORES E SUL-AMERICANA | GERAL CAZÉTV",
-          "thumbnail": "https://i.ytimg.com/vi/dTnAnbIOwOI/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-16T23:50:00Z",
-          "horarioBrasilia": "16/09, 20:50",
-          "link": "https://www.youtube.com/watch?v=dTnAnbIOwOI"
+          "videoId": "E4Ilm886VgI",
+          "titulo": "FLAMENGO X INDEPENDIENTE DEL VALLE | LIBERTADORES | NARRAÇÃO AO VIVO | NOCHE DE COPA",
+          "thumbnail": "https://i.ytimg.com/vi/E4Ilm886VgI/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-17T23:00:00Z",
+          "horarioBrasilia": "17/09, 20:00",
+          "link": "https://www.youtube.com/watch?v=E4Ilm886VgI"
         }
       ],
       "erro": null
@@ -146,20 +130,20 @@
       "totalLives": 2,
       "lives": [
         {
-          "videoId": "5KDhDlchdFI",
-          "titulo": "AO VIVO: SUPER PRÉ-JOGO DE CORINTHIANS X ESTUDIANTES | QUARTAS DE FINAL | LIBERTADORES 2026 | ge tv",
-          "thumbnail": "https://i.ytimg.com/vi/5KDhDlchdFI/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-16T20:30:00Z",
-          "horarioBrasilia": "16/09, 17:30",
-          "link": "https://www.youtube.com/watch?v=5KDhDlchdFI"
+          "videoId": "87NerY2s9V8",
+          "titulo": "AO VIVO: BUFFALO BILLS X DETROIT LIONS | NFL 2026/27 | ge tv",
+          "thumbnail": "https://i.ytimg.com/vi/87NerY2s9V8/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-17T23:30:00Z",
+          "horarioBrasilia": "17/09, 20:30",
+          "link": "https://www.youtube.com/watch?v=87NerY2s9V8"
         },
         {
-          "videoId": "NiqY3agWAQM",
-          "titulo": "AO VIVO: CORINTHIANS X ESTUDIANTES | QUARTAS DE FINAL | LIBERTADORES 2026 | ge tv",
-          "thumbnail": "https://i.ytimg.com/vi/NiqY3agWAQM/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-16T22:30:00Z",
-          "horarioBrasilia": "16/09, 19:30",
-          "link": "https://www.youtube.com/watch?v=NiqY3agWAQM"
+          "videoId": "wBLq8Y3-P5c",
+          "titulo": "FLAMENGO X INDEPEDIENTE DEL VALLE | NARRAÇÃO AO VIVO | LIBERTADORES 2026 | ge tv",
+          "thumbnail": "https://i.ytimg.com/vi/wBLq8Y3-P5c/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-17T23:30:00Z",
+          "horarioBrasilia": "17/09, 20:30",
+          "link": "https://www.youtube.com/watch?v=wBLq8Y3-P5c"
         }
       ],
       "erro": null
@@ -176,31 +160,23 @@
       "canalId": "UCw5-xj3AKqEizC7MvHaIPqA",
       "nome": "ESPN Brasil",
       "logo": "https://yt3.ggpht.com/atSFp-_qcwnDISOTP77d1_noGzZ0fQ-ogLumFMNzdDJVWbJwueHbDeeSAezGe0gKgf9zmx8YgQ=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 3,
+      "totalLives": 2,
       "lives": [
         {
-          "videoId": "DmVpozPaw2w",
-          "titulo": "ATLÉTICO-MG X SANTOS AO VIVO: QUARTAS DE FINAL DA CONMEBOL SUL-AMERICANA | PRÉ-JOGO",
-          "thumbnail": "https://i.ytimg.com/vi/DmVpozPaw2w/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-16T20:00:00Z",
-          "horarioBrasilia": "16/09, 17:00",
-          "link": "https://www.youtube.com/watch?v=DmVpozPaw2w"
+          "videoId": "iZJb16lxZ14",
+          "titulo": "FLAMENGO X DEL VALLE AO VIVO: QUARTAS DE FINAL DA CONMEBOL LIBERTADORES | PRÉ-JOGO",
+          "thumbnail": "https://i.ytimg.com/vi/iZJb16lxZ14/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-17T22:30:00Z",
+          "horarioBrasilia": "17/09, 19:30",
+          "link": "https://www.youtube.com/watch?v=iZJb16lxZ14"
         },
         {
-          "videoId": "drD-42vFZvk",
-          "titulo": "LDU X PALMEIRAS AO VIVO | QUARTAS DE FINAL DA CONMEBOL LIBERTADORES | PRÉ-JOGO",
-          "thumbnail": "https://i.ytimg.com/vi/drD-42vFZvk/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-16T20:00:00Z",
-          "horarioBrasilia": "16/09, 17:00",
-          "link": "https://www.youtube.com/watch?v=drD-42vFZvk"
-        },
-        {
-          "videoId": "RB31MmReL-c",
-          "titulo": "CORINTHIANS X ESTUDIANTES: QUARTAS DE FINAL DA CONMEBOL LIBERTADORES | PRÉ-JOGO",
-          "thumbnail": "https://i.ytimg.com/vi/RB31MmReL-c/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-16T22:00:00Z",
-          "horarioBrasilia": "16/09, 19:00",
-          "link": "https://www.youtube.com/watch?v=RB31MmReL-c"
+          "videoId": "7wtOSgC4cMA",
+          "titulo": "FLAMENGO X INDEPENDIENTE DEL VALLE AO VIVO: GAME DAY ESPN COM REACT DA TROPA DO TYLTY",
+          "thumbnail": "https://i.ytimg.com/vi/7wtOSgC4cMA/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-18T00:10:00Z",
+          "horarioBrasilia": "17/09, 21:10",
+          "link": "https://www.youtube.com/watch?v=7wtOSgC4cMA"
         }
       ],
       "erro": null
@@ -236,12 +212,12 @@
       "totalLives": 1,
       "lives": [
         {
-          "videoId": "hf-YbvbVzLc",
-          "titulo": "DEPORTIVO LA CORUÑA X SEVILLA: AO VIVO, COM IMAGENS E EXCLUSIVO | LALIGA | RODADA 6",
-          "thumbnail": "https://i.ytimg.com/vi/hf-YbvbVzLc/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-16T16:45:00Z",
-          "horarioBrasilia": "16/09, 13:45",
-          "link": "https://www.youtube.com/watch?v=hf-YbvbVzLc"
+          "videoId": "pu62ZZJBhQg",
+          "titulo": "MÁLAGA X VILLARREAL: AO VIVO, COM IMAGENS E EXCLUSIVO | LALIGA | RODADA 6",
+          "thumbnail": "https://i.ytimg.com/vi/pu62ZZJBhQg/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-17T19:15:00Z",
+          "horarioBrasilia": "17/09, 16:15",
+          "link": "https://www.youtube.com/watch?v=pu62ZZJBhQg"
         }
       ],
       "erro": null
@@ -253,28 +229,28 @@
       "totalLives": 3,
       "lives": [
         {
-          "videoId": "f2LlcboD7b8",
-          "titulo": "UOL NEWS ESPORTE | 16 DE SETEMBRO DE 2026",
-          "thumbnail": "https://i.ytimg.com/vi/f2LlcboD7b8/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-16T11:30:00Z",
-          "horarioBrasilia": "16/09, 08:30",
-          "link": "https://www.youtube.com/watch?v=f2LlcboD7b8"
+          "videoId": "eBRkJfT-X4g",
+          "titulo": "UOL NEWS ESPORTE | 17 DE SETEMBRO",
+          "thumbnail": "https://i.ytimg.com/vi/eBRkJfT-X4g/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-17T11:30:00Z",
+          "horarioBrasilia": "17/09, 08:30",
+          "link": "https://www.youtube.com/watch?v=eBRkJfT-X4g"
         },
         {
-          "videoId": "7_Cyp8HPmn4",
-          "titulo": "DE PRIMEIRA AO VIVO | 16 DE SETEMBRO",
-          "thumbnail": "https://i.ytimg.com/vi/7_Cyp8HPmn4/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-16T16:30:00Z",
-          "horarioBrasilia": "16/09, 13:30",
-          "link": "https://www.youtube.com/watch?v=7_Cyp8HPmn4"
+          "videoId": "wZHHvwVtaBQ",
+          "titulo": "DE PRIMEIRA AO VIVO | 17 DE SETEMBRO",
+          "thumbnail": "https://i.ytimg.com/vi/wZHHvwVtaBQ/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-17T16:30:00Z",
+          "horarioBrasilia": "17/09, 13:30",
+          "link": "https://www.youtube.com/watch?v=wZHHvwVtaBQ"
         },
         {
-          "videoId": "vUoBSCOGFOk",
-          "titulo": "LIVE DO PALMEIRAS | 16 DE SETEMBRO",
-          "thumbnail": "https://i.ytimg.com/vi/vUoBSCOGFOk/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-16T21:00:00Z",
-          "horarioBrasilia": "16/09, 18:00",
-          "link": "https://www.youtube.com/watch?v=vUoBSCOGFOk"
+          "videoId": "LMGvEMGg9iE",
+          "titulo": "LIVE DO SÃO PAULO | 17 DE SETEMBRO",
+          "thumbnail": "https://i.ytimg.com/vi/LMGvEMGg9iE/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-17T21:00:00Z",
+          "horarioBrasilia": "17/09, 18:00",
+          "link": "https://www.youtube.com/watch?v=LMGvEMGg9iE"
         }
       ],
       "erro": null
@@ -283,32 +259,55 @@
       "canalId": "UCH-BU-Os3JSo2L8lBQxE8KA",
       "nome": "Xsports",
       "logo": "https://yt3.ggpht.com/CTQyaT5nUAWjH0Vb-WIOrecZ3f4mAlS1N4niAFtIAX-g8gpTxITlkOY-dnRyh3th_1HxJ7KE=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 1,
-      "lives": [
-        {
-          "videoId": "ewxHgHGx2mw",
-          "titulo": "RIVADAVIA X TUCUMÁN | QUARTAS DE FINAL DA COPA ARGENTINA | AO VIVO E COM IMAGENS",
-          "thumbnail": "https://i.ytimg.com/vi/ewxHgHGx2mw/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-16T21:50:00Z",
-          "horarioBrasilia": "16/09, 18:50",
-          "link": "https://www.youtube.com/watch?v=ewxHgHGx2mw"
-        }
-      ],
+      "totalLives": 0,
+      "lives": [],
       "erro": null
     },
     {
       "canalId": "UC8RrjoT8ovQ43Le7qvHuoMA",
       "nome": "Metrópoles Esportes",
       "logo": "https://yt3.ggpht.com/v8aQZpnGvmyJESJlihwnHykFcQhUw4iXxFC9-DKmjqvP2KzLcUgGvXHnRB0YV47DoAJemkhQsQ=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 1,
+      "totalLives": 5,
       "lives": [
         {
-          "videoId": "pG7SyUCacNk",
-          "titulo": "METRÓPOLES 90 MINUTOS - AO VIVO - 16.09.26",
-          "thumbnail": "https://i.ytimg.com/vi/pG7SyUCacNk/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-16T12:30:00Z",
-          "horarioBrasilia": "16/09, 09:30",
-          "link": "https://www.youtube.com/watch?v=pG7SyUCacNk"
+          "videoId": "hRJPB4BbNc4",
+          "titulo": "#90 minutos: Futebol, bastidores e muita informação",
+          "thumbnail": "https://i.ytimg.com/vi/hRJPB4BbNc4/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-17T12:30:00Z",
+          "horarioBrasilia": "17/09, 09:30",
+          "link": "https://www.youtube.com/watch?v=hRJPB4BbNc4"
+        },
+        {
+          "videoId": "oF9qi9pFVdI",
+          "titulo": "COPA DAS NAÇÕES DE BEACH SOCCER - EL SALVADOR x ESPÍRITO SANTO - AO VIVO - 17.09.26",
+          "thumbnail": "https://i.ytimg.com/vi/oF9qi9pFVdI/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-17T19:00:00Z",
+          "horarioBrasilia": "17/09, 16:00",
+          "link": "https://www.youtube.com/watch?v=oF9qi9pFVdI"
+        },
+        {
+          "videoId": "ZFXfbBISw7E",
+          "titulo": "COPA DAS NAÇÕES DE BEACH SOCCER - COLÔMBIA x EL SALVADOR - AO VIVO - 17.09.26",
+          "thumbnail": "https://i.ytimg.com/vi/ZFXfbBISw7E/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-17T20:30:00Z",
+          "horarioBrasilia": "17/09, 17:30",
+          "link": "https://www.youtube.com/watch?v=ZFXfbBISw7E"
+        },
+        {
+          "videoId": "_5Imt8su2JY",
+          "titulo": "COPA DAS NAÇÕES DE BEACH SOCCER - BRASIL x PERU - AO VIVO - 17.09.26",
+          "thumbnail": "https://i.ytimg.com/vi/_5Imt8su2JY/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-17T22:00:00Z",
+          "horarioBrasilia": "17/09, 19:00",
+          "link": "https://www.youtube.com/watch?v=_5Imt8su2JY"
+        },
+        {
+          "videoId": "_Q5BwFvQJQ8",
+          "titulo": "COPA DAS NAÇÕES DE BEACH SOCCER - BRASIL x BRASÍLIA - AO VIVO - 17.09.26",
+          "thumbnail": "https://i.ytimg.com/vi/_Q5BwFvQJQ8/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-17T23:30:00Z",
+          "horarioBrasilia": "17/09, 20:30",
+          "link": "https://www.youtube.com/watch?v=_Q5BwFvQJQ8"
         }
       ],
       "erro": null
@@ -317,15 +316,23 @@
       "canalId": "UCfi9IhipFGSa0eD_EA8JHrA",
       "nome": "Canal GoLBrasil ",
       "logo": "https://yt3.ggpht.com/jH0azzxNbxmjDmzpzqV94Rnq0l3VUzxNinwPx4MqjEOTfkqbiCIxm-M0CQogVux0Z9_QJzy6=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 1,
+      "totalLives": 2,
       "lives": [
         {
-          "videoId": "S6Gkvfr6KWw",
-          "titulo": "AO VIVO: BALTIKA X ZENIT I LIGA DA RÚSSIA I CANAL GOL BRASIL",
-          "thumbnail": "https://i.ytimg.com/vi/S6Gkvfr6KWw/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-16T17:45:00Z",
-          "horarioBrasilia": "16/09, 14:45",
-          "link": "https://www.youtube.com/watch?v=S6Gkvfr6KWw"
+          "videoId": "sLtM7QWRurM",
+          "titulo": "AO VIVO: DYNAMO MAKHACHKALA X CSKA I LIGA DA RÚSSIA I CANAL GOL BRASIL",
+          "thumbnail": "https://i.ytimg.com/vi/sLtM7QWRurM/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-17T17:45:00Z",
+          "horarioBrasilia": "17/09, 14:45",
+          "link": "https://www.youtube.com/watch?v=sLtM7QWRurM"
+        },
+        {
+          "videoId": "X3M3rp0aISA",
+          "titulo": "AO VIVO: ATLÉTICO PIAUIENSE X CHAPECOENSE I CAMPEONATO BRASILEIRO DE FUTSAL I CANAL GOL BRASIL",
+          "thumbnail": "https://i.ytimg.com/vi/X3M3rp0aISA/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-17T23:00:00Z",
+          "horarioBrasilia": "17/09, 20:00",
+          "link": "https://www.youtube.com/watch?v=X3M3rp0aISA"
         }
       ],
       "erro": null
