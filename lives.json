@@ -1,44 +1,61 @@
 {
-  "geradoEm": "2026-09-21T09:58:19.649Z",
-  "data": "2026-09-21",
+  "geradoEm": "2026-09-22T09:58:19.714Z",
+  "data": "2026-09-22",
   "canais": [
     {
       "canalId": "UCZiYbVptd3PVPf4f6eR6UaQ",
       "nome": "CazéTV",
       "logo": "https://yt3.ggpht.com/Zm3t3pgNIYY1HgkWYaWmU3E--oljMiWqX_2Ig4zkxziTkP3VOR9TGUmgJAPu7XrhP06ebxDg=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 0,
-      "lives": [],
+      "totalLives": 1,
+      "lives": [
+        {
+          "videoId": "scP5sJ_87Y0",
+          "titulo": "AO VIVO: CONVOCAÇÃO DA SELEÇÃO BRASILEIRA FEMININA PARA AMISTOSOS CONTRA A ARGENTINA",
+          "thumbnail": "https://i.ytimg.com/vi/scP5sJ_87Y0/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-22T17:15:00Z",
+          "horarioBrasilia": "22/09, 14:15",
+          "link": "https://www.youtube.com/watch?v=scP5sJ_87Y0"
+        }
+      ],
       "erro": null
     },
     {
       "canalId": "UCgCKagVhzGnZcuP9bSMgMCg",
       "nome": "ge tv",
       "logo": "https://yt3.ggpht.com/dc3tNE8gU99pZ_5gPcl_7U-hKf_Zzguxa4wTSexNKVNAWxli7hblw2BsrdHWASnjXRWciqecfTk=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 3,
+      "totalLives": 4,
       "lives": [
         {
-          "videoId": "V9x3MxDE9ac",
-          "titulo": "AO VIVO: TÊNIS | FINAL | SP OPEN 2026 | ge tv",
-          "thumbnail": "https://i.ytimg.com/vi/V9x3MxDE9ac/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-21T14:00:00Z",
-          "horarioBrasilia": "21/09, 11:00",
-          "link": "https://www.youtube.com/watch?v=V9x3MxDE9ac"
+          "videoId": "X6dq_E1lNMk",
+          "titulo": "AO VIVO! PRIMEIRA DESCIDA ANALISA A SEMANA DOIS DA NFL! #podcast | ge.globo",
+          "thumbnail": "https://i.ytimg.com/vi/X6dq_E1lNMk/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-22T14:00:00Z",
+          "horarioBrasilia": "22/09, 11:00",
+          "link": "https://www.youtube.com/watch?v=X6dq_E1lNMk"
         },
         {
-          "videoId": "DyCnTm7myNg",
-          "titulo": "AO VIVO! FLAMENGO X BRAGANTINO, PALMEIRAS X GRÊMIO, CORINTHIANS X FLU E SELEÇÃO! | Panela Sportv",
-          "thumbnail": "https://i.ytimg.com/vi/DyCnTm7myNg/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-21T20:00:00Z",
-          "horarioBrasilia": "21/09, 17:00",
-          "link": "https://www.youtube.com/watch?v=DyCnTm7myNg"
+          "videoId": "c273b0fy-I8",
+          "titulo": "AO VIVO! NA PONTA DOS DEDOS RECEBE BRENO MONSEF E PROJETA GP EM BAKU | #podcast | ge.globo",
+          "thumbnail": "https://i.ytimg.com/vi/c273b0fy-I8/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-22T17:00:00Z",
+          "horarioBrasilia": "22/09, 14:00",
+          "link": "https://www.youtube.com/watch?v=c273b0fy-I8"
         },
         {
-          "videoId": "cM82qy8xgJU",
-          "titulo": "AO VIVO: CORINTHIANS X BAHIA | AQUECIMENTO DELAS | BRASILEIRÃO FEMININO 2026 | sportv",
-          "thumbnail": "https://i.ytimg.com/vi/cM82qy8xgJU/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-21T23:30:00Z",
-          "horarioBrasilia": "21/09, 20:30",
-          "link": "https://www.youtube.com/watch?v=cM82qy8xgJU"
+          "videoId": "00OqlITF9Ng",
+          "titulo": "AO VIVO: CONVOCAÇÃO DA SELEÇÃO BRASILEIRA FEMININA PARA OS AMISTOSOS | ge tv",
+          "thumbnail": "https://i.ytimg.com/vi/00OqlITF9Ng/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-22T18:00:00Z",
+          "horarioBrasilia": "22/09, 15:00",
+          "link": "https://www.youtube.com/watch?v=00OqlITF9Ng"
+        },
+        {
+          "videoId": "eOYj9DSQ8EU",
+          "titulo": "AO VIVO! A SELEÇÃO BRASILEIRA TEM TIME PARA VOLTAR A SER CAMPEÃ MUNDIAL? | Denilson é show | ge tv",
+          "thumbnail": "https://i.ytimg.com/vi/eOYj9DSQ8EU/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-22T22:00:00Z",
+          "horarioBrasilia": "22/09, 19:00",
+          "link": "https://www.youtube.com/watch?v=eOYj9DSQ8EU"
         }
       ],
       "erro": null
@@ -47,25 +64,25 @@
       "canalId": "UCs-6sCz2LJm1PrWQN4ErsPw",
       "nome": "TNT Sports Brasil",
       "logo": "https://yt3.ggpht.com/VQ2IGEcrhMSpuFb3RFDQOsVV9xI0shwQVorL8VLUGUGaV61Va1UMo4iwFOBVfOsrwTTYET22Hdk=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 1,
-      "lives": [
-        {
-          "videoId": "8JExC8t_fXk",
-          "titulo": "AO VIVO: XV DE JAÚ X CORINTHIANS - PAULISTÃO SUB-20 COM IMAGENS",
-          "thumbnail": "https://i.ytimg.com/vi/8JExC8t_fXk/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-21T17:45:00Z",
-          "horarioBrasilia": "21/09, 14:45",
-          "link": "https://www.youtube.com/watch?v=8JExC8t_fXk"
-        }
-      ],
+      "totalLives": 0,
+      "lives": [],
       "erro": null
     },
     {
       "canalId": "UCw5-xj3AKqEizC7MvHaIPqA",
       "nome": "ESPN Brasil",
       "logo": "https://yt3.ggpht.com/atSFp-_qcwnDISOTP77d1_noGzZ0fQ-ogLumFMNzdDJVWbJwueHbDeeSAezGe0gKgf9zmx8YgQ=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 0,
-      "lives": [],
+      "totalLives": 1,
+      "lives": [
+        {
+          "videoId": "lXFiQZ6ip-U",
+          "titulo": "JOGOS SUL-AMERICANOS AO VIVO: ATLETISMO COM ALISON DOS SANTOS, LETÍCIA ORO MELO E MUITO BRASIL",
+          "thumbnail": "https://i.ytimg.com/vi/lXFiQZ6ip-U/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-22T21:00:00Z",
+          "horarioBrasilia": "22/09, 18:00",
+          "link": "https://www.youtube.com/watch?v=lXFiQZ6ip-U"
+        }
+      ],
       "erro": null
     },
     {
@@ -88,49 +105,55 @@
       "canalId": "UCf9WJPpsh5BHDY-OeISgIqA",
       "nome": "N Sports",
       "logo": "https://yt3.ggpht.com/tt9WaJh3uawWJUv4upgjMNJgirABgKgaionIiPMTor-5rL5EnszV6sL8KDLOwXmqUZmKfnlu=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 1,
-      "lives": [
-        {
-          "videoId": "tkiG29Sf3Qo",
-          "titulo": "🔴 AO VIVO E COM IMAGENS | CORINTHIANS X BAHIA | SEMIFINAL I BRASILEIRÃO FEMININO 2026",
-          "thumbnail": "https://i.ytimg.com/vi/tkiG29Sf3Qo/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-22T00:00:00Z",
-          "horarioBrasilia": "21/09, 21:00",
-          "link": "https://www.youtube.com/watch?v=tkiG29Sf3Qo"
-        }
-      ],
+      "totalLives": 0,
+      "lives": [],
       "erro": null
     },
     {
       "canalId": "UCMcc9elPZGpg6eU4i3YaCpA",
       "nome": "SportyNet",
       "logo": "https://yt3.ggpht.com/gljY0R_KSQ6j9HLIgFWayZnekdpxPfCH-aKmm_2OFV5nru3CuGMtPTL8cG0qliPcM65gtTPb=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 1,
-      "lives": [
-        {
-          "videoId": "Vvxt6WdjgRI",
-          "titulo": "CUIABÁ X NÁUTICO: AO VIVO E COM IMAGENS | RODADA 29 | SÉRIE B",
-          "thumbnail": "https://i.ytimg.com/vi/Vvxt6WdjgRI/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-22T00:15:00Z",
-          "horarioBrasilia": "21/09, 21:15",
-          "link": "https://www.youtube.com/watch?v=Vvxt6WdjgRI"
-        }
-      ],
+      "totalLives": 0,
+      "lives": [],
       "erro": null
     },
     {
       "canalId": "UC3KHYFWeB0WimMBfm3NEahQ",
       "nome": "UOL Esporte",
       "logo": "https://yt3.ggpht.com/WnRMVUq4sj-Q1bAp8yz9y7WqUzqcbSZYQMkeMlHF1Kdv0fa39fw1zf3ylt1cil-ntjuL-s21TA=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 1,
+      "totalLives": 4,
       "lives": [
         {
-          "videoId": "SgcFW4fO9sk",
-          "titulo": "CORINTHIANS X BAHIA: AO VIVO | SEMIFINAL DO BRASILEIRÃO FEMININO | COM IMAGENS E NARRAÇÃO",
-          "thumbnail": "https://i.ytimg.com/vi/SgcFW4fO9sk/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-22T00:30:00Z",
-          "horarioBrasilia": "21/09, 21:30",
-          "link": "https://www.youtube.com/watch?v=SgcFW4fO9sk"
+          "videoId": "lwAO6RqD4aQ",
+          "titulo": "UOL NEWS ESPORTE | 22 DE SETEMBRO",
+          "thumbnail": "https://i.ytimg.com/vi/lwAO6RqD4aQ/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-22T11:30:00Z",
+          "horarioBrasilia": "22/09, 08:30",
+          "link": "https://www.youtube.com/watch?v=lwAO6RqD4aQ"
+        },
+        {
+          "videoId": "iYqksCXVheA",
+          "titulo": "DE PRIMEIRA | 22 DE SETEMBRO",
+          "thumbnail": "https://i.ytimg.com/vi/iYqksCXVheA/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-22T16:30:00Z",
+          "horarioBrasilia": "22/09, 13:30",
+          "link": "https://www.youtube.com/watch?v=iYqksCXVheA"
+        },
+        {
+          "videoId": "-IEr_jJ2qO8",
+          "titulo": "LIVE DO SANTOS | 22 DE SETEMBRO",
+          "thumbnail": "https://i.ytimg.com/vi/-IEr_jJ2qO8/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-22T20:00:00Z",
+          "horarioBrasilia": "22/09, 17:00",
+          "link": "https://www.youtube.com/watch?v=-IEr_jJ2qO8"
+        },
+        {
+          "videoId": "LdJvHvCRCzI",
+          "titulo": "BLOCO DE ESPORTE | 22 DE SETEMBRO",
+          "thumbnail": "https://i.ytimg.com/vi/LdJvHvCRCzI/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-22T20:30:00Z",
+          "horarioBrasilia": "22/09, 17:30",
+          "link": "https://www.youtube.com/watch?v=LdJvHvCRCzI"
         }
       ],
       "erro": null
@@ -142,12 +165,12 @@
       "totalLives": 1,
       "lives": [
         {
-          "videoId": "HCZf5otaFtA",
-          "titulo": "BRASILEIRÃO PEGANDO FOGO! VEJA TUDO QUE ROLOU NA RODADA DO FINAL DE SEMANA | RODADA XSPORTS",
-          "thumbnail": "https://i.ytimg.com/vi/HCZf5otaFtA/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-22T02:30:00Z",
-          "horarioBrasilia": "21/09, 23:30",
-          "link": "https://www.youtube.com/watch?v=HCZf5otaFtA"
+          "videoId": "fIGWNp3CnRU",
+          "titulo": "JUVENTUDE AG X ACBF | SEMIFINAL DA COPA LNF | AO VIVO E COM IMAGENS",
+          "thumbnail": "https://i.ytimg.com/vi/fIGWNp3CnRU/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-22T23:55:00Z",
+          "horarioBrasilia": "22/09, 20:55",
+          "link": "https://www.youtube.com/watch?v=fIGWNp3CnRU"
         }
       ],
       "erro": null
@@ -156,23 +179,15 @@
       "canalId": "UC8RrjoT8ovQ43Le7qvHuoMA",
       "nome": "Metrópoles Esportes",
       "logo": "https://yt3.ggpht.com/v8aQZpnGvmyJESJlihwnHykFcQhUw4iXxFC9-DKmjqvP2KzLcUgGvXHnRB0YV47DoAJemkhQsQ=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 2,
+      "totalLives": 1,
       "lives": [
         {
-          "videoId": "XGgAsno49d0",
-          "titulo": "#90minutos: FLAMENGO DEIXA PALMEIRAS PARA TRÁS, INTER DEMITE TÉCNICO E TITE PERDE NA ESTREIA",
-          "thumbnail": "https://i.ytimg.com/vi/XGgAsno49d0/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-21T12:30:00Z",
-          "horarioBrasilia": "21/09, 09:30",
-          "link": "https://www.youtube.com/watch?v=XGgAsno49d0"
-        },
-        {
-          "videoId": "ME0EgwACbc0",
-          "titulo": "JUVENTUS x UNIÃO SÃO JOÃO - COPA PAULISTA 2026 - AO VIVO E COM IMAGENS - 21.09.26",
-          "thumbnail": "https://i.ytimg.com/vi/ME0EgwACbc0/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-21T23:15:00Z",
-          "horarioBrasilia": "21/09, 20:15",
-          "link": "https://www.youtube.com/watch?v=ME0EgwACbc0"
+          "videoId": "X4zmPIJC2a8",
+          "titulo": "#90minutos: MUITO DEBATE E TUDO SOBRE O FUTEBOL NACIONAL E INTERNACIONAL",
+          "thumbnail": "https://i.ytimg.com/vi/X4zmPIJC2a8/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-22T12:30:00Z",
+          "horarioBrasilia": "22/09, 09:30",
+          "link": "https://www.youtube.com/watch?v=X4zmPIJC2a8"
         }
       ],
       "erro": null
@@ -181,17 +196,8 @@
       "canalId": "UCfi9IhipFGSa0eD_EA8JHrA",
       "nome": "Canal GoLBrasil ",
       "logo": "https://yt3.ggpht.com/jH0azzxNbxmjDmzpzqV94Rnq0l3VUzxNinwPx4MqjEOTfkqbiCIxm-M0CQogVux0Z9_QJzy6=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 1,
-      "lives": [
-        {
-          "videoId": "fo0WDWvG-Hs",
-          "titulo": "AO VIVO: X1 BRAZIL I CAMPINA GRANDE/ PB I CANAL GOL BRASIL",
-          "thumbnail": "https://i.ytimg.com/vi/fo0WDWvG-Hs/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-21T22:00:00Z",
-          "horarioBrasilia": "21/09, 19:00",
-          "link": "https://www.youtube.com/watch?v=fo0WDWvG-Hs"
-        }
-      ],
+      "totalLives": 0,
+      "lives": [],
       "erro": null
     }
   ]
