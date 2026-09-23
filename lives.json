@@ -1,20 +1,28 @@
 {
-  "geradoEm": "2026-09-22T09:58:19.714Z",
-  "data": "2026-09-22",
+  "geradoEm": "2026-09-23T09:58:20.742Z",
+  "data": "2026-09-23",
   "canais": [
     {
       "canalId": "UCZiYbVptd3PVPf4f6eR6UaQ",
       "nome": "CazéTV",
       "logo": "https://yt3.ggpht.com/Zm3t3pgNIYY1HgkWYaWmU3E--oljMiWqX_2Ig4zkxziTkP3VOR9TGUmgJAPu7XrhP06ebxDg=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 1,
+      "totalLives": 2,
       "lives": [
         {
-          "videoId": "scP5sJ_87Y0",
-          "titulo": "AO VIVO: CONVOCAÇÃO DA SELEÇÃO BRASILEIRA FEMININA PARA AMISTOSOS CONTRA A ARGENTINA",
-          "thumbnail": "https://i.ytimg.com/vi/scP5sJ_87Y0/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-22T17:15:00Z",
-          "horarioBrasilia": "22/09, 14:15",
-          "link": "https://www.youtube.com/watch?v=scP5sJ_87Y0"
+          "videoId": "IjV9UGfH0Ys",
+          "titulo": "AO VIVO: ITÁLIA X ESPANHA | COPA DO MUNDO FEMININA SUB-20 FIFA 2026 | SEMIFINAL",
+          "thumbnail": "https://i.ytimg.com/vi/IjV9UGfH0Ys/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-23T12:15:00Z",
+          "horarioBrasilia": "23/09, 09:15",
+          "link": "https://www.youtube.com/watch?v=IjV9UGfH0Ys"
+        },
+        {
+          "videoId": "_6qC9OAuY9c",
+          "titulo": "AO VIVO: COREIA DO NORTE X COLÔMBIA | COPA DO MUNDO FEMININA SUB-20 FIFA 2026 | SEMIFINAL",
+          "thumbnail": "https://i.ytimg.com/vi/_6qC9OAuY9c/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-23T16:00:00Z",
+          "horarioBrasilia": "23/09, 13:00",
+          "link": "https://www.youtube.com/watch?v=_6qC9OAuY9c"
         }
       ],
       "erro": null
@@ -23,41 +31,8 @@
       "canalId": "UCgCKagVhzGnZcuP9bSMgMCg",
       "nome": "ge tv",
       "logo": "https://yt3.ggpht.com/dc3tNE8gU99pZ_5gPcl_7U-hKf_Zzguxa4wTSexNKVNAWxli7hblw2BsrdHWASnjXRWciqecfTk=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 4,
-      "lives": [
-        {
-          "videoId": "X6dq_E1lNMk",
-          "titulo": "AO VIVO! PRIMEIRA DESCIDA ANALISA A SEMANA DOIS DA NFL! #podcast | ge.globo",
-          "thumbnail": "https://i.ytimg.com/vi/X6dq_E1lNMk/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-22T14:00:00Z",
-          "horarioBrasilia": "22/09, 11:00",
-          "link": "https://www.youtube.com/watch?v=X6dq_E1lNMk"
-        },
-        {
-          "videoId": "c273b0fy-I8",
-          "titulo": "AO VIVO! NA PONTA DOS DEDOS RECEBE BRENO MONSEF E PROJETA GP EM BAKU | #podcast | ge.globo",
-          "thumbnail": "https://i.ytimg.com/vi/c273b0fy-I8/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-22T17:00:00Z",
-          "horarioBrasilia": "22/09, 14:00",
-          "link": "https://www.youtube.com/watch?v=c273b0fy-I8"
-        },
-        {
-          "videoId": "00OqlITF9Ng",
-          "titulo": "AO VIVO: CONVOCAÇÃO DA SELEÇÃO BRASILEIRA FEMININA PARA OS AMISTOSOS | ge tv",
-          "thumbnail": "https://i.ytimg.com/vi/00OqlITF9Ng/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-22T18:00:00Z",
-          "horarioBrasilia": "22/09, 15:00",
-          "link": "https://www.youtube.com/watch?v=00OqlITF9Ng"
-        },
-        {
-          "videoId": "eOYj9DSQ8EU",
-          "titulo": "AO VIVO! A SELEÇÃO BRASILEIRA TEM TIME PARA VOLTAR A SER CAMPEÃ MUNDIAL? | Denilson é show | ge tv",
-          "thumbnail": "https://i.ytimg.com/vi/eOYj9DSQ8EU/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-22T22:00:00Z",
-          "horarioBrasilia": "22/09, 19:00",
-          "link": "https://www.youtube.com/watch?v=eOYj9DSQ8EU"
-        }
-      ],
+      "totalLives": 0,
+      "lives": [],
       "erro": null
     },
     {
@@ -72,15 +47,31 @@
       "canalId": "UCw5-xj3AKqEizC7MvHaIPqA",
       "nome": "ESPN Brasil",
       "logo": "https://yt3.ggpht.com/atSFp-_qcwnDISOTP77d1_noGzZ0fQ-ogLumFMNzdDJVWbJwueHbDeeSAezGe0gKgf9zmx8YgQ=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 1,
+      "totalLives": 3,
       "lives": [
         {
-          "videoId": "lXFiQZ6ip-U",
-          "titulo": "JOGOS SUL-AMERICANOS AO VIVO: ATLETISMO COM ALISON DOS SANTOS, LETÍCIA ORO MELO E MUITO BRASIL",
-          "thumbnail": "https://i.ytimg.com/vi/lXFiQZ6ip-U/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-22T21:00:00Z",
-          "horarioBrasilia": "22/09, 18:00",
-          "link": "https://www.youtube.com/watch?v=lXFiQZ6ip-U"
+          "videoId": "28SDVSm7BaQ",
+          "titulo": "JOGOS SUL-AMERICANOS AO VIVO: MARCHA ATLÉTICA COM CAIO BONFIM, FINAIS DOS 400M COM BARREIRAS E MAIS",
+          "thumbnail": "https://i.ytimg.com/vi/28SDVSm7BaQ/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-23T10:00:00Z",
+          "horarioBrasilia": "23/09, 07:00",
+          "link": "https://www.youtube.com/watch?v=28SDVSm7BaQ"
+        },
+        {
+          "videoId": "nURH0L6F2Wg",
+          "titulo": "JOGOS SUL-AMERICANOS AO VIVO: FINAIS DO TAEKWONDO COM BRASILEIROS DISPUTANDO MEDALHA",
+          "thumbnail": "https://i.ytimg.com/vi/nURH0L6F2Wg/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-23T18:00:00Z",
+          "horarioBrasilia": "23/09, 15:00",
+          "link": "https://www.youtube.com/watch?v=nURH0L6F2Wg"
+        },
+        {
+          "videoId": "6fne9H4j3Y0",
+          "titulo": "JOGOS SUL-AMERICANOS AO VIVO: FINAIS DE ATLETISMO COM ALISON DOS SANTOS E MAIS | ESPN",
+          "thumbnail": "https://i.ytimg.com/vi/6fne9H4j3Y0/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-23T21:00:00Z",
+          "horarioBrasilia": "23/09, 18:00",
+          "link": "https://www.youtube.com/watch?v=6fne9H4j3Y0"
         }
       ],
       "erro": null
@@ -124,36 +115,36 @@
       "totalLives": 4,
       "lives": [
         {
-          "videoId": "lwAO6RqD4aQ",
-          "titulo": "UOL NEWS ESPORTE | 22 DE SETEMBRO",
-          "thumbnail": "https://i.ytimg.com/vi/lwAO6RqD4aQ/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-22T11:30:00Z",
-          "horarioBrasilia": "22/09, 08:30",
-          "link": "https://www.youtube.com/watch?v=lwAO6RqD4aQ"
+          "videoId": "QpF7iPDfocU",
+          "titulo": "UOL NEWS ESPORTE | 23 DE SETEMBRO",
+          "thumbnail": "https://i.ytimg.com/vi/QpF7iPDfocU/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-23T11:30:00Z",
+          "horarioBrasilia": "23/09, 08:30",
+          "link": "https://www.youtube.com/watch?v=QpF7iPDfocU"
         },
         {
-          "videoId": "iYqksCXVheA",
-          "titulo": "DE PRIMEIRA | 22 DE SETEMBRO",
-          "thumbnail": "https://i.ytimg.com/vi/iYqksCXVheA/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-22T16:30:00Z",
-          "horarioBrasilia": "22/09, 13:30",
-          "link": "https://www.youtube.com/watch?v=iYqksCXVheA"
+          "videoId": "s59qy5n70po",
+          "titulo": "DE PRIMEIRA | 23 DE SETEMBRO",
+          "thumbnail": "https://i.ytimg.com/vi/s59qy5n70po/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-23T16:30:00Z",
+          "horarioBrasilia": "23/09, 13:30",
+          "link": "https://www.youtube.com/watch?v=s59qy5n70po"
         },
         {
-          "videoId": "-IEr_jJ2qO8",
-          "titulo": "LIVE DO SANTOS | 22 DE SETEMBRO",
-          "thumbnail": "https://i.ytimg.com/vi/-IEr_jJ2qO8/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-22T20:00:00Z",
-          "horarioBrasilia": "22/09, 17:00",
-          "link": "https://www.youtube.com/watch?v=-IEr_jJ2qO8"
+          "videoId": "JuVD0CnOFxg",
+          "titulo": "LIVE DO PALMEIRAS | 23 DE SETEMBRO",
+          "thumbnail": "https://i.ytimg.com/vi/JuVD0CnOFxg/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-23T19:00:00Z",
+          "horarioBrasilia": "23/09, 16:00",
+          "link": "https://www.youtube.com/watch?v=JuVD0CnOFxg"
         },
         {
-          "videoId": "LdJvHvCRCzI",
-          "titulo": "BLOCO DE ESPORTE | 22 DE SETEMBRO",
-          "thumbnail": "https://i.ytimg.com/vi/LdJvHvCRCzI/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-22T20:30:00Z",
-          "horarioBrasilia": "22/09, 17:30",
-          "link": "https://www.youtube.com/watch?v=LdJvHvCRCzI"
+          "videoId": "0oCBC9x0q4E",
+          "titulo": "BLOCO DE ESPORTE | 23 DE SETEMBRO",
+          "thumbnail": "https://i.ytimg.com/vi/0oCBC9x0q4E/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-23T20:30:00Z",
+          "horarioBrasilia": "23/09, 17:30",
+          "link": "https://www.youtube.com/watch?v=0oCBC9x0q4E"
         }
       ],
       "erro": null
@@ -162,15 +153,31 @@
       "canalId": "UCH-BU-Os3JSo2L8lBQxE8KA",
       "nome": "Xsports",
       "logo": "https://yt3.ggpht.com/CTQyaT5nUAWjH0Vb-WIOrecZ3f4mAlS1N4niAFtIAX-g8gpTxITlkOY-dnRyh3th_1HxJ7KE=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 1,
+      "totalLives": 3,
       "lives": [
         {
-          "videoId": "fIGWNp3CnRU",
-          "titulo": "JUVENTUDE AG X ACBF | SEMIFINAL DA COPA LNF | AO VIVO E COM IMAGENS",
-          "thumbnail": "https://i.ytimg.com/vi/fIGWNp3CnRU/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-22T23:55:00Z",
-          "horarioBrasilia": "22/09, 20:55",
-          "link": "https://www.youtube.com/watch?v=fIGWNp3CnRU"
+          "videoId": "-KeKi1ZgWa8",
+          "titulo": "FLAMENGO X PARAGUAI | TORNEIO INTERNACIONAL ESTRELAS FEMININO SUB-20 | AO VIVO E COM IMAGENS",
+          "thumbnail": "https://i.ytimg.com/vi/-KeKi1ZgWa8/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-23T18:30:00Z",
+          "horarioBrasilia": "23/09, 15:30",
+          "link": "https://www.youtube.com/watch?v=-KeKi1ZgWa8"
+        },
+        {
+          "videoId": "rfY1uBR_n8I",
+          "titulo": "SÃO PAULO X REAL MADRID | TORNEIO INTERNACIONAL ESTRELAS FEMININO SUB-20 | AO VIVO E COM IMAGENS",
+          "thumbnail": "https://i.ytimg.com/vi/rfY1uBR_n8I/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-23T21:00:00Z",
+          "horarioBrasilia": "23/09, 18:00",
+          "link": "https://www.youtube.com/watch?v=rfY1uBR_n8I"
+        },
+        {
+          "videoId": "8l-SVoxTulY",
+          "titulo": "TUDO SOBRE A SELEÇÃO BRASILEIRA E AS NOVIDADES DESSA DATA FIFA! | RODADA XSPORTS",
+          "thumbnail": "https://i.ytimg.com/vi/8l-SVoxTulY/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-24T00:15:00Z",
+          "horarioBrasilia": "23/09, 21:15",
+          "link": "https://www.youtube.com/watch?v=8l-SVoxTulY"
         }
       ],
       "erro": null
@@ -179,15 +186,31 @@
       "canalId": "UC8RrjoT8ovQ43Le7qvHuoMA",
       "nome": "Metrópoles Esportes",
       "logo": "https://yt3.ggpht.com/v8aQZpnGvmyJESJlihwnHykFcQhUw4iXxFC9-DKmjqvP2KzLcUgGvXHnRB0YV47DoAJemkhQsQ=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 1,
+      "totalLives": 3,
       "lives": [
         {
-          "videoId": "X4zmPIJC2a8",
+          "videoId": "ej-7D60M05M",
           "titulo": "#90minutos: MUITO DEBATE E TUDO SOBRE O FUTEBOL NACIONAL E INTERNACIONAL",
-          "thumbnail": "https://i.ytimg.com/vi/X4zmPIJC2a8/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-22T12:30:00Z",
-          "horarioBrasilia": "22/09, 09:30",
-          "link": "https://www.youtube.com/watch?v=X4zmPIJC2a8"
+          "thumbnail": "https://i.ytimg.com/vi/ej-7D60M05M/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-23T12:30:00Z",
+          "horarioBrasilia": "23/09, 09:30",
+          "link": "https://www.youtube.com/watch?v=ej-7D60M05M"
+        },
+        {
+          "videoId": "-f3qcajeRyA",
+          "titulo": "BARRA x NAÇÃO - COPA SANTA CATARINA 2026 - AO VIVO E COM IMAGENS - 23.09.26",
+          "thumbnail": "https://i.ytimg.com/vi/-f3qcajeRyA/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-23T21:45:00Z",
+          "horarioBrasilia": "23/09, 18:45",
+          "link": "https://www.youtube.com/watch?v=-f3qcajeRyA"
+        },
+        {
+          "videoId": "Pc1dh9e53tw",
+          "titulo": "GOIANÉSIA x RIO VERDE - GOIANÃO SÉRIE B 2026 - AO VIVO E COM IMAGENS - 23.09.26",
+          "thumbnail": "https://i.ytimg.com/vi/Pc1dh9e53tw/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-23T23:45:00Z",
+          "horarioBrasilia": "23/09, 20:45",
+          "link": "https://www.youtube.com/watch?v=Pc1dh9e53tw"
         }
       ],
       "erro": null
