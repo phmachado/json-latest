@@ -1,69 +1,28 @@
 {
-  "geradoEm": "2026-09-27T09:58:17.731Z",
-  "data": "2026-09-27",
+  "geradoEm": "2026-09-28T09:58:19.368Z",
+  "data": "2026-09-28",
   "canais": [
     {
       "canalId": "UCZiYbVptd3PVPf4f6eR6UaQ",
       "nome": "CazéTV",
       "logo": "https://yt3.ggpht.com/Zm3t3pgNIYY1HgkWYaWmU3E--oljMiWqX_2Ig4zkxziTkP3VOR9TGUmgJAPu7XrhP06ebxDg=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 4,
-      "lives": [
-        {
-          "videoId": "tJpsU9H1PmU",
-          "titulo": "AO VIVO: REACT DA LAVER CUP 2026 | CARLOS ALCARAZ X ALEX DE MINAUR | ESPECIAL LAVER CUP",
-          "thumbnail": "https://i.ytimg.com/vi/tJpsU9H1PmU/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-27T13:00:00Z",
-          "horarioBrasilia": "27/09, 10:00",
-          "link": "https://www.youtube.com/watch?v=tJpsU9H1PmU"
-        },
-        {
-          "videoId": "Zu37FLoyHdw",
-          "titulo": "AO VIVO: ESPANHA X COREIA DO NORTE | FINAL DA COPA DO MUNDO FEMININA SUB-20 FIFA 2026",
-          "thumbnail": "https://i.ytimg.com/vi/Zu37FLoyHdw/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-27T15:00:00Z",
-          "horarioBrasilia": "27/09, 12:00",
-          "link": "https://www.youtube.com/watch?v=Zu37FLoyHdw"
-        },
-        {
-          "videoId": "iVJ4vqaO7RQ",
-          "titulo": "AO VIVO: VÔLEI | MACKENZIE X BRUSQUE | TAÇA BRASIL DE VÔLEI FEMININO 2026",
-          "thumbnail": "https://i.ytimg.com/vi/iVJ4vqaO7RQ/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-27T16:30:00Z",
-          "horarioBrasilia": "27/09, 13:30",
-          "link": "https://www.youtube.com/watch?v=iVJ4vqaO7RQ"
-        },
-        {
-          "videoId": "qaUaTXEEOys",
-          "titulo": "AO VIVO: VÔLEI | SESI BAURU X LONDRINA | TAÇA BRASIL DE VÔLEI FEMININO 2026",
-          "thumbnail": "https://i.ytimg.com/vi/qaUaTXEEOys/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-27T19:00:00Z",
-          "horarioBrasilia": "27/09, 16:00",
-          "link": "https://www.youtube.com/watch?v=qaUaTXEEOys"
-        }
-      ],
+      "totalLives": 0,
+      "lives": [],
       "erro": null
     },
     {
       "canalId": "UCgCKagVhzGnZcuP9bSMgMCg",
       "nome": "ge tv",
       "logo": "https://yt3.ggpht.com/dc3tNE8gU99pZ_5gPcl_7U-hKf_Zzguxa4wTSexNKVNAWxli7hblw2BsrdHWASnjXRWciqecfTk=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 2,
+      "totalLives": 1,
       "lives": [
         {
-          "videoId": "G8ecB1S2KCM",
-          "titulo": "AO VIVO: SÉRVIA X HOLANDA | UEFA NATIONS LEAGUE 2026 | FASE DE GRUPOS | ge tv",
-          "thumbnail": "https://i.ytimg.com/vi/G8ecB1S2KCM/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-27T16:00:00Z",
-          "horarioBrasilia": "27/09, 13:00",
-          "link": "https://www.youtube.com/watch?v=G8ecB1S2KCM"
-        },
-        {
-          "videoId": "0YoG6mISrUc",
-          "titulo": "AO VIVO: NFL RIO GAME 2026 | BALTIMORE RAVENS X DALLAS COWBOYS | ge tv",
-          "thumbnail": "https://i.ytimg.com/vi/0YoG6mISrUc/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-27T18:25:00Z",
-          "horarioBrasilia": "27/09, 15:25",
-          "link": "https://www.youtube.com/watch?v=0YoG6mISrUc"
+          "videoId": "5U0DGeR1oBE",
+          "titulo": "AO VIVO! BRASIL X AUSTRÁLIA, NATIONS LEAGUE E FINAL DO BRASILEIRÃO FEMININO! | Panela sportv",
+          "thumbnail": "https://i.ytimg.com/vi/5U0DGeR1oBE/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-28T20:00:00Z",
+          "horarioBrasilia": "28/09, 17:00",
+          "link": "https://www.youtube.com/watch?v=5U0DGeR1oBE"
         }
       ],
       "erro": null
@@ -72,25 +31,8 @@
       "canalId": "UCs-6sCz2LJm1PrWQN4ErsPw",
       "nome": "TNT Sports Brasil",
       "logo": "https://yt3.ggpht.com/VQ2IGEcrhMSpuFb3RFDQOsVV9xI0shwQVorL8VLUGUGaV61Va1UMo4iwFOBVfOsrwTTYET22Hdk=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 2,
-      "lives": [
-        {
-          "videoId": "8m5lf6JmXL0",
-          "titulo": "FINAL DO MAIOR TORNEIO DE VÁRZEA DO BRASIL: REAL MADRUGA X JARDIM VERÔNIA - SUPERCOPA PIONEER 2026",
-          "thumbnail": "https://i.ytimg.com/vi/8m5lf6JmXL0/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-27T16:00:00Z",
-          "horarioBrasilia": "27/09, 13:00",
-          "link": "https://www.youtube.com/watch?v=8m5lf6JmXL0"
-        },
-        {
-          "videoId": "yv_iRnzaTtg",
-          "titulo": "AO VIVO: COLUMBUS CREW X INTER MIAMI | MESSI EM CAMPO NA MLS COM IMAGENS",
-          "thumbnail": "https://i.ytimg.com/vi/yv_iRnzaTtg/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-27T23:00:00Z",
-          "horarioBrasilia": "27/09, 20:00",
-          "link": "https://www.youtube.com/watch?v=yv_iRnzaTtg"
-        }
-      ],
+      "totalLives": 0,
+      "lives": [],
       "erro": null
     },
     {
@@ -105,31 +47,15 @@
       "canalId": "UC_oToDrJ6uca7d1dFVBmLtg",
       "nome": "Canal GOAT",
       "logo": "https://yt3.ggpht.com/NtXade9YlBhuNpJu5Tcj-PRXH57GtNbON4e6KgaGhZnuqKPDvrhUGcQl88j7F72BKLAaZ72QEow=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 3,
+      "totalLives": 1,
       "lives": [
         {
-          "videoId": "D1SHsantuuI",
-          "titulo": "CHELSEA X ARSENAL | AO VIVO E COM IMAGENS | WSL - WOMEN'S SUPER LEAGUE",
-          "thumbnail": "https://i.ytimg.com/vi/D1SHsantuuI/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-27T15:15:00Z",
-          "horarioBrasilia": "27/09, 12:15",
-          "link": "https://www.youtube.com/watch?v=D1SHsantuuI"
-        },
-        {
-          "videoId": "HldkspvUBdE",
-          "titulo": "HAITI X COSTA RICA | AO VIVO E COM IMAGENS | CONCACAF NATIONS LEAGUE",
-          "thumbnail": "https://i.ytimg.com/vi/HldkspvUBdE/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-27T22:30:00Z",
-          "horarioBrasilia": "27/09, 19:30",
-          "link": "https://www.youtube.com/watch?v=HldkspvUBdE"
-        },
-        {
-          "videoId": "mW6IJYdwvXg",
-          "titulo": "CURAÇAO X NICARÁGUA | AO VIVO E COM IMAGENS | CONCACAF NATIONS LEAGUE",
-          "thumbnail": "https://i.ytimg.com/vi/mW6IJYdwvXg/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-27T23:30:00Z",
-          "horarioBrasilia": "27/09, 20:30",
-          "link": "https://www.youtube.com/watch?v=mW6IJYdwvXg"
+          "videoId": "rnW7zCSHOmM",
+          "titulo": "JAMAICA X HONDURAS | AO VIVO E COM IMAGENS | CONCACAF NATIONS LEAGUE",
+          "thumbnail": "https://i.ytimg.com/vi/rnW7zCSHOmM/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-28T23:30:00Z",
+          "horarioBrasilia": "28/09, 20:30",
+          "link": "https://www.youtube.com/watch?v=rnW7zCSHOmM"
         }
       ],
       "erro": null
@@ -138,114 +64,64 @@
       "canalId": "UCv-Nx8pSfG_LxbViMz14RWQ",
       "nome": "Jovem Pan Esportes",
       "logo": "https://yt3.ggpht.com/oBgJPP0LOnImgTAk6TzhGdb-cENNNjuzdedazT6VGVZtagNc1pTmUZgw82pf_y3s73vCJ4-2Lg=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 2,
-      "lives": [
-        {
-          "videoId": "tyj95Ud7Tac",
-          "titulo": "CANELADA - 27/09/26",
-          "thumbnail": "https://i.ytimg.com/vi/tyj95Ud7Tac/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-27T16:00:00Z",
-          "horarioBrasilia": "27/09, 13:00",
-          "link": "https://www.youtube.com/watch?v=tyj95Ud7Tac"
-        },
-        {
-          "videoId": "B-DVM8e-0AQ",
-          "titulo": "JOVEM PAN FUTEBOL CLUBE - 27/09/2026",
-          "thumbnail": "https://i.ytimg.com/vi/B-DVM8e-0AQ/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-27T21:00:00Z",
-          "horarioBrasilia": "27/09, 18:00",
-          "link": "https://www.youtube.com/watch?v=B-DVM8e-0AQ"
-        }
-      ],
+      "totalLives": 0,
+      "lives": [],
       "erro": null
     },
     {
       "canalId": "UCf9WJPpsh5BHDY-OeISgIqA",
       "nome": "N Sports",
       "logo": "https://yt3.ggpht.com/tt9WaJh3uawWJUv4upgjMNJgirABgKgaionIiPMTor-5rL5EnszV6sL8KDLOwXmqUZmKfnlu=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 1,
-      "lives": [
-        {
-          "videoId": "FuhyG9Gr5K4",
-          "titulo": "AO VIVO E COM IMAGENS I FINAL DO OPEN NACIONAL DE FUTEVÔLEI - ETAPA ALPHAVILLE",
-          "thumbnail": "https://i.ytimg.com/vi/FuhyG9Gr5K4/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-27T17:00:00Z",
-          "horarioBrasilia": "27/09, 14:00",
-          "link": "https://www.youtube.com/watch?v=FuhyG9Gr5K4"
-        }
-      ],
+      "totalLives": 0,
+      "lives": [],
       "erro": null
     },
     {
       "canalId": "UCMcc9elPZGpg6eU4i3YaCpA",
       "nome": "SportyNet",
       "logo": "https://yt3.ggpht.com/gljY0R_KSQ6j9HLIgFWayZnekdpxPfCH-aKmm_2OFV5nru3CuGMtPTL8cG0qliPcM65gtTPb=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 2,
-      "lives": [
-        {
-          "videoId": "NVGNvgIEPk0",
-          "titulo": "CRB X CUIABÁ: AO VIVO E COM IMAGENS | RODADA 30 | SÉRIE B",
-          "thumbnail": "https://i.ytimg.com/vi/NVGNvgIEPk0/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-27T18:45:00Z",
-          "horarioBrasilia": "27/09, 15:45",
-          "link": "https://www.youtube.com/watch?v=NVGNvgIEPk0"
-        },
-        {
-          "videoId": "PS-sWYgBUM8",
-          "titulo": "FORTALEZA X ATHLETIC : AO VIVO E COM IMAGENS | RODADA 30 | SÉRIE B",
-          "thumbnail": "https://i.ytimg.com/vi/PS-sWYgBUM8/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-27T21:15:00Z",
-          "horarioBrasilia": "27/09, 18:15",
-          "link": "https://www.youtube.com/watch?v=PS-sWYgBUM8"
-        }
-      ],
+      "totalLives": 0,
+      "lives": [],
       "erro": null
     },
     {
       "canalId": "UC3KHYFWeB0WimMBfm3NEahQ",
       "nome": "UOL Esporte",
       "logo": "https://yt3.ggpht.com/WnRMVUq4sj-Q1bAp8yz9y7WqUzqcbSZYQMkeMlHF1Kdv0fa39fw1zf3ylt1cil-ntjuL-s21TA=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 0,
-      "lives": [],
+      "totalLives": 2,
+      "lives": [
+        {
+          "videoId": "eoTZ0iSq9N4",
+          "titulo": "POSSE DE BOLA AO VIVO COM MAURO CEZAR, EDUARDO TIRONI, JUCA KFOURI, TRAJANO E DANILO LAVIERI",
+          "thumbnail": "https://i.ytimg.com/vi/eoTZ0iSq9N4/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-28T11:30:00Z",
+          "horarioBrasilia": "28/09, 08:30",
+          "link": "https://www.youtube.com/watch?v=eoTZ0iSq9N4"
+        },
+        {
+          "videoId": "LBAe6Tva_-A",
+          "titulo": "DE PRIMEIRA | 28 DE SETEMBRO",
+          "thumbnail": "https://i.ytimg.com/vi/LBAe6Tva_-A/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-28T16:30:00Z",
+          "horarioBrasilia": "28/09, 13:30",
+          "link": "https://www.youtube.com/watch?v=LBAe6Tva_-A"
+        }
+      ],
       "erro": null
     },
     {
       "canalId": "UCH-BU-Os3JSo2L8lBQxE8KA",
       "nome": "Xsports",
       "logo": "https://yt3.ggpht.com/CTQyaT5nUAWjH0Vb-WIOrecZ3f4mAlS1N4niAFtIAX-g8gpTxITlkOY-dnRyh3th_1HxJ7KE=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 4,
+      "totalLives": 1,
       "lives": [
         {
-          "videoId": "4T_hi4b0tgs",
-          "titulo": "NOROESTE X SÃO JOSÉ | SEMIFINAL DA COPA PAULISTA | AO VIVO E COM IMAGENS",
-          "thumbnail": "https://i.ytimg.com/vi/4T_hi4b0tgs/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-27T12:45:00Z",
-          "horarioBrasilia": "27/09, 09:45",
-          "link": "https://www.youtube.com/watch?v=4T_hi4b0tgs"
-        },
-        {
-          "videoId": "gqXq6492zXY",
-          "titulo": "WTCS ETAPA FINAL DE PONTEVEDRA MASCULINO | AO VIVO E COM IMAGENS",
-          "thumbnail": "https://i.ytimg.com/vi/gqXq6492zXY/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-27T16:00:00Z",
-          "horarioBrasilia": "27/09, 13:00",
-          "link": "https://www.youtube.com/watch?v=gqXq6492zXY"
-        },
-        {
-          "videoId": "TsmvcH8Yf2w",
-          "titulo": "RACING X BOCA JUNIORS - COPA ARGENTINA - AO VIVO E COM IMAGENS",
-          "thumbnail": "https://i.ytimg.com/vi/TsmvcH8Yf2w/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-27T20:00:00Z",
-          "horarioBrasilia": "27/09, 17:00",
-          "link": "https://www.youtube.com/watch?v=TsmvcH8Yf2w"
-        },
-        {
-          "videoId": "2FxXAx6DumI",
-          "titulo": "TODAS AS NOVIDADES DA SELEÇÃO PARA ESSA DATA FIFA | RODADA XSPORTS",
-          "thumbnail": "https://i.ytimg.com/vi/2FxXAx6DumI/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-27T23:30:00Z",
-          "horarioBrasilia": "27/09, 20:30",
-          "link": "https://www.youtube.com/watch?v=2FxXAx6DumI"
+          "videoId": "hHte8rvrGNI",
+          "titulo": "TUDO QUE VAI ROLAR EM BRASIL E AUSTRÁLIA DESSA TERÇA FERA! | RODADA XSPORTS",
+          "thumbnail": "https://i.ytimg.com/vi/hHte8rvrGNI/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-29T02:45:00Z",
+          "horarioBrasilia": "28/09, 23:45",
+          "link": "https://www.youtube.com/watch?v=hHte8rvrGNI"
         }
       ],
       "erro": null
@@ -254,39 +130,15 @@
       "canalId": "UC8RrjoT8ovQ43Le7qvHuoMA",
       "nome": "Metrópoles Esportes",
       "logo": "https://yt3.ggpht.com/v8aQZpnGvmyJESJlihwnHykFcQhUw4iXxFC9-DKmjqvP2KzLcUgGvXHnRB0YV47DoAJemkhQsQ=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 4,
+      "totalLives": 1,
       "lives": [
         {
-          "videoId": "O4qNFuFPSbw",
-          "titulo": "NOROESTE x SÃO JOSÉ - COPA PAULISTA 2026 - AO VIVO E COM IMAGENS - 27.09.26",
-          "thumbnail": "https://i.ytimg.com/vi/O4qNFuFPSbw/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-27T12:45:00Z",
-          "horarioBrasilia": "27/09, 09:45",
-          "link": "https://www.youtube.com/watch?v=O4qNFuFPSbw"
-        },
-        {
-          "videoId": "aOu3aDIIKP8",
-          "titulo": "METROPOLITANO x FIGUEIRENSE - COPA SANTA CATARINA 2026 - AO VIVO E COM IMAGENS - 27.09.26",
-          "thumbnail": "https://i.ytimg.com/vi/aOu3aDIIKP8/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-27T17:45:00Z",
-          "horarioBrasilia": "27/09, 14:45",
-          "link": "https://www.youtube.com/watch?v=aOu3aDIIKP8"
-        },
-        {
-          "videoId": "OS5k7wPAzHw",
-          "titulo": "TAGUATINGA x PLANALTINA - CANDANGÃO SÉRIE B 2026 - AO VIVO E COM IMAGENS - 27.09.26",
-          "thumbnail": "https://i.ytimg.com/vi/OS5k7wPAzHw/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-27T18:15:00Z",
-          "horarioBrasilia": "27/09, 15:15",
-          "link": "https://www.youtube.com/watch?v=OS5k7wPAzHw"
-        },
-        {
-          "videoId": "hgkPw7Zs00w",
-          "titulo": "RIO VERDE x BOM JESUS - GOIANÃO SÉRIE B 2026 - AO VIVO E COM IMAGENS - 27.09.26",
-          "thumbnail": "https://i.ytimg.com/vi/hgkPw7Zs00w/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-27T19:45:00Z",
-          "horarioBrasilia": "27/09, 16:45",
-          "link": "https://www.youtube.com/watch?v=hgkPw7Zs00w"
+          "videoId": "rSXw1YVOtck",
+          "titulo": "#90Minutos: Debate e tudo sobre o futebol nacional e internacional com quem entende de bola",
+          "thumbnail": "https://i.ytimg.com/vi/rSXw1YVOtck/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-28T12:30:00Z",
+          "horarioBrasilia": "28/09, 09:30",
+          "link": "https://www.youtube.com/watch?v=rSXw1YVOtck"
         }
       ],
       "erro": null
@@ -295,25 +147,8 @@
       "canalId": "UCfi9IhipFGSa0eD_EA8JHrA",
       "nome": "Canal GoLBrasil ",
       "logo": "https://yt3.ggpht.com/jH0azzxNbxmjDmzpzqV94Rnq0l3VUzxNinwPx4MqjEOTfkqbiCIxm-M0CQogVux0Z9_QJzy6=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 2,
-      "lives": [
-        {
-          "videoId": "VB_GLVG1y4g",
-          "titulo": "AO VIVO: SPORT BOYS X ALIANZA ATLÉTICO I COPA DA LIGA DO PERÚ I CANAL GOL BRASIL",
-          "thumbnail": "https://i.ytimg.com/vi/VB_GLVG1y4g/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-27T18:00:00Z",
-          "horarioBrasilia": "27/09, 15:00",
-          "link": "https://www.youtube.com/watch?v=VB_GLVG1y4g"
-        },
-        {
-          "videoId": "FE-598lzwNs",
-          "titulo": "AO VIVO: ADT X SPORTING CRISTAL I COPA DA LIGA DO PERÚ I CANAL GOL BRASIL",
-          "thumbnail": "https://i.ytimg.com/vi/FE-598lzwNs/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-27T20:15:00Z",
-          "horarioBrasilia": "27/09, 17:15",
-          "link": "https://www.youtube.com/watch?v=FE-598lzwNs"
-        }
-      ],
+      "totalLives": 0,
+      "lives": [],
       "erro": null
     }
   ]
