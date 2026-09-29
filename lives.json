@@ -1,28 +1,53 @@
 {
-  "geradoEm": "2026-09-28T09:58:19.368Z",
-  "data": "2026-09-28",
+  "geradoEm": "2026-09-29T09:58:19.009Z",
+  "data": "2026-09-29",
   "canais": [
     {
       "canalId": "UCZiYbVptd3PVPf4f6eR6UaQ",
       "nome": "CazéTV",
       "logo": "https://yt3.ggpht.com/Zm3t3pgNIYY1HgkWYaWmU3E--oljMiWqX_2Ig4zkxziTkP3VOR9TGUmgJAPu7XrhP06ebxDg=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 0,
-      "lives": [],
+      "totalLives": 1,
+      "lives": [
+        {
+          "videoId": "g-SWWb9g33s",
+          "titulo": "AO VIVO: LOGO APÓS O AMISTOSO BRASIL X AUSTRÁLIA | GERAL CAZÉTV",
+          "thumbnail": "https://i.ytimg.com/vi/g-SWWb9g33s/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-29T11:50:00Z",
+          "horarioBrasilia": "29/09, 08:50",
+          "link": "https://www.youtube.com/watch?v=g-SWWb9g33s"
+        }
+      ],
       "erro": null
     },
     {
       "canalId": "UCgCKagVhzGnZcuP9bSMgMCg",
       "nome": "ge tv",
       "logo": "https://yt3.ggpht.com/dc3tNE8gU99pZ_5gPcl_7U-hKf_Zzguxa4wTSexNKVNAWxli7hblw2BsrdHWASnjXRWciqecfTk=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 1,
+      "totalLives": 3,
       "lives": [
         {
-          "videoId": "5U0DGeR1oBE",
-          "titulo": "AO VIVO! BRASIL X AUSTRÁLIA, NATIONS LEAGUE E FINAL DO BRASILEIRÃO FEMININO! | Panela sportv",
-          "thumbnail": "https://i.ytimg.com/vi/5U0DGeR1oBE/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-28T20:00:00Z",
-          "horarioBrasilia": "28/09, 17:00",
-          "link": "https://www.youtube.com/watch?v=5U0DGeR1oBE"
+          "videoId": "OF3eMwOGHj8",
+          "titulo": "AO VIVO! PRIMEIRA DESCIDA TRAZ TUDO SOBRE NFL RIO GAME! #podcast | ge.globo",
+          "thumbnail": "https://i.ytimg.com/vi/OF3eMwOGHj8/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-29T14:00:00Z",
+          "horarioBrasilia": "29/09, 11:00",
+          "link": "https://www.youtube.com/watch?v=OF3eMwOGHj8"
+        },
+        {
+          "videoId": "XGNck84VyXg",
+          "titulo": "AO VIVO! NA PONTA DOS DEDOS ANALISA VITÓRIA DE GEORGE RUSSELL NO GP DE BAKU #podcast | ge.globo",
+          "thumbnail": "https://i.ytimg.com/vi/XGNck84VyXg/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-29T17:00:00Z",
+          "horarioBrasilia": "29/09, 14:00",
+          "link": "https://www.youtube.com/watch?v=XGNck84VyXg"
+        },
+        {
+          "videoId": "ucq7vifdYSI",
+          "titulo": "AO VIVO! BRASIL X AUSTRÁLIA: O QUE ACONTECE COM A SELEÇÃO BRASILEIRA? | Denilson show | ge tv",
+          "thumbnail": "https://i.ytimg.com/vi/ucq7vifdYSI/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-29T22:00:00Z",
+          "horarioBrasilia": "29/09, 19:00",
+          "link": "https://www.youtube.com/watch?v=ucq7vifdYSI"
         }
       ],
       "erro": null
@@ -47,17 +72,8 @@
       "canalId": "UC_oToDrJ6uca7d1dFVBmLtg",
       "nome": "Canal GOAT",
       "logo": "https://yt3.ggpht.com/NtXade9YlBhuNpJu5Tcj-PRXH57GtNbON4e6KgaGhZnuqKPDvrhUGcQl88j7F72BKLAaZ72QEow=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 1,
-      "lives": [
-        {
-          "videoId": "rnW7zCSHOmM",
-          "titulo": "JAMAICA X HONDURAS | AO VIVO E COM IMAGENS | CONCACAF NATIONS LEAGUE",
-          "thumbnail": "https://i.ytimg.com/vi/rnW7zCSHOmM/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-28T23:30:00Z",
-          "horarioBrasilia": "28/09, 20:30",
-          "link": "https://www.youtube.com/watch?v=rnW7zCSHOmM"
-        }
-      ],
+      "totalLives": 0,
+      "lives": [],
       "erro": null
     },
     {
@@ -88,23 +104,47 @@
       "canalId": "UC3KHYFWeB0WimMBfm3NEahQ",
       "nome": "UOL Esporte",
       "logo": "https://yt3.ggpht.com/WnRMVUq4sj-Q1bAp8yz9y7WqUzqcbSZYQMkeMlHF1Kdv0fa39fw1zf3ylt1cil-ntjuL-s21TA=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 2,
+      "totalLives": 5,
       "lives": [
         {
-          "videoId": "eoTZ0iSq9N4",
-          "titulo": "POSSE DE BOLA AO VIVO COM MAURO CEZAR, EDUARDO TIRONI, JUCA KFOURI, TRAJANO E DANILO LAVIERI",
-          "thumbnail": "https://i.ytimg.com/vi/eoTZ0iSq9N4/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-28T11:30:00Z",
-          "horarioBrasilia": "28/09, 08:30",
-          "link": "https://www.youtube.com/watch?v=eoTZ0iSq9N4"
+          "videoId": "zunC7gbhLAU",
+          "titulo": "POSSE DE BOLA COM MAURO, TIRONI, JUCA, TRAJANO E LAVIERI; BRASIL DECEPCIONA E EMPATA COM AUSTRÁLIA",
+          "thumbnail": "https://i.ytimg.com/vi/zunC7gbhLAU/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-29T12:00:00Z",
+          "horarioBrasilia": "29/09, 09:00",
+          "link": "https://www.youtube.com/watch?v=zunC7gbhLAU"
         },
         {
-          "videoId": "LBAe6Tva_-A",
-          "titulo": "DE PRIMEIRA | 28 DE SETEMBRO",
-          "thumbnail": "https://i.ytimg.com/vi/LBAe6Tva_-A/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-28T16:30:00Z",
-          "horarioBrasilia": "28/09, 13:30",
-          "link": "https://www.youtube.com/watch?v=LBAe6Tva_-A"
+          "videoId": "A_KuchlcTjk",
+          "titulo": "DE PRIMEIRA | 29 DE SETEMBRO",
+          "thumbnail": "https://i.ytimg.com/vi/A_KuchlcTjk/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-29T16:30:00Z",
+          "horarioBrasilia": "29/09, 13:30",
+          "link": "https://www.youtube.com/watch?v=A_KuchlcTjk"
+        },
+        {
+          "videoId": "tGw3WPqo_n8",
+          "titulo": "LIVE DO SANTOS | 29 DE SETEMBRO",
+          "thumbnail": "https://i.ytimg.com/vi/tGw3WPqo_n8/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-29T20:00:00Z",
+          "horarioBrasilia": "29/09, 17:00",
+          "link": "https://www.youtube.com/watch?v=tGw3WPqo_n8"
+        },
+        {
+          "videoId": "bZjUasxq6fQ",
+          "titulo": "BLOCO DE ESPORTE | 29 DE SETEMBRO",
+          "thumbnail": "https://i.ytimg.com/vi/bZjUasxq6fQ/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-29T20:30:00Z",
+          "horarioBrasilia": "29/09, 17:30",
+          "link": "https://www.youtube.com/watch?v=bZjUasxq6fQ"
+        },
+        {
+          "videoId": "S9HJZZEhasI",
+          "titulo": "CARTÃO VERMELHO | 29 DE SETEMBRO",
+          "thumbnail": "https://i.ytimg.com/vi/S9HJZZEhasI/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-29T21:00:00Z",
+          "horarioBrasilia": "29/09, 18:00",
+          "link": "https://www.youtube.com/watch?v=S9HJZZEhasI"
         }
       ],
       "erro": null
@@ -113,15 +153,23 @@
       "canalId": "UCH-BU-Os3JSo2L8lBQxE8KA",
       "nome": "Xsports",
       "logo": "https://yt3.ggpht.com/CTQyaT5nUAWjH0Vb-WIOrecZ3f4mAlS1N4niAFtIAX-g8gpTxITlkOY-dnRyh3th_1HxJ7KE=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 1,
+      "totalLives": 2,
       "lives": [
         {
-          "videoId": "hHte8rvrGNI",
-          "titulo": "TUDO QUE VAI ROLAR EM BRASIL E AUSTRÁLIA DESSA TERÇA FERA! | RODADA XSPORTS",
-          "thumbnail": "https://i.ytimg.com/vi/hHte8rvrGNI/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-29T02:45:00Z",
-          "horarioBrasilia": "28/09, 23:45",
-          "link": "https://www.youtube.com/watch?v=hHte8rvrGNI"
+          "videoId": "eFR0s-fuePM",
+          "titulo": "ANADOLU X REAL MADRID | EUROLIGA DE BASQUETE | AO VIVO E COM IMAGENS",
+          "thumbnail": "https://i.ytimg.com/vi/eFR0s-fuePM/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-29T17:00:00Z",
+          "horarioBrasilia": "29/09, 14:00",
+          "link": "https://www.youtube.com/watch?v=eFR0s-fuePM"
+        },
+        {
+          "videoId": "E_qi_KPSe1k",
+          "titulo": "TUDO QUE ROLOU NESTA TERÇA-FEIRA ENTRE BRASIL E AUSTRÁLIA! | RODADA XSPORTS",
+          "thumbnail": "https://i.ytimg.com/vi/E_qi_KPSe1k/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-30T00:30:00Z",
+          "horarioBrasilia": "29/09, 21:30",
+          "link": "https://www.youtube.com/watch?v=E_qi_KPSe1k"
         }
       ],
       "erro": null
@@ -133,12 +181,12 @@
       "totalLives": 1,
       "lives": [
         {
-          "videoId": "rSXw1YVOtck",
+          "videoId": "gKcSfNw0wNg",
           "titulo": "#90Minutos: Debate e tudo sobre o futebol nacional e internacional com quem entende de bola",
-          "thumbnail": "https://i.ytimg.com/vi/rSXw1YVOtck/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-28T12:30:00Z",
-          "horarioBrasilia": "28/09, 09:30",
-          "link": "https://www.youtube.com/watch?v=rSXw1YVOtck"
+          "thumbnail": "https://i.ytimg.com/vi/gKcSfNw0wNg/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-29T12:30:00Z",
+          "horarioBrasilia": "29/09, 09:30",
+          "link": "https://www.youtube.com/watch?v=gKcSfNw0wNg"
         }
       ],
       "erro": null
@@ -147,8 +195,17 @@
       "canalId": "UCfi9IhipFGSa0eD_EA8JHrA",
       "nome": "Canal GoLBrasil ",
       "logo": "https://yt3.ggpht.com/jH0azzxNbxmjDmzpzqV94Rnq0l3VUzxNinwPx4MqjEOTfkqbiCIxm-M0CQogVux0Z9_QJzy6=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 0,
-      "lives": [],
+      "totalLives": 1,
+      "lives": [
+        {
+          "videoId": "R8CJn9C3wj0",
+          "titulo": "AO VIVO: ZARAGOZA X EL POZO MÚRCIA I LIGA ESPANHOLA DE FUTSAL  I CANAL GOL BRASIL",
+          "thumbnail": "https://i.ytimg.com/vi/R8CJn9C3wj0/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-09-29T18:30:00Z",
+          "horarioBrasilia": "29/09, 15:30",
+          "link": "https://www.youtube.com/watch?v=R8CJn9C3wj0"
+        }
+      ],
       "erro": null
     }
   ]
