@@ -1,6 +1,6 @@
 {
-  "geradoEm": "2026-09-30T09:58:19.508Z",
-  "data": "2026-09-30",
+  "geradoEm": "2026-10-01T09:58:19.914Z",
+  "data": "2026-10-01",
   "canais": [
     {
       "canalId": "UCZiYbVptd3PVPf4f6eR6UaQ",
@@ -9,12 +9,12 @@
       "totalLives": 1,
       "lives": [
         {
-          "videoId": "fXKULOZL3bs",
-          "titulo": "AO VIVO: TÊNIS DE MESA | CHINA SMASH 2026",
-          "thumbnail": "https://i.ytimg.com/vi/fXKULOZL3bs/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-10-01T02:45:00Z",
-          "horarioBrasilia": "30/09, 23:45",
-          "link": "https://www.youtube.com/watch?v=fXKULOZL3bs"
+          "videoId": "fPj7jnNsFYY",
+          "titulo": "AO VIVO: TÊNIS DE MESA | TIME BRASIL NO CHINA SMASH 2026 | QUALIFICATÓRIAS",
+          "thumbnail": "https://i.ytimg.com/vi/fPj7jnNsFYY/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-02T02:45:00Z",
+          "horarioBrasilia": "01/10, 23:45",
+          "link": "https://www.youtube.com/watch?v=fPj7jnNsFYY"
         }
       ],
       "erro": null
@@ -23,16 +23,66 @@
       "canalId": "UCgCKagVhzGnZcuP9bSMgMCg",
       "nome": "ge tv",
       "logo": "https://yt3.ggpht.com/dc3tNE8gU99pZ_5gPcl_7U-hKf_Zzguxa4wTSexNKVNAWxli7hblw2BsrdHWASnjXRWciqecfTk=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 0,
-      "lives": [],
+      "totalLives": 5,
+      "lives": [
+        {
+          "videoId": "dH0LsF0rJyI",
+          "titulo": "AO VIVO: VÔLEI | LANÇAMENTO DA SUPERLIGA | TEMPORADA 2026/27 | ge tv",
+          "thumbnail": "https://i.ytimg.com/vi/dH0LsF0rJyI/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-01T17:15:00Z",
+          "horarioBrasilia": "01/10, 14:15",
+          "link": "https://www.youtube.com/watch?v=dH0LsF0rJyI"
+        },
+        {
+          "videoId": "Wys_ybnvOdQ",
+          "titulo": "DINAMARCA X PORTUGAL | AQUECIMENTO AO VIVO | LIGA DAS NAÇÕES DA UEFA | #live | sportv",
+          "thumbnail": "https://i.ytimg.com/vi/Wys_ybnvOdQ/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-01T18:00:00Z",
+          "horarioBrasilia": "01/10, 15:00",
+          "link": "https://www.youtube.com/watch?v=Wys_ybnvOdQ"
+        },
+        {
+          "videoId": "JJL6tHV_oBo",
+          "titulo": "AO VIVO: ALEMANHA X SÉRVIA | UEFA NATIONS LEAGUE 2026 | FASE DE GRUPOS | ge tv",
+          "thumbnail": "https://i.ytimg.com/vi/JJL6tHV_oBo/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-01T18:15:00Z",
+          "horarioBrasilia": "01/10, 15:15",
+          "link": "https://www.youtube.com/watch?v=JJL6tHV_oBo"
+        },
+        {
+          "videoId": "xAWnlqqii4E",
+          "titulo": "AO VIVO! UBUNTU ESPORTE CLUBE RECEBE LAURA LUZ, A GLORINHA DA NOVELA \"POR VOCÊ\" | ge.globo",
+          "thumbnail": "https://i.ytimg.com/vi/xAWnlqqii4E/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-01T21:30:00Z",
+          "horarioBrasilia": "01/10, 18:30",
+          "link": "https://www.youtube.com/watch?v=xAWnlqqii4E"
+        },
+        {
+          "videoId": "1qZ94mt1X0o",
+          "titulo": "AO VIVO: CLEVELAND BROWNS X PITTSBURGH STEELERS  | NFL 2026/27 | ge tv",
+          "thumbnail": "https://i.ytimg.com/vi/1qZ94mt1X0o/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-01T23:15:00Z",
+          "horarioBrasilia": "01/10, 20:15",
+          "link": "https://www.youtube.com/watch?v=1qZ94mt1X0o"
+        }
+      ],
       "erro": null
     },
     {
       "canalId": "UCs-6sCz2LJm1PrWQN4ErsPw",
       "nome": "TNT Sports Brasil",
       "logo": "https://yt3.ggpht.com/VQ2IGEcrhMSpuFb3RFDQOsVV9xI0shwQVorL8VLUGUGaV61Va1UMo4iwFOBVfOsrwTTYET22Hdk=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 0,
-      "lives": [],
+      "totalLives": 1,
+      "lives": [
+        {
+          "videoId": "gUr4Ul_5q4w",
+          "titulo": "CRISTIANO RONALDO DEIXA A SELEÇÃO DE PORTUGAL EM MEIO À CRISE COM JORGE JESUS | MFM",
+          "thumbnail": "https://i.ytimg.com/vi/gUr4Ul_5q4w/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-01T14:30:00Z",
+          "horarioBrasilia": "01/10, 11:30",
+          "link": "https://www.youtube.com/watch?v=gUr4Ul_5q4w"
+        }
+      ],
       "erro": null
     },
     {
@@ -47,8 +97,25 @@
       "canalId": "UC_oToDrJ6uca7d1dFVBmLtg",
       "nome": "Canal GOAT",
       "logo": "https://yt3.ggpht.com/NtXade9YlBhuNpJu5Tcj-PRXH57GtNbON4e6KgaGhZnuqKPDvrhUGcQl88j7F72BKLAaZ72QEow=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 0,
-      "lives": [],
+      "totalLives": 2,
+      "lives": [
+        {
+          "videoId": "CQAsbk66pXE",
+          "titulo": "CURAÇAO X TRINIDAD E TOBAGO | AO VIVO E COM IMAGENS | CONCACAF NATIONS LEAGUE",
+          "thumbnail": "https://i.ytimg.com/vi/CQAsbk66pXE/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-01T21:30:00Z",
+          "horarioBrasilia": "01/10, 18:30",
+          "link": "https://www.youtube.com/watch?v=CQAsbk66pXE"
+        },
+        {
+          "videoId": "lWH9y6hR2AE",
+          "titulo": "REPÚBLICA DOMINICANA X HAITI | AO VIVO E COM IMAGENS | CONCACAF NATIONS LEAGUE",
+          "thumbnail": "https://i.ytimg.com/vi/lWH9y6hR2AE/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-01T23:30:00Z",
+          "horarioBrasilia": "01/10, 20:30",
+          "link": "https://www.youtube.com/watch?v=lWH9y6hR2AE"
+        }
+      ],
       "erro": null
     },
     {
@@ -71,64 +138,64 @@
       "canalId": "UCMcc9elPZGpg6eU4i3YaCpA",
       "nome": "SportyNet",
       "logo": "https://yt3.ggpht.com/gljY0R_KSQ6j9HLIgFWayZnekdpxPfCH-aKmm_2OFV5nru3CuGMtPTL8cG0qliPcM65gtTPb=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 0,
-      "lives": [],
+      "totalLives": 1,
+      "lives": [
+        {
+          "videoId": "88MCAXXTr7A",
+          "titulo": "NOVORIZONTINO X GOIÁS: AO VIVO E COM IMAGENS | RODADA 31 | SÉRIE B",
+          "thumbnail": "https://i.ytimg.com/vi/88MCAXXTr7A/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-01T22:45:00Z",
+          "horarioBrasilia": "01/10, 19:45",
+          "link": "https://www.youtube.com/watch?v=88MCAXXTr7A"
+        }
+      ],
       "erro": null
     },
     {
       "canalId": "UC3KHYFWeB0WimMBfm3NEahQ",
       "nome": "UOL Esporte",
       "logo": "https://yt3.ggpht.com/WnRMVUq4sj-Q1bAp8yz9y7WqUzqcbSZYQMkeMlHF1Kdv0fa39fw1zf3ylt1cil-ntjuL-s21TA=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 4,
-      "lives": [
-        {
-          "videoId": "HOpTVo_OJXc",
-          "titulo": "UOL NEWS ESPORTE | 30 DE SETEMBRO",
-          "thumbnail": "https://i.ytimg.com/vi/HOpTVo_OJXc/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-30T11:30:00Z",
-          "horarioBrasilia": "30/09, 08:30",
-          "link": "https://www.youtube.com/watch?v=HOpTVo_OJXc"
-        },
-        {
-          "videoId": "G7p2JygQf2o",
-          "titulo": "DE PRIMEIRA | 30 DE SETEMBRO",
-          "thumbnail": "https://i.ytimg.com/vi/G7p2JygQf2o/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-30T16:30:00Z",
-          "horarioBrasilia": "30/09, 13:30",
-          "link": "https://www.youtube.com/watch?v=G7p2JygQf2o"
-        },
-        {
-          "videoId": "JioAT7L4goE",
-          "titulo": "LIVE DO PALMEIRAS | 30 DE SETEMBRO",
-          "thumbnail": "https://i.ytimg.com/vi/JioAT7L4goE/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-30T19:00:00Z",
-          "horarioBrasilia": "30/09, 16:00",
-          "link": "https://www.youtube.com/watch?v=JioAT7L4goE"
-        },
-        {
-          "videoId": "YNaU5BglwH0",
-          "titulo": "BLOCO DE ESPORTE | 30 DE SETEMBRO",
-          "thumbnail": "https://i.ytimg.com/vi/YNaU5BglwH0/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-30T20:30:00Z",
-          "horarioBrasilia": "30/09, 17:30",
-          "link": "https://www.youtube.com/watch?v=YNaU5BglwH0"
-        }
-      ],
+      "totalLives": 0,
+      "lives": [],
       "erro": null
     },
     {
       "canalId": "UCH-BU-Os3JSo2L8lBQxE8KA",
       "nome": "Xsports",
       "logo": "https://yt3.ggpht.com/CTQyaT5nUAWjH0Vb-WIOrecZ3f4mAlS1N4niAFtIAX-g8gpTxITlkOY-dnRyh3th_1HxJ7KE=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 1,
+      "totalLives": 4,
       "lives": [
         {
-          "videoId": "5eFpP4ltc7c",
-          "titulo": "PANATHINAIKOS X LDLC ASVEL | EUROLIGA DE BASQUETE | AO VIVO E COM IMAGENS",
-          "thumbnail": "https://i.ytimg.com/vi/5eFpP4ltc7c/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-30T18:15:00Z",
-          "horarioBrasilia": "30/09, 15:15",
-          "link": "https://www.youtube.com/watch?v=5eFpP4ltc7c"
+          "videoId": "FAEfV0RxD8w",
+          "titulo": "HAPOEL TEL-AVIV X REAL MADRID | EUROLIGA DE BASQUETE | AO VIVO E COM IMAGENS",
+          "thumbnail": "https://i.ytimg.com/vi/FAEfV0RxD8w/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-01T16:00:00Z",
+          "horarioBrasilia": "01/10, 13:00",
+          "link": "https://www.youtube.com/watch?v=FAEfV0RxD8w"
+        },
+        {
+          "videoId": "RjXgpoD0H0U",
+          "titulo": "VIRTUS BOLOGNA X OLYMPIACOS | EUROLIGA DE BASQUETE | AO VIVO E COM IMAGENS",
+          "thumbnail": "https://i.ytimg.com/vi/RjXgpoD0H0U/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-01T18:15:00Z",
+          "horarioBrasilia": "01/10, 15:15",
+          "link": "https://www.youtube.com/watch?v=RjXgpoD0H0U"
+        },
+        {
+          "videoId": "G9eJRXKGIt8",
+          "titulo": "PLATENSE X ESTUDIANTES | QUARTAS DE FINAL DA COPA ARGENTINA | AO VIVO E COM IMAGENS",
+          "thumbnail": "https://i.ytimg.com/vi/G9eJRXKGIt8/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-02T00:15:00Z",
+          "horarioBrasilia": "01/10, 21:15",
+          "link": "https://www.youtube.com/watch?v=G9eJRXKGIt8"
+        },
+        {
+          "videoId": "QELsVOH_WpE",
+          "titulo": "TODAS AS NOVIDADES DA SELEÇÃO NESSA DATA FIFA! | RODADA XSPORTS",
+          "thumbnail": "https://i.ytimg.com/vi/QELsVOH_WpE/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-02T02:00:00Z",
+          "horarioBrasilia": "01/10, 23:00",
+          "link": "https://www.youtube.com/watch?v=QELsVOH_WpE"
         }
       ],
       "erro": null
@@ -140,12 +207,12 @@
       "totalLives": 1,
       "lives": [
         {
-          "videoId": "OLjhya2pWNw",
+          "videoId": "TPzJpLv7sgE",
           "titulo": "#90minutos: Tudo sobre o futebol nacional e internacional com quem entende de bola",
-          "thumbnail": "https://i.ytimg.com/vi/OLjhya2pWNw/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-30T12:30:00Z",
-          "horarioBrasilia": "30/09, 09:30",
-          "link": "https://www.youtube.com/watch?v=OLjhya2pWNw"
+          "thumbnail": "https://i.ytimg.com/vi/TPzJpLv7sgE/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-01T12:30:00Z",
+          "horarioBrasilia": "01/10, 09:30",
+          "link": "https://www.youtube.com/watch?v=TPzJpLv7sgE"
         }
       ],
       "erro": null
@@ -157,12 +224,12 @@
       "totalLives": 1,
       "lives": [
         {
-          "videoId": "0VQWH0jYxHo",
-          "titulo": "AO VIVO: BARCELONA X O' PARULLO I LIGA ESPANHOLA DE FUTSAL I CANAL GOL BRASIL",
-          "thumbnail": "https://i.ytimg.com/vi/0VQWH0jYxHo/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-09-30T18:45:00Z",
-          "horarioBrasilia": "30/09, 15:45",
-          "link": "https://www.youtube.com/watch?v=0VQWH0jYxHo"
+          "videoId": "Y8pt745mLAU",
+          "titulo": "AO VIVO: SPORTING CRISTAL X ADT  I COPA DA LIGA DO PERÚ I CANAL GOL BRASIL",
+          "thumbnail": "https://i.ytimg.com/vi/Y8pt745mLAU/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-01T20:00:00Z",
+          "horarioBrasilia": "01/10, 17:00",
+          "link": "https://www.youtube.com/watch?v=Y8pt745mLAU"
         }
       ],
       "erro": null
