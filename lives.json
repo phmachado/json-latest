@@ -1,36 +1,20 @@
 {
-  "geradoEm": "2026-10-04T09:58:19.118Z",
-  "data": "2026-10-04",
+  "geradoEm": "2026-10-05T09:58:17.480Z",
+  "data": "2026-10-05",
   "canais": [
     {
       "canalId": "UCZiYbVptd3PVPf4f6eR6UaQ",
       "nome": "CazéTV",
       "logo": "https://yt3.ggpht.com/Zm3t3pgNIYY1HgkWYaWmU3E--oljMiWqX_2Ig4zkxziTkP3VOR9TGUmgJAPu7XrhP06ebxDg=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 3,
+      "totalLives": 1,
       "lives": [
         {
-          "videoId": "wwyKQQu6s-E",
-          "titulo": "AO VIVO: TÊNIS DE MESA | HUGO CALDERANO E BRUNA TAKAHASHI NO CHINA SMASH 2026 | 32 AVOS DE FINAL",
-          "thumbnail": "https://i.ytimg.com/vi/wwyKQQu6s-E/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-10-04T11:20:00Z",
-          "horarioBrasilia": "04/10, 08:20",
-          "link": "https://www.youtube.com/watch?v=wwyKQQu6s-E"
-        },
-        {
-          "videoId": "wftwgxar_Xk",
+          "videoId": "XQ2CgQtFI_c",
           "titulo": "AO VIVO: JUDÔ | TIME BRASIL NO MUNDIAL DE BAKU 2026 | FINAIS",
-          "thumbnail": "https://i.ytimg.com/vi/wftwgxar_Xk/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-10-04T13:30:00Z",
-          "horarioBrasilia": "04/10, 10:30",
-          "link": "https://www.youtube.com/watch?v=wftwgxar_Xk"
-        },
-        {
-          "videoId": "2fHnMce48N8",
-          "titulo": "AO VIVO (SOM AMBIENTE): TÊNIS | HENRIQUE ROCHA X INAKI MONTES | ATP CHALLENGER DE PORTO | FINAL",
-          "thumbnail": "https://i.ytimg.com/vi/2fHnMce48N8/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-10-04T14:45:00Z",
-          "horarioBrasilia": "04/10, 11:45",
-          "link": "https://www.youtube.com/watch?v=2fHnMce48N8"
+          "thumbnail": "https://i.ytimg.com/vi/XQ2CgQtFI_c/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-05T13:30:00Z",
+          "horarioBrasilia": "05/10, 10:30",
+          "link": "https://www.youtube.com/watch?v=XQ2CgQtFI_c"
         }
       ],
       "erro": null
@@ -39,31 +23,23 @@
       "canalId": "UCgCKagVhzGnZcuP9bSMgMCg",
       "nome": "ge tv",
       "logo": "https://yt3.ggpht.com/dc3tNE8gU99pZ_5gPcl_7U-hKf_Zzguxa4wTSexNKVNAWxli7hblw2BsrdHWASnjXRWciqecfTk=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 3,
+      "totalLives": 2,
       "lives": [
         {
-          "videoId": "3gT3hFegz6w",
-          "titulo": "AO VIVO: NFL LONDON GAME 2026 | WASHINGTON COMMANDERS X INDIANAPOLIS COLTS | ge tv",
-          "thumbnail": "https://i.ytimg.com/vi/3gT3hFegz6w/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-10-04T13:00:00Z",
-          "horarioBrasilia": "04/10, 10:00",
-          "link": "https://www.youtube.com/watch?v=3gT3hFegz6w"
+          "videoId": "6sNpgO9dx8c",
+          "titulo": "AO VIVO: ITÁLIA X TURQUIA | UEFA NATIONS LEAGUE 2026 | FASE DE GRUPOS | ge tv",
+          "thumbnail": "https://i.ytimg.com/vi/6sNpgO9dx8c/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-05T18:15:00Z",
+          "horarioBrasilia": "05/10, 15:15",
+          "link": "https://www.youtube.com/watch?v=6sNpgO9dx8c"
         },
         {
-          "videoId": "dxIxIkNF5y8",
-          "titulo": "AO VIVO: SEATTLE SEAHAWKS X  LOS ANGELES CHARGERS | NFL 2026/27 | ge tv",
-          "thumbnail": "https://i.ytimg.com/vi/dxIxIkNF5y8/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-10-04T19:00:00Z",
-          "horarioBrasilia": "04/10, 16:00",
-          "link": "https://www.youtube.com/watch?v=dxIxIkNF5y8"
-        },
-        {
-          "videoId": "xYGSXBvsqwg",
-          "titulo": "DETROIT LIONS X CAROLINA PANTHERS | AQUECIMENTO AO VIVO | NFL | #live | sportv",
-          "thumbnail": "https://i.ytimg.com/vi/xYGSXBvsqwg/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-10-04T23:20:00Z",
-          "horarioBrasilia": "04/10, 20:20",
-          "link": "https://www.youtube.com/watch?v=xYGSXBvsqwg"
+          "videoId": "lRjQWT2SBA0",
+          "titulo": "AO VIVO! SELEÇÃO, CR7 X J. JESUS, TÍTULO DO FEMININO E VOLTA DO BRASILEIRÃO! | Panela sportv",
+          "thumbnail": "https://i.ytimg.com/vi/lRjQWT2SBA0/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-05T21:00:00Z",
+          "horarioBrasilia": "05/10, 18:00",
+          "link": "https://www.youtube.com/watch?v=lRjQWT2SBA0"
         }
       ],
       "erro": null
@@ -88,25 +64,8 @@
       "canalId": "UC_oToDrJ6uca7d1dFVBmLtg",
       "nome": "Canal GOAT",
       "logo": "https://yt3.ggpht.com/NtXade9YlBhuNpJu5Tcj-PRXH57GtNbON4e6KgaGhZnuqKPDvrhUGcQl88j7F72BKLAaZ72QEow=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 2,
-      "lives": [
-        {
-          "videoId": "YJ5HJ7ZqpBU",
-          "titulo": "TOTTENHAM X LONDON CITY LIONESSES | AO VIVO E COM IMAGENS | WSL - WOMEN'S SUPER LEAGUE",
-          "thumbnail": "https://i.ytimg.com/vi/YJ5HJ7ZqpBU/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-10-04T12:30:00Z",
-          "horarioBrasilia": "04/10, 09:30",
-          "link": "https://www.youtube.com/watch?v=YJ5HJ7ZqpBU"
-        },
-        {
-          "videoId": "OGS56F9O8fc",
-          "titulo": "MANCHESTER CITY X ARSENAL | AO VIVO E COM IMAGENS | WSL - WOMEN'S SUPER LEAGUE",
-          "thumbnail": "https://i.ytimg.com/vi/OGS56F9O8fc/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-10-04T15:00:00Z",
-          "horarioBrasilia": "04/10, 12:00",
-          "link": "https://www.youtube.com/watch?v=OGS56F9O8fc"
-        }
-      ],
+      "totalLives": 0,
+      "lives": [],
       "erro": null
     },
     {
@@ -121,17 +80,8 @@
       "canalId": "UCf9WJPpsh5BHDY-OeISgIqA",
       "nome": "N Sports",
       "logo": "https://yt3.ggpht.com/tt9WaJh3uawWJUv4upgjMNJgirABgKgaionIiPMTor-5rL5EnszV6sL8KDLOwXmqUZmKfnlu=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 1,
-      "lives": [
-        {
-          "videoId": "wNc4brnkmtc",
-          "titulo": "AO VIVO E COM IMAGENS I FEYENOORD X AJAX | LIGA HOLANDESA FEMININA 2026/27",
-          "thumbnail": "https://i.ytimg.com/vi/wNc4brnkmtc/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-10-04T14:30:00Z",
-          "horarioBrasilia": "04/10, 11:30",
-          "link": "https://www.youtube.com/watch?v=wNc4brnkmtc"
-        }
-      ],
+      "totalLives": 0,
+      "lives": [],
       "erro": null
     },
     {
@@ -146,31 +96,64 @@
       "canalId": "UC3KHYFWeB0WimMBfm3NEahQ",
       "nome": "UOL Esporte",
       "logo": "https://yt3.ggpht.com/WnRMVUq4sj-Q1bAp8yz9y7WqUzqcbSZYQMkeMlHF1Kdv0fa39fw1zf3ylt1cil-ntjuL-s21TA=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 0,
-      "lives": [],
+      "totalLives": 5,
+      "lives": [
+        {
+          "videoId": "XCCSGDU3WAA",
+          "titulo": "POSSE DE BOLA AO VIVO COM MAURO CEZAR, EDUARDO TIRONI, JUCA KFOURI, TRAJANO E DANILO LAVIERI",
+          "thumbnail": "https://i.ytimg.com/vi/XCCSGDU3WAA/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-05T11:30:00Z",
+          "horarioBrasilia": "05/10, 08:30",
+          "link": "https://www.youtube.com/watch?v=XCCSGDU3WAA"
+        },
+        {
+          "videoId": "ea-oommnao8",
+          "titulo": "DE PRIMEIRA AO VIVO | 5 DE OUTUBRO",
+          "thumbnail": "https://i.ytimg.com/vi/ea-oommnao8/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-05T16:30:00Z",
+          "horarioBrasilia": "05/10, 13:30",
+          "link": "https://www.youtube.com/watch?v=ea-oommnao8"
+        },
+        {
+          "videoId": "itPonCblww8",
+          "titulo": "BLOCO DE ESPORTE | 05 DE OUTUBRO",
+          "thumbnail": "https://i.ytimg.com/vi/itPonCblww8/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-05T20:30:00Z",
+          "horarioBrasilia": "05/10, 17:30",
+          "link": "https://www.youtube.com/watch?v=itPonCblww8"
+        },
+        {
+          "videoId": "TVxE9S28buk",
+          "titulo": "LIVE DO FLAMENGO | 05 DE OUTUBRO",
+          "thumbnail": "https://i.ytimg.com/vi/TVxE9S28buk/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-05T21:00:00Z",
+          "horarioBrasilia": "05/10, 18:00",
+          "link": "https://www.youtube.com/watch?v=TVxE9S28buk"
+        },
+        {
+          "videoId": "HRIPFCUHWlk",
+          "titulo": "POLE POSITION | 05 DE OUTUBRO",
+          "thumbnail": "https://i.ytimg.com/vi/HRIPFCUHWlk/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-05T23:00:00Z",
+          "horarioBrasilia": "05/10, 20:00",
+          "link": "https://www.youtube.com/watch?v=HRIPFCUHWlk"
+        }
+      ],
       "erro": null
     },
     {
       "canalId": "UCH-BU-Os3JSo2L8lBQxE8KA",
       "nome": "Xsports",
       "logo": "https://yt3.ggpht.com/CTQyaT5nUAWjH0Vb-WIOrecZ3f4mAlS1N4niAFtIAX-g8gpTxITlkOY-dnRyh3th_1HxJ7KE=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 2,
+      "totalLives": 1,
       "lives": [
         {
-          "videoId": "f-pUhj1b8oc",
-          "titulo": "CHICAGO STARS X DENVER SUMMIT | CAMPEONATO AMERICANO FEMININO |AO VIVO E COM IMAGENS",
-          "thumbnail": "https://i.ytimg.com/vi/f-pUhj1b8oc/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-10-04T19:30:00Z",
-          "horarioBrasilia": "04/10, 16:30",
-          "link": "https://www.youtube.com/watch?v=f-pUhj1b8oc"
-        },
-        {
-          "videoId": "8ZpWFmWtI64",
-          "titulo": "HOUSTON DASH X WASHINGTON SPIRIT | FUTEBOL AMERICANO FEMININO | AO VIVO E COM IMAGENS",
-          "thumbnail": "https://i.ytimg.com/vi/8ZpWFmWtI64/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-10-04T22:00:00Z",
-          "horarioBrasilia": "04/10, 19:00",
-          "link": "https://www.youtube.com/watch?v=8ZpWFmWtI64"
+          "videoId": "1MIaNV25L7k",
+          "titulo": "A VOLTA DO BRASILEIRÃO! TUDO QUE ROLOU NA RODADA DO FINAL DE SEMANA | RODADA XSPORTS",
+          "thumbnail": "https://i.ytimg.com/vi/1MIaNV25L7k/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-05T23:15:00Z",
+          "horarioBrasilia": "05/10, 20:15",
+          "link": "https://www.youtube.com/watch?v=1MIaNV25L7k"
         }
       ],
       "erro": null
@@ -179,25 +162,25 @@
       "canalId": "UC8RrjoT8ovQ43Le7qvHuoMA",
       "nome": "Metrópoles Esportes",
       "logo": "https://yt3.ggpht.com/v8aQZpnGvmyJESJlihwnHykFcQhUw4iXxFC9-DKmjqvP2KzLcUgGvXHnRB0YV47DoAJemkhQsQ=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 0,
-      "lives": [],
+      "totalLives": 1,
+      "lives": [
+        {
+          "videoId": "SpH8-_vqHYY",
+          "titulo": "METRÓPOLES 90 MINUTOS - AO VIVO - 05.10.26",
+          "thumbnail": "https://i.ytimg.com/vi/SpH8-_vqHYY/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-05T12:30:00Z",
+          "horarioBrasilia": "05/10, 09:30",
+          "link": "https://www.youtube.com/watch?v=SpH8-_vqHYY"
+        }
+      ],
       "erro": null
     },
     {
       "canalId": "UCfi9IhipFGSa0eD_EA8JHrA",
       "nome": "Canal GoLBrasil ",
       "logo": "https://yt3.ggpht.com/jH0azzxNbxmjDmzpzqV94Rnq0l3VUzxNinwPx4MqjEOTfkqbiCIxm-M0CQogVux0Z9_QJzy6=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 1,
-      "lives": [
-        {
-          "videoId": "oePmE_3RF5s",
-          "titulo": "AO VIVO: NOIA X BARCELONA I LIGA ESPANHOLA DE FUTSAL  I CANAL GOL BRASIL",
-          "thumbnail": "https://i.ytimg.com/vi/oePmE_3RF5s/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-10-04T18:30:00Z",
-          "horarioBrasilia": "04/10, 15:30",
-          "link": "https://www.youtube.com/watch?v=oePmE_3RF5s"
-        }
-      ],
+      "totalLives": 0,
+      "lives": [],
       "erro": null
     }
   ]
