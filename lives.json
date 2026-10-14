@@ -1,36 +1,44 @@
 {
-  "geradoEm": "2026-10-13T09:58:18.335Z",
-  "data": "2026-10-13",
+  "geradoEm": "2026-10-14T09:58:19.660Z",
+  "data": "2026-10-14",
   "canais": [
     {
       "canalId": "UCZiYbVptd3PVPf4f6eR6UaQ",
       "nome": "CazéTV",
       "logo": "https://yt3.ggpht.com/Zm3t3pgNIYY1HgkWYaWmU3E--oljMiWqX_2Ig4zkxziTkP3VOR9TGUmgJAPu7XrhP06ebxDg=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 3,
+      "totalLives": 4,
       "lives": [
         {
-          "videoId": "h4_2ObAKc3I",
-          "titulo": "AO VIVO: TÊNIS | PROGRAMAÇÃO COMPLETA DO ATP CHALLENGER DE SANTA CRUZ DE LA SIERRA 2",
-          "thumbnail": "https://i.ytimg.com/vi/h4_2ObAKc3I/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-10-13T18:00:00Z",
-          "horarioBrasilia": "13/10, 15:00",
-          "link": "https://www.youtube.com/watch?v=h4_2ObAKc3I"
+          "videoId": "7bNKHtwpU_0",
+          "titulo": "AO VIVO: TÊNIS | GUTO MIGUEL E FELIPE MELIGENI NO ATP CHALLENGER DE SANTA CRUZ DE LA SIERRA",
+          "thumbnail": "https://i.ytimg.com/vi/7bNKHtwpU_0/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-14T18:00:00Z",
+          "horarioBrasilia": "14/10, 15:00",
+          "link": "https://www.youtube.com/watch?v=7bNKHtwpU_0"
         },
         {
-          "videoId": "gQ_hIEjOcKs",
-          "titulo": "AO VIVO: VASCO X BOCA JUNIORS | SUL-AMERICANA | NARRAÇÃO | NOCHE DE COPA",
-          "thumbnail": "https://i.ytimg.com/vi/gQ_hIEjOcKs/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-10-13T23:30:00Z",
-          "horarioBrasilia": "13/10, 20:30",
-          "link": "https://www.youtube.com/watch?v=gQ_hIEjOcKs"
+          "videoId": "rOYyBWep6Hg",
+          "titulo": "AO VIVO: ATLÉTICO-MG X TORQUE | SUL-AMERICANA | NARRAÇÃO | NOCHE DE COPA",
+          "thumbnail": "https://i.ytimg.com/vi/rOYyBWep6Hg/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-14T21:20:00Z",
+          "horarioBrasilia": "14/10, 18:20",
+          "link": "https://www.youtube.com/watch?v=rOYyBWep6Hg"
         },
         {
-          "videoId": "8S92IHd7QhU",
-          "titulo": "AO VIVO: LOGO APÓS BOCA X VASCO PELA SUL-AMERICANA | GERAL CAZÉTV",
-          "thumbnail": "https://i.ytimg.com/vi/8S92IHd7QhU/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-10-14T02:20:00Z",
-          "horarioBrasilia": "13/10, 23:20",
-          "link": "https://www.youtube.com/watch?v=8S92IHd7QhU"
+          "videoId": "hrAlXOXySic",
+          "titulo": "AO VIVO: FLUMINENSE X PALMEIRAS | LIBERTADORES | NARRAÇÃO | NOCHE DE COPA",
+          "thumbnail": "https://i.ytimg.com/vi/hrAlXOXySic/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-14T23:50:00Z",
+          "horarioBrasilia": "14/10, 20:50",
+          "link": "https://www.youtube.com/watch?v=hrAlXOXySic"
+        },
+        {
+          "videoId": "c5J2-ywJ66k",
+          "titulo": "AO VIVO: LOGO APÓS FLUMINENSE X PALMEIRAS NA LIBERTADORES | GERAL CAZÉTV",
+          "thumbnail": "https://i.ytimg.com/vi/c5J2-ywJ66k/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-15T02:20:00Z",
+          "horarioBrasilia": "14/10, 23:20",
+          "link": "https://www.youtube.com/watch?v=c5J2-ywJ66k"
         }
       ],
       "erro": null
@@ -39,47 +47,23 @@
       "canalId": "UCgCKagVhzGnZcuP9bSMgMCg",
       "nome": "ge tv",
       "logo": "https://yt3.ggpht.com/dc3tNE8gU99pZ_5gPcl_7U-hKf_Zzguxa4wTSexNKVNAWxli7hblw2BsrdHWASnjXRWciqecfTk=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 5,
+      "totalLives": 2,
       "lives": [
         {
-          "videoId": "Ai2S9Eq4C10",
-          "titulo": "AO VIVO! PRIMEIRA DESCIDA ANALISA JOGOS DA SEMANA 5 DA NFL #podcast | ge.globo",
-          "thumbnail": "https://i.ytimg.com/vi/Ai2S9Eq4C10/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-10-13T14:00:00Z",
-          "horarioBrasilia": "13/10, 11:00",
-          "link": "https://www.youtube.com/watch?v=Ai2S9Eq4C10"
+          "videoId": "ny4Y5kqqZ18",
+          "titulo": "AO VIVO: SUPER PRÉ-JOGO DE FLUMINENSE X PALMEIRAS | LIBERTADORES 2026 | ge tv",
+          "thumbnail": "https://i.ytimg.com/vi/ny4Y5kqqZ18/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-14T20:30:00Z",
+          "horarioBrasilia": "14/10, 17:30",
+          "link": "https://www.youtube.com/watch?v=ny4Y5kqqZ18"
         },
         {
-          "videoId": "Rw7HTYoN8qE",
-          "titulo": "AO VIVO! NA PONTA DOS DEDOS ANALISA VITÓRIA DE MAX VERSTAPPEN EM SINGAPURA #podcast | ge.globo",
-          "thumbnail": "https://i.ytimg.com/vi/Rw7HTYoN8qE/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-10-13T17:00:00Z",
-          "horarioBrasilia": "13/10, 14:00",
-          "link": "https://www.youtube.com/watch?v=Rw7HTYoN8qE"
-        },
-        {
-          "videoId": "VJqQalNosgA",
-          "titulo": "AO VIVO: TUDO DAS SEMIFINAIS DA LIBERTADORES, DIRETO DOS ESTÁDIOS! | ge tv",
-          "thumbnail": "https://i.ytimg.com/vi/VJqQalNosgA/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-10-13T20:00:00Z",
-          "horarioBrasilia": "13/10, 17:00",
-          "link": "https://www.youtube.com/watch?v=VJqQalNosgA"
-        },
-        {
-          "videoId": "Gh2C5kzwa7M",
-          "titulo": "AO VIVO: BRASIL X ARGENTINA | AMISTOSO DA SELEÇÃO FEMININA | ge tv",
-          "thumbnail": "https://i.ytimg.com/vi/Gh2C5kzwa7M/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-10-13T22:00:00Z",
-          "horarioBrasilia": "13/10, 19:00",
-          "link": "https://www.youtube.com/watch?v=Gh2C5kzwa7M"
-        },
-        {
-          "videoId": "vBuQsJv2yh8",
-          "titulo": "AO VIVO! FLA-FLU, PALMEIRAS X CORINTHIANS, GRE-NAL E TUDO SOBRE OS CLÁSSICOS | Denilson show | ge tv",
-          "thumbnail": "https://i.ytimg.com/vi/vBuQsJv2yh8/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-10-13T22:00:00Z",
-          "horarioBrasilia": "13/10, 19:00",
-          "link": "https://www.youtube.com/watch?v=vBuQsJv2yh8"
+          "videoId": "T0ay3NtWYEc",
+          "titulo": "AO VIVO: FLUMINENSE X PALMEIRAS | SEMIFINAL | LIBERTADORES 2026 | ge tv",
+          "thumbnail": "https://i.ytimg.com/vi/T0ay3NtWYEc/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-14T22:30:00Z",
+          "horarioBrasilia": "14/10, 19:30",
+          "link": "https://www.youtube.com/watch?v=T0ay3NtWYEc"
         }
       ],
       "erro": null
@@ -88,31 +72,39 @@
       "canalId": "UCs-6sCz2LJm1PrWQN4ErsPw",
       "nome": "TNT Sports Brasil",
       "logo": "https://yt3.ggpht.com/VQ2IGEcrhMSpuFb3RFDQOsVV9xI0shwQVorL8VLUGUGaV61Va1UMo4iwFOBVfOsrwTTYET22Hdk=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 3,
+      "totalLives": 4,
       "lives": [
         {
-          "videoId": "zyJDc107Nfw",
-          "titulo": "AO VIVO: VILLARREAL X NAPOLI - YOUTH LEAGUE 2026/2027 COM IMAGENS",
-          "thumbnail": "https://i.ytimg.com/vi/zyJDc107Nfw/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-10-13T13:50:00Z",
-          "horarioBrasilia": "13/10, 10:50",
-          "link": "https://www.youtube.com/watch?v=zyJDc107Nfw"
+          "videoId": "I96Xrn31Kh0",
+          "titulo": "AO VIVO: MANCHESTER CITY X PSG - YOUTH LEAGUE 2026/2027 COM IMAGENS",
+          "thumbnail": "https://i.ytimg.com/vi/I96Xrn31Kh0/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-14T13:50:00Z",
+          "horarioBrasilia": "14/10, 10:50",
+          "link": "https://www.youtube.com/watch?v=I96Xrn31Kh0"
         },
         {
-          "videoId": "ieyteBRVtlk",
-          "titulo": "ARSENAL X LILLE | FASE DE LIGA | RODADA 2 | CHAMPIONS LEAGUE 2026/27",
-          "thumbnail": "https://i.ytimg.com/vi/ieyteBRVtlk/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-10-13T15:30:00Z",
-          "horarioBrasilia": "13/10, 12:30",
-          "link": "https://www.youtube.com/watch?v=ieyteBRVtlk"
+          "videoId": "nViUDBeyG5Q",
+          "titulo": "LASK X LIVERPOOL | FASE DE LIGA | RODADA 2 | CHAMPIONS LEAGUE 2026/27 AO VIVO E COM IMAGENS",
+          "thumbnail": "https://i.ytimg.com/vi/nViUDBeyG5Q/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-14T15:30:00Z",
+          "horarioBrasilia": "14/10, 12:30",
+          "link": "https://www.youtube.com/watch?v=nViUDBeyG5Q"
         },
         {
-          "videoId": "FxAi7VAJYEM",
-          "titulo": "CHAMPIONS LEAGUE AO VIVO! PRÉ-JOGO COM BARCELONA, ATL. MADRID X UNITED, ARSENAL, E TUDO DA RODADA",
-          "thumbnail": "https://i.ytimg.com/vi/FxAi7VAJYEM/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-10-13T15:30:00Z",
-          "horarioBrasilia": "13/10, 12:30",
-          "link": "https://www.youtube.com/watch?v=FxAi7VAJYEM"
+          "videoId": "oaPrENR-yJ8",
+          "titulo": "AO VIVO: ROMA X REAL MADRID (NARRAÇÃO AO VIVO) | CHAMPIONS LEAGUE 2026/27",
+          "thumbnail": "https://i.ytimg.com/vi/oaPrENR-yJ8/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-14T18:55:00Z",
+          "horarioBrasilia": "14/10, 15:55",
+          "link": "https://www.youtube.com/watch?v=oaPrENR-yJ8"
+        },
+        {
+          "videoId": "WJiKmLAfCCM",
+          "titulo": "AO VIVO: TORONTO FC X ORLANDO CITY | GRIEZMANN EM CAMPO NA MLS COM IMAGENS",
+          "thumbnail": "https://i.ytimg.com/vi/WJiKmLAfCCM/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-14T23:00:00Z",
+          "horarioBrasilia": "14/10, 20:00",
+          "link": "https://www.youtube.com/watch?v=WJiKmLAfCCM"
         }
       ],
       "erro": null
@@ -121,15 +113,31 @@
       "canalId": "UCw5-xj3AKqEizC7MvHaIPqA",
       "nome": "ESPN Brasil",
       "logo": "https://yt3.ggpht.com/atSFp-_qcwnDISOTP77d1_noGzZ0fQ-ogLumFMNzdDJVWbJwueHbDeeSAezGe0gKgf9zmx8YgQ=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 1,
+      "totalLives": 3,
       "lives": [
         {
-          "videoId": "GXWS6ZZ1f9E",
-          "titulo": "BOCA JUNIORS X VASCO AO VIVO: SEMIFINAL DA CONMEBOL SUL-AMERICANA | PRÉ-JOGO",
-          "thumbnail": "https://i.ytimg.com/vi/GXWS6ZZ1f9E/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-10-13T22:15:00Z",
-          "horarioBrasilia": "13/10, 19:15",
-          "link": "https://www.youtube.com/watch?v=GXWS6ZZ1f9E"
+          "videoId": "LmaLdB_mhs8",
+          "titulo": "AO VIVO: APRESENTAÇÃO DE SEEDORF NO CORINTHIANS! NOVO TREINADOR TIMÃO!",
+          "thumbnail": "https://i.ytimg.com/vi/LmaLdB_mhs8/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-14T16:00:00Z",
+          "horarioBrasilia": "14/10, 13:00",
+          "link": "https://www.youtube.com/watch?v=LmaLdB_mhs8"
+        },
+        {
+          "videoId": "vr5VMFGAcuM",
+          "titulo": "ATLÉTICO-MG X MONTEVIDEO CITY TORQUE AO VIVO: SEMIFINAIS DA SUL-AMERICANA | PRÉ-JOGO",
+          "thumbnail": "https://i.ytimg.com/vi/vr5VMFGAcuM/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-14T20:00:00Z",
+          "horarioBrasilia": "14/10, 17:00",
+          "link": "https://www.youtube.com/watch?v=vr5VMFGAcuM"
+        },
+        {
+          "videoId": "OzVeuz44sUo",
+          "titulo": "FLUMINENSE X PALMEIRAS AO VIVO: SEMIFINAIS DA CONMEBOL LIBERTADORES | PRÉ-JOGO",
+          "thumbnail": "https://i.ytimg.com/vi/OzVeuz44sUo/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-14T22:15:00Z",
+          "horarioBrasilia": "14/10, 19:15",
+          "link": "https://www.youtube.com/watch?v=OzVeuz44sUo"
         }
       ],
       "erro": null
@@ -154,8 +162,17 @@
       "canalId": "UCf9WJPpsh5BHDY-OeISgIqA",
       "nome": "N Sports",
       "logo": "https://yt3.ggpht.com/tt9WaJh3uawWJUv4upgjMNJgirABgKgaionIiPMTor-5rL5EnszV6sL8KDLOwXmqUZmKfnlu=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 0,
-      "lives": [],
+      "totalLives": 1,
+      "lives": [
+        {
+          "videoId": "aOfZN3EkWEY",
+          "titulo": "🔴 AO VIVO E COM IMAGENS | SANTAREM X GIL VICENTE | TAÇA PORTUGAL",
+          "thumbnail": "https://i.ytimg.com/vi/aOfZN3EkWEY/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-14T17:45:00Z",
+          "horarioBrasilia": "14/10, 14:45",
+          "link": "https://www.youtube.com/watch?v=aOfZN3EkWEY"
+        }
+      ],
       "erro": null
     },
     {
@@ -170,39 +187,55 @@
       "canalId": "UC3KHYFWeB0WimMBfm3NEahQ",
       "nome": "UOL Esporte",
       "logo": "https://yt3.ggpht.com/WnRMVUq4sj-Q1bAp8yz9y7WqUzqcbSZYQMkeMlHF1Kdv0fa39fw1zf3ylt1cil-ntjuL-s21TA=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 4,
+      "totalLives": 6,
       "lives": [
         {
-          "videoId": "zYt3J51zBWQ",
-          "titulo": "LIVE DO SANTOS | 13 DE OUTUBRO",
-          "thumbnail": "https://i.ytimg.com/vi/zYt3J51zBWQ/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-10-13T20:00:00Z",
-          "horarioBrasilia": "13/10, 17:00",
-          "link": "https://www.youtube.com/watch?v=zYt3J51zBWQ"
+          "videoId": "7BE7-arVWMk",
+          "titulo": "UOL NEWS ESPORTE | 14 DE OUTUBRO",
+          "thumbnail": "https://i.ytimg.com/vi/7BE7-arVWMk/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-14T11:30:00Z",
+          "horarioBrasilia": "14/10, 08:30",
+          "link": "https://www.youtube.com/watch?v=7BE7-arVWMk"
         },
         {
-          "videoId": "4YIkL94Xtpk",
-          "titulo": "BLOCO DE ESPORTE | 13 DE OUTUBRO",
-          "thumbnail": "https://i.ytimg.com/vi/4YIkL94Xtpk/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-10-13T20:30:00Z",
-          "horarioBrasilia": "13/10, 17:30",
-          "link": "https://www.youtube.com/watch?v=4YIkL94Xtpk"
+          "videoId": "9ZgAkMXqoHg",
+          "titulo": "DE PRIMEIRA | 14 DE OUTUBRO",
+          "thumbnail": "https://i.ytimg.com/vi/9ZgAkMXqoHg/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-14T16:30:00Z",
+          "horarioBrasilia": "14/10, 13:30",
+          "link": "https://www.youtube.com/watch?v=9ZgAkMXqoHg"
         },
         {
-          "videoId": "LbUR7SbDAl0",
-          "titulo": "CARTÃO VERMELHO | 13 DE OUTUBRO",
-          "thumbnail": "https://i.ytimg.com/vi/LbUR7SbDAl0/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-10-13T21:00:00Z",
-          "horarioBrasilia": "13/10, 18:00",
-          "link": "https://www.youtube.com/watch?v=LbUR7SbDAl0"
+          "videoId": "R20neBmHW8M",
+          "titulo": "COPA DA RÚSSIA | CSKA MOSCOU X ROSTOV | FASE DE GRUPOS | JOGO COMPLETO E COM IMAGENS",
+          "thumbnail": "https://i.ytimg.com/vi/R20neBmHW8M/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-14T17:45:00Z",
+          "horarioBrasilia": "14/10, 14:45",
+          "link": "https://www.youtube.com/watch?v=R20neBmHW8M"
         },
         {
-          "videoId": "Uv4_ukuwuRI",
-          "titulo": "FIM DE PAPO | 13 DE OUTUBRO",
-          "thumbnail": "https://i.ytimg.com/vi/Uv4_ukuwuRI/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-10-14T02:30:00Z",
-          "horarioBrasilia": "13/10, 23:30",
-          "link": "https://www.youtube.com/watch?v=Uv4_ukuwuRI"
+          "videoId": "Iu8xx0AAqBA",
+          "titulo": "LIVE DO PALMEIRAS | 14 DE OUTUBRO",
+          "thumbnail": "https://i.ytimg.com/vi/Iu8xx0AAqBA/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-14T19:00:00Z",
+          "horarioBrasilia": "14/10, 16:00",
+          "link": "https://www.youtube.com/watch?v=Iu8xx0AAqBA"
+        },
+        {
+          "videoId": "UixBn8b7DWI",
+          "titulo": "BLOCO DE ESPORTE | 14 DE OUTUBRO",
+          "thumbnail": "https://i.ytimg.com/vi/UixBn8b7DWI/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-14T20:30:00Z",
+          "horarioBrasilia": "14/10, 17:30",
+          "link": "https://www.youtube.com/watch?v=UixBn8b7DWI"
+        },
+        {
+          "videoId": "SQygauiQhh0",
+          "titulo": "FIM DE PAPO | 14 DE OUTUBRO",
+          "thumbnail": "https://i.ytimg.com/vi/SQygauiQhh0/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-15T02:30:00Z",
+          "horarioBrasilia": "14/10, 23:30",
+          "link": "https://www.youtube.com/watch?v=SQygauiQhh0"
         }
       ],
       "erro": null
@@ -219,15 +252,47 @@
       "canalId": "UC8RrjoT8ovQ43Le7qvHuoMA",
       "nome": "Metrópoles Esportes",
       "logo": "https://yt3.ggpht.com/v8aQZpnGvmyJESJlihwnHykFcQhUw4iXxFC9-DKmjqvP2KzLcUgGvXHnRB0YV47DoAJemkhQsQ=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 1,
+      "totalLives": 5,
       "lives": [
         {
-          "videoId": "qPz6FAnHmGc",
-          "titulo": "90 MINUTOS: Tudo sobre o futebol nacional e internacional com quem entende de bola",
-          "thumbnail": "https://i.ytimg.com/vi/qPz6FAnHmGc/hqdefault_live.jpg",
-          "horarioAgendadoUTC": "2026-10-13T12:30:00Z",
-          "horarioBrasilia": "13/10, 09:30",
-          "link": "https://www.youtube.com/watch?v=qPz6FAnHmGc"
+          "videoId": "HH5Lk7MTwrs",
+          "titulo": "METRÓPOLES 90 MINUTOS - AO VIVO - 14.10.26",
+          "thumbnail": "https://i.ytimg.com/vi/HH5Lk7MTwrs/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-14T12:30:00Z",
+          "horarioBrasilia": "14/10, 09:30",
+          "link": "https://www.youtube.com/watch?v=HH5Lk7MTwrs"
+        },
+        {
+          "videoId": "SADW6DvBXOY",
+          "titulo": "TAÇA BRASIL DE FUTSAL 2ª DIVISÃO - AJJR FUTSAL x ARTE LÍDER - AO VIVO - 14.10.26",
+          "thumbnail": "https://i.ytimg.com/vi/SADW6DvBXOY/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-14T16:15:00Z",
+          "horarioBrasilia": "14/10, 13:15",
+          "link": "https://www.youtube.com/watch?v=SADW6DvBXOY"
+        },
+        {
+          "videoId": "Xzv4zMpdvJA",
+          "titulo": "TAÇA BRASIL DE FUTSAL 2ª DIVISÃO - SC SOLIMÕES x SIMÃO DIAS - AO VIVO - 14.10.26",
+          "thumbnail": "https://i.ytimg.com/vi/Xzv4zMpdvJA/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-14T18:30:00Z",
+          "horarioBrasilia": "14/10, 15:30",
+          "link": "https://www.youtube.com/watch?v=Xzv4zMpdvJA"
+        },
+        {
+          "videoId": "xfMr29Oz4RE",
+          "titulo": "TAÇA BRASIL DE FUTSAL 2ª DIVISÃO - FLUMINENSE DA BAHIA x FORMIGUINHAS - AO VIVO - 14.10.26",
+          "thumbnail": "https://i.ytimg.com/vi/xfMr29Oz4RE/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-14T21:00:00Z",
+          "horarioBrasilia": "14/10, 18:00",
+          "link": "https://www.youtube.com/watch?v=xfMr29Oz4RE"
+        },
+        {
+          "videoId": "JVbkdb6A9M0",
+          "titulo": "TAÇA BRASIL DE FUTSAL 2ª DIVISÃO - FIDAS FUTSAL x GIGA SPORTS - AO VIVO - 14.10.26",
+          "thumbnail": "https://i.ytimg.com/vi/JVbkdb6A9M0/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-14T23:00:00Z",
+          "horarioBrasilia": "14/10, 20:00",
+          "link": "https://www.youtube.com/watch?v=JVbkdb6A9M0"
         }
       ],
       "erro": null
@@ -236,8 +301,25 @@
       "canalId": "UCfi9IhipFGSa0eD_EA8JHrA",
       "nome": "Canal GoLBrasil ",
       "logo": "https://yt3.ggpht.com/jH0azzxNbxmjDmzpzqV94Rnq0l3VUzxNinwPx4MqjEOTfkqbiCIxm-M0CQogVux0Z9_QJzy6=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 0,
-      "lives": [],
+      "totalLives": 2,
+      "lives": [
+        {
+          "videoId": "d88_uQnkoyE",
+          "titulo": "AO VIVO: JAPÃO X PERÚ I COPA DAS NAÇÕES DE FUTSAL I CANAL GOL BRASIL",
+          "thumbnail": "https://i.ytimg.com/vi/d88_uQnkoyE/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-14T21:15:00Z",
+          "horarioBrasilia": "14/10, 18:15",
+          "link": "https://www.youtube.com/watch?v=d88_uQnkoyE"
+        },
+        {
+          "videoId": "zcDiO-Ehl4g",
+          "titulo": "AO VIVO: BRASIL X CABO VERDE I COPA DAS NAÇÕES DE FUTSAL I CANAL GOL BRASIL",
+          "thumbnail": "https://i.ytimg.com/vi/zcDiO-Ehl4g/hqdefault_live.jpg",
+          "horarioAgendadoUTC": "2026-10-14T23:30:00Z",
+          "horarioBrasilia": "14/10, 20:30",
+          "link": "https://www.youtube.com/watch?v=zcDiO-Ehl4g"
+        }
+      ],
       "erro": null
     }
   ]
