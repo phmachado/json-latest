@@ -1,92 +1,36 @@
 {
-  "geradoEm": "2026-10-25T09:58:17.266Z",
-  "data": "2026-10-25",
+  "geradoEm": "2026-10-26T09:58:17.400Z",
+  "data": "2026-10-26",
   "canais": [
     {
       "canalId": "UCZiYbVptd3PVPf4f6eR6UaQ",
       "nome": "CazéTV",
       "logo": "https://yt3.ggpht.com/Zm3t3pgNIYY1HgkWYaWmU3E--oljMiWqX_2Ig4zkxziTkP3VOR9TGUmgJAPu7XrhP06ebxDg=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 10,
+      "totalLives": 3,
       "lives": [
         {
-          "videoId": "vd3fBUIDDko",
-          "titulo": "AO VIVO: FLÁVIA SARAIVA NA FINAL! | MUNDIAL DE GINÁSTICA ARTÍSTICA | 6º DIA",
-          "thumbnail": "https://i.ytimg.com/vi/vd3fBUIDDko/hqdefault.jpg?v=6ad9264b",
-          "horarioAgendadoUTC": "2026-10-25T12:30:00Z",
-          "horarioBrasilia": "25/10, 09:30",
-          "link": "https://www.youtube.com/watch?v=vd3fBUIDDko"
+          "videoId": "dpkwMjudZME",
+          "titulo": "AO VIVO: DENDELE X CAPIM | KINGS LEAGUE BRAZIL 2026 | 2ª RODADA",
+          "thumbnail": "https://i.ytimg.com/vi/dpkwMjudZME/hqdefault.jpg?v=6ade5a74",
+          "horarioAgendadoUTC": "2026-10-26T18:38:00Z",
+          "horarioBrasilia": "26/10, 15:38",
+          "link": "https://www.youtube.com/watch?v=dpkwMjudZME"
         },
         {
-          "videoId": "jZXkDVmpoU0",
-          "titulo": "AO VIVO: MANCHESTER UNITED X BOURNEMOUTH | PREMIER LEAGUE 26/27 | 8ª RODADA",
-          "thumbnail": "https://i.ytimg.com/vi/jZXkDVmpoU0/hqdefault.jpg?v=6ad673c7",
-          "horarioAgendadoUTC": "2026-10-25T13:00:00Z",
-          "horarioBrasilia": "25/10, 10:00",
-          "link": "https://www.youtube.com/watch?v=jZXkDVmpoU0"
+          "videoId": "Q1ccB92YYFA",
+          "titulo": "AO VIVO: SEVILLA X OSASUNA | LALIGA 26/27 | 10ª RODADA",
+          "thumbnail": "https://i.ytimg.com/vi/Q1ccB92YYFA/hqdefault.jpg?v=6ad7ec25",
+          "horarioAgendadoUTC": "2026-10-26T19:20:00Z",
+          "horarioBrasilia": "26/10, 16:20",
+          "link": "https://www.youtube.com/watch?v=Q1ccB92YYFA"
         },
         {
-          "videoId": "qtUD9j9Mfd8",
-          "titulo": "AO VIVO: MÔNACO X LILLE | LIGUE 1 26/27 | 8ª RODADA",
-          "thumbnail": "https://i.ytimg.com/vi/qtUD9j9Mfd8/hqdefault.jpg?v=6ad67431",
-          "horarioAgendadoUTC": "2026-10-25T13:30:00Z",
-          "horarioBrasilia": "25/10, 10:30",
-          "link": "https://www.youtube.com/watch?v=qtUD9j9Mfd8"
-        },
-        {
-          "videoId": "esjFxYnf7Ew",
-          "titulo": "AO VIVO (SOM AMBIENTE): RENNES X STRASBOURG | LIGUE 1 26/27 | 8ª RODADA",
-          "thumbnail": "https://i.ytimg.com/vi/esjFxYnf7Ew/hqdefault.jpg?v=6ada95d3",
-          "horarioAgendadoUTC": "2026-10-25T15:50:00Z",
-          "horarioBrasilia": "25/10, 12:50",
-          "link": "https://www.youtube.com/watch?v=esjFxYnf7Ew"
-        },
-        {
-          "videoId": "rNSYg1fa6og",
-          "titulo": "AO VIVO (SOM AMBIENTE): MARSEILLE X LE HAVRE | LIGUE 1 26/27 | 8ª RODADA",
-          "thumbnail": "https://i.ytimg.com/vi/rNSYg1fa6og/hqdefault.jpg?v=6ad7eba3",
-          "horarioAgendadoUTC": "2026-10-25T15:50:00Z",
-          "horarioBrasilia": "25/10, 12:50",
-          "link": "https://www.youtube.com/watch?v=rNSYg1fa6og"
-        },
-        {
-          "videoId": "8MKR0qBP6lQ",
-          "titulo": "AO VIVO (SOM AMBIENTE): AUXERRE X LE MANS | LIGUE 1 26/27 | 8ª RODADA",
-          "thumbnail": "https://i.ytimg.com/vi/8MKR0qBP6lQ/hqdefault.jpg?v=6ada963f",
-          "horarioAgendadoUTC": "2026-10-25T16:00:00Z",
-          "horarioBrasilia": "25/10, 13:00",
-          "link": "https://www.youtube.com/watch?v=8MKR0qBP6lQ"
-        },
-        {
-          "videoId": "ahhWGDzrmko",
-          "titulo": "AO VIVO (SOM AMBIENTE): ANGERS X FC LORIENT | LIGUE 1 26/27 | 8ª RODADA",
-          "thumbnail": "https://i.ytimg.com/vi/ahhWGDzrmko/hqdefault.jpg?v=6ad36353",
-          "horarioAgendadoUTC": "2026-10-25T16:00:00Z",
-          "horarioBrasilia": "25/10, 13:00",
-          "link": "https://www.youtube.com/watch?v=ahhWGDzrmko"
-        },
-        {
-          "videoId": "rEyhHNVuOHw",
-          "titulo": "AO VIVO: REAL SOCIEDAD X LEVANTE | LALIGA 26/27 | 10ª RODADA",
-          "thumbnail": "https://i.ytimg.com/vi/rEyhHNVuOHw/hqdefault.jpg?v=6ad7e723",
-          "horarioAgendadoUTC": "2026-10-25T17:15:00Z",
-          "horarioBrasilia": "25/10, 14:15",
-          "link": "https://www.youtube.com/watch?v=rEyhHNVuOHw"
-        },
-        {
-          "videoId": "UEV1NElLuMA",
-          "titulo": "AO VIVO: BARCELONA X REAL MADRID | LALIGA 26/27 | 10ª RODADA",
-          "thumbnail": "https://i.ytimg.com/vi/UEV1NElLuMA/hqdefault.jpg?v=6acfc5f1",
-          "horarioAgendadoUTC": "2026-10-25T17:30:00Z",
-          "horarioBrasilia": "25/10, 14:30",
-          "link": "https://www.youtube.com/watch?v=UEV1NElLuMA"
-        },
-        {
-          "videoId": "DsuvaGXHpsA",
-          "titulo": "AO VIVO: CRUZEIRO X LIBERTAD | LIBERTADORES FEMININA 2026 | QUARTAS DE FINAL",
-          "thumbnail": "https://i.ytimg.com/vi/DsuvaGXHpsA/hqdefault.jpg?v=6adbce17",
-          "horarioAgendadoUTC": "2026-10-25T23:20:00Z",
-          "horarioBrasilia": "25/10, 20:20",
-          "link": "https://www.youtube.com/watch?v=DsuvaGXHpsA"
+          "videoId": "WHYTOnqWFgE",
+          "titulo": "AO VIVO: PARIS SAINT-GERMAIN X LYON | LIGUE 1 26/27 | 8ª RODADA",
+          "thumbnail": "https://i.ytimg.com/vi/WHYTOnqWFgE/hqdefault.jpg?v=6ad67494",
+          "horarioAgendadoUTC": "2026-10-26T19:30:00Z",
+          "horarioBrasilia": "26/10, 16:30",
+          "link": "https://www.youtube.com/watch?v=WHYTOnqWFgE"
         }
       ],
       "erro": null
@@ -95,31 +39,47 @@
       "canalId": "UCgCKagVhzGnZcuP9bSMgMCg",
       "nome": "ge tv",
       "logo": "https://yt3.ggpht.com/dc3tNE8gU99pZ_5gPcl_7U-hKf_Zzguxa4wTSexNKVNAWxli7hblw2BsrdHWASnjXRWciqecfTk=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 3,
+      "totalLives": 5,
       "lives": [
         {
-          "videoId": "34Xcy8YegDY",
-          "titulo": "AO VIVO: NFL PARIS GAME 2026 | PITTSBURGH STEELERS X NEW ORLEANS SAINTS | ge tv",
-          "thumbnail": "https://i.ytimg.com/vi/34Xcy8YegDY/hqdefault.jpg?v=6acbf8a9",
-          "horarioAgendadoUTC": "2026-10-25T13:00:00Z",
-          "horarioBrasilia": "25/10, 10:00",
-          "link": "https://www.youtube.com/watch?v=34Xcy8YegDY"
+          "videoId": "OoC2Jdlwxgk",
+          "titulo": "AO VIVO: GINÁSTICA RÍTMICA | JOGOS DA JUVENTUDE | OFERECIMENTO TIME BRASIL TV | ge tv",
+          "thumbnail": "https://i.ytimg.com/vi/OoC2Jdlwxgk/hqdefault.jpg?v=6adbf2d6",
+          "horarioAgendadoUTC": "2026-10-26T16:30:00Z",
+          "horarioBrasilia": "26/10, 13:30",
+          "link": "https://www.youtube.com/watch?v=OoC2Jdlwxgk"
         },
         {
-          "videoId": "PSSK3K0iCQk",
-          "titulo": "AO VIVO: GREEN BAY PACKERS X DETROIT LIONS | NFL 2026/27 | ge tv",
-          "thumbnail": "https://i.ytimg.com/vi/PSSK3K0iCQk/hqdefault.jpg?v=6ad92b6e",
-          "horarioAgendadoUTC": "2026-10-25T19:00:00Z",
-          "horarioBrasilia": "25/10, 16:00",
-          "link": "https://www.youtube.com/watch?v=PSSK3K0iCQk"
+          "videoId": "WC8eaqcIHsM",
+          "titulo": "AO VIVO: MONTES CLAROS X CRUZEIRO | SUPERLIGA MASCULINA DE VÔLEI 2026/27 | ge tv",
+          "thumbnail": "https://i.ytimg.com/vi/WC8eaqcIHsM/hqdefault.jpg?v=6acbfa29",
+          "horarioAgendadoUTC": "2026-10-26T20:00:00Z",
+          "horarioBrasilia": "26/10, 17:00",
+          "link": "https://www.youtube.com/watch?v=WC8eaqcIHsM"
         },
         {
-          "videoId": "EYtAsGo2Blg",
-          "titulo": "KANSAS CITY CHIEFS X SEATTLE SEAHAWKS | AQUECIMENTO AO VIVO | NFL | #live | sportv",
-          "thumbnail": "https://i.ytimg.com/vi/EYtAsGo2Blg/hqdefault.jpg?v=6ada3a10",
-          "horarioAgendadoUTC": "2026-10-25T23:25:00Z",
-          "horarioBrasilia": "25/10, 20:25",
-          "link": "https://www.youtube.com/watch?v=EYtAsGo2Blg"
+          "videoId": "yX_HCgjfI3E",
+          "titulo": "AO VIVO: RICARDINHO E CAROL GATTAZ NO LEVANTOU, CORTOU! + CRUZEIRO X MONTES CLAROS | ge tv",
+          "thumbnail": "https://i.ytimg.com/vi/yX_HCgjfI3E/hqdefault.jpg?v=6adbee76",
+          "horarioAgendadoUTC": "2026-10-26T20:00:00Z",
+          "horarioBrasilia": "26/10, 17:00",
+          "link": "https://www.youtube.com/watch?v=yX_HCgjfI3E"
+        },
+        {
+          "videoId": "t02EdyZtW00",
+          "titulo": "FLAMENGO X ATLÉTICO-MG | AQUECIMENTO AO VIVO | BRASILEIRÃO 2026 | #live | sportv",
+          "thumbnail": "https://i.ytimg.com/vi/t02EdyZtW00/hqdefault.jpg?v=6ada3c2e",
+          "horarioAgendadoUTC": "2026-10-26T21:00:00Z",
+          "horarioBrasilia": "26/10, 18:00",
+          "link": "https://www.youtube.com/watch?v=t02EdyZtW00"
+        },
+        {
+          "videoId": "yp9IHxCCeDc",
+          "titulo": "AO VIVO! FLAMENGO X ALÉTICO-MG, CORITIBA X GRÊMIO E A BRIGA CONTRA O REBAIXAMENTO! | Panela Sportv",
+          "thumbnail": "https://i.ytimg.com/vi/yp9IHxCCeDc/hqdefault.jpg?v=6adb83c7",
+          "horarioAgendadoUTC": "2026-10-27T01:00:00Z",
+          "horarioBrasilia": "26/10, 22:00",
+          "link": "https://www.youtube.com/watch?v=yp9IHxCCeDc"
         }
       ],
       "erro": null
@@ -128,15 +88,23 @@
       "canalId": "UCs-6sCz2LJm1PrWQN4ErsPw",
       "nome": "TNT Sports Brasil",
       "logo": "https://yt3.ggpht.com/VQ2IGEcrhMSpuFb3RFDQOsVV9xI0shwQVorL8VLUGUGaV61Va1UMo4iwFOBVfOsrwTTYET22Hdk=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 1,
+      "totalLives": 2,
       "lives": [
         {
-          "videoId": "Kejae1KaCT0",
-          "titulo": "AO VIVO: LAFC X LA GALAXY | CLÁSSICO DE LOS ANGELES NA MLS COM IMAGENS",
-          "thumbnail": "https://i.ytimg.com/vi/Kejae1KaCT0/hqdefault.jpg?v=6ad6373e",
-          "horarioAgendadoUTC": "2026-10-26T00:30:00Z",
-          "horarioBrasilia": "25/10, 21:30",
-          "link": "https://www.youtube.com/watch?v=Kejae1KaCT0"
+          "videoId": "aAjcMClw1bE",
+          "titulo": "AO VIVO: SÃO PAULO X PALMEIRAS | QUARTAS DE FINAL | PAULISTÃO S-20 2026",
+          "thumbnail": "https://i.ytimg.com/vi/aAjcMClw1bE/hqdefault.jpg?v=6adea97b",
+          "horarioAgendadoUTC": "2026-10-26T17:45:00Z",
+          "horarioBrasilia": "26/10, 14:45",
+          "link": "https://www.youtube.com/watch?v=aAjcMClw1bE"
+        },
+        {
+          "videoId": "M3sNy1OVS40",
+          "titulo": "AO VIVO: QUEM VAI SER O BOLA DE OURO DE 2026? REACT DA ENTREGA DO PRÊMIO! | PRORROGAÇÃO",
+          "thumbnail": "https://i.ytimg.com/vi/M3sNy1OVS40/hqdefault.jpg?v=6aded65b",
+          "horarioAgendadoUTC": "2026-10-26T18:00:00Z",
+          "horarioBrasilia": "26/10, 15:00",
+          "link": "https://www.youtube.com/watch?v=M3sNy1OVS40"
         }
       ],
       "erro": null
@@ -145,39 +113,47 @@
       "canalId": "UCw5-xj3AKqEizC7MvHaIPqA",
       "nome": "ESPN Brasil",
       "logo": "https://yt3.ggpht.com/atSFp-_qcwnDISOTP77d1_noGzZ0fQ-ogLumFMNzdDJVWbJwueHbDeeSAezGe0gKgf9zmx8YgQ=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 4,
+      "totalLives": 5,
       "lives": [
         {
-          "videoId": "JylB049Xw4c",
-          "titulo": "CRYSTAL PALACE X NEWCASTLE AO VIVO: JOGO DA PREMIER LEAGUE COM IMAGENS E DE GRAÇA | ESPN",
-          "thumbnail": "https://i.ytimg.com/vi/JylB049Xw4c/hqdefault.jpg?v=6ad83343",
-          "horarioAgendadoUTC": "2026-10-25T13:55:00Z",
-          "horarioBrasilia": "25/10, 10:55",
-          "link": "https://www.youtube.com/watch?v=JylB049Xw4c"
+          "videoId": "pZ-OzIaAj_8",
+          "titulo": "SANTA CLARA X BENFICA AO VIVO: CAMPEONATO PORTUGUÊS COM IMAGENS E DE GRAÇA | ESPN",
+          "thumbnail": "https://i.ytimg.com/vi/pZ-OzIaAj_8/hqdefault.jpg?v=6ad83823",
+          "horarioAgendadoUTC": "2026-10-26T18:40:00Z",
+          "horarioBrasilia": "26/10, 15:40",
+          "link": "https://www.youtube.com/watch?v=pZ-OzIaAj_8"
         },
         {
-          "videoId": "8m1qlbvTVnQ",
-          "titulo": "NFL REDZONE AO VIVO: SIGA O MELHOR DA RODADA E TODOS OS LANCES DA SEMANA 7",
-          "thumbnail": "https://i.ytimg.com/vi/8m1qlbvTVnQ/hqdefault.jpg?v=6adbe6e6",
-          "horarioAgendadoUTC": "2026-10-25T16:30:00Z",
-          "horarioBrasilia": "25/10, 13:30",
-          "link": "https://www.youtube.com/watch?v=8m1qlbvTVnQ"
+          "videoId": "Cxox_LdCyCo",
+          "titulo": "MANCHESTER CITY X FLAMENGO AO VIVO: ASSISTA AO JOGO PELA MESSI CUP DE GRAÇA | ESPN",
+          "thumbnail": "https://i.ytimg.com/vi/Cxox_LdCyCo/hqdefault.jpg?v=6ada3f04",
+          "horarioAgendadoUTC": "2026-10-26T19:00:00Z",
+          "horarioBrasilia": "26/10, 16:00",
+          "link": "https://www.youtube.com/watch?v=Cxox_LdCyCo"
         },
         {
-          "videoId": "sGRMqEAgBDY",
-          "titulo": "BARCELONA X PALMEIRAS AO VIVO: ASSISTA AO JOGO DA MESSI CUP DE GRAÇA | ESPN",
-          "thumbnail": "https://i.ytimg.com/vi/sGRMqEAgBDY/hqdefault.jpg?v=6ada3ed1",
-          "horarioAgendadoUTC": "2026-10-25T18:55:00Z",
-          "horarioBrasilia": "25/10, 15:55",
-          "link": "https://www.youtube.com/watch?v=sGRMqEAgBDY"
+          "videoId": "KTQimFBngrc",
+          "titulo": "BENFICA X INTER MIAMI AO VIVO: ASSISTA AO JOGO PELA MESSI CUP DE GRAÇA | ESPN",
+          "thumbnail": "https://i.ytimg.com/vi/KTQimFBngrc/hqdefault.jpg?v=6ada3fa3",
+          "horarioAgendadoUTC": "2026-10-26T20:30:00Z",
+          "horarioBrasilia": "26/10, 17:30",
+          "link": "https://www.youtube.com/watch?v=KTQimFBngrc"
         },
         {
-          "videoId": "-rm_74TxK0I",
-          "titulo": "FLAMENGO X UE CORNELLA AO VIVO: ASSISTA AO JOGO PELA MESSI CUP DE GRAÇA | ESPN",
-          "thumbnail": "https://i.ytimg.com/vi/-rm_74TxK0I/hqdefault.jpg?v=6ada3eb5",
-          "horarioAgendadoUTC": "2026-10-25T20:25:00Z",
-          "horarioBrasilia": "25/10, 17:25",
-          "link": "https://www.youtube.com/watch?v=-rm_74TxK0I"
+          "videoId": "8mfkVLeQGw4",
+          "titulo": "PALMEIRAS X NEWELL'S OLD BOYS AO VIVO: ASSISTA AO JOGO PELA MESSI CUP DE GRAÇA | ESPN",
+          "thumbnail": "https://i.ytimg.com/vi/8mfkVLeQGw4/hqdefault.jpg?v=6ada4060",
+          "horarioAgendadoUTC": "2026-10-26T22:00:00Z",
+          "horarioBrasilia": "26/10, 19:00",
+          "link": "https://www.youtube.com/watch?v=8mfkVLeQGw4"
+        },
+        {
+          "videoId": "_A2ubTofSKk",
+          "titulo": "JUVENTUDE X NÁUTICO AO VIVO: SÉRIE B ABRE O JOGO | B DE BOLA",
+          "thumbnail": "https://i.ytimg.com/vi/_A2ubTofSKk/hqdefault.jpg?v=6ad7be95",
+          "horarioAgendadoUTC": "2026-10-26T22:00:00Z",
+          "horarioBrasilia": "26/10, 19:00",
+          "link": "https://www.youtube.com/watch?v=_A2ubTofSKk"
         }
       ],
       "erro": null
@@ -186,49 +162,8 @@
       "canalId": "UC_oToDrJ6uca7d1dFVBmLtg",
       "nome": "Canal GOAT",
       "logo": "https://yt3.ggpht.com/NtXade9YlBhuNpJu5Tcj-PRXH57GtNbON4e6KgaGhZnuqKPDvrhUGcQl88j7F72BKLAaZ72QEow=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 5,
-      "lives": [
-        {
-          "videoId": "zMqV7OPKEwo",
-          "titulo": "HIBERNIAN X CELTIC | AO VIVO E COM IMAGENS | SCOTTISH PREMIERSHIP",
-          "thumbnail": "https://i.ytimg.com/vi/zMqV7OPKEwo/hqdefault.jpg?v=6adae492",
-          "horarioAgendadoUTC": "2026-10-25T11:50:00Z",
-          "horarioBrasilia": "25/10, 08:50",
-          "link": "https://www.youtube.com/watch?v=zMqV7OPKEwo"
-        },
-        {
-          "videoId": "45LjPKQURwA",
-          "titulo": "EINTRACHT BRAUNSCHWEIG X HANNOVER 96 | AO VIVO E COM IMAGENS | BUNDESLIGA 2",
-          "thumbnail": "https://i.ytimg.com/vi/45LjPKQURwA/hqdefault.jpg?v=6adae568",
-          "horarioAgendadoUTC": "2026-10-25T12:20:00Z",
-          "horarioBrasilia": "25/10, 09:20",
-          "link": "https://www.youtube.com/watch?v=45LjPKQURwA"
-        },
-        {
-          "videoId": "GztcarwvAa8",
-          "titulo": "HOFFENHEIM X BAYER LEVERKUSEN | AO VIVO E COM IMAGENS | BUNDESLIGA",
-          "thumbnail": "https://i.ytimg.com/vi/GztcarwvAa8/hqdefault.jpg?v=6adae621",
-          "horarioAgendadoUTC": "2026-10-25T14:00:00Z",
-          "horarioBrasilia": "25/10, 11:00",
-          "link": "https://www.youtube.com/watch?v=GztcarwvAa8"
-        },
-        {
-          "videoId": "JjVU3dZr3Vs",
-          "titulo": "FREIBURG X BAYERN DE MUNIQUE | AO VIVO E COM IMAGENS | BUNDESLIGA",
-          "thumbnail": "https://i.ytimg.com/vi/JjVU3dZr3Vs/hqdefault.jpg?v=6adb2d72",
-          "horarioAgendadoUTC": "2026-10-25T16:00:00Z",
-          "horarioBrasilia": "25/10, 13:00",
-          "link": "https://www.youtube.com/watch?v=JjVU3dZr3Vs"
-        },
-        {
-          "videoId": "TUCGfTBwjYQ",
-          "titulo": "MANCHESTER UNITED X MANCHESTER CITY | AO VIVO E COM IMAGENS | WSL - WOMEN'S SUPER LEAGUE",
-          "thumbnail": "https://i.ytimg.com/vi/TUCGfTBwjYQ/hqdefault.jpg?v=6adb2725",
-          "horarioAgendadoUTC": "2026-10-25T17:30:00Z",
-          "horarioBrasilia": "25/10, 14:30",
-          "link": "https://www.youtube.com/watch?v=TUCGfTBwjYQ"
-        }
-      ],
+      "totalLives": 0,
+      "lives": [],
       "erro": null
     },
     {
@@ -243,66 +178,16 @@
       "canalId": "UCf9WJPpsh5BHDY-OeISgIqA",
       "nome": "N Sports",
       "logo": "https://yt3.ggpht.com/tt9WaJh3uawWJUv4upgjMNJgirABgKgaionIiPMTor-5rL5EnszV6sL8KDLOwXmqUZmKfnlu=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 1,
-      "lives": [
-        {
-          "videoId": "R6Uv9NAcxLI",
-          "titulo": "AO VIVO E COM IMAGENS | CRUZEIRO X LIBERTAD | QUARTAS DE FINAL | LIBERTADORES FEMININA 2026",
-          "thumbnail": "https://i.ytimg.com/vi/R6Uv9NAcxLI/hqdefault.jpg?v=6adbd2cc",
-          "horarioAgendadoUTC": "2026-10-25T23:30:00Z",
-          "horarioBrasilia": "25/10, 20:30",
-          "link": "https://www.youtube.com/watch?v=R6Uv9NAcxLI"
-        }
-      ],
+      "totalLives": 0,
+      "lives": [],
       "erro": null
     },
     {
       "canalId": "UCMcc9elPZGpg6eU4i3YaCpA",
       "nome": "SportyNet",
       "logo": "https://yt3.ggpht.com/gljY0R_KSQ6j9HLIgFWayZnekdpxPfCH-aKmm_2OFV5nru3CuGMtPTL8cG0qliPcM65gtTPb=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 5,
-      "lives": [
-        {
-          "videoId": "SgNT5LBT72k",
-          "titulo": "ATLHETIC BILBAO X GETAFE: AO VIVO, COM IMAGENS E EXCLUSIVO | LALIGA | RODADA 10",
-          "thumbnail": "https://i.ytimg.com/vi/SgNT5LBT72k/hqdefault.jpg?v=6acfe950",
-          "horarioAgendadoUTC": "2026-10-25T12:30:00Z",
-          "horarioBrasilia": "25/10, 09:30",
-          "link": "https://www.youtube.com/watch?v=SgNT5LBT72k"
-        },
-        {
-          "videoId": "c7_kyHcMbvc",
-          "titulo": "PALERMO X CARRARESE: AO VIVO, COM IMAGENS E EXCLUSIVO | RODADA 8 | SÉRIE B ITALIANA",
-          "thumbnail": "https://i.ytimg.com/vi/c7_kyHcMbvc/hqdefault.jpg?v=6ad151cf",
-          "horarioAgendadoUTC": "2026-10-25T13:45:00Z",
-          "horarioBrasilia": "25/10, 10:45",
-          "link": "https://www.youtube.com/watch?v=c7_kyHcMbvc"
-        },
-        {
-          "videoId": "ngXZu7jv7g8",
-          "titulo": "CELTA DE VIGO X REAL BÉTIS: AO VIVO, COM IMAGENS E EXCLUSIVO | LALIGA | RODADA 10",
-          "thumbnail": "https://i.ytimg.com/vi/ngXZu7jv7g8/hqdefault.jpg?v=6ad15cc0",
-          "horarioAgendadoUTC": "2026-10-25T14:45:00Z",
-          "horarioBrasilia": "25/10, 11:45",
-          "link": "https://www.youtube.com/watch?v=ngXZu7jv7g8"
-        },
-        {
-          "videoId": "XWJtQrmPpJU",
-          "titulo": "VOLOS x PANATHINAIKOS : AO VIVO, COM IMAGENS E EXCLUSIVO | RODADA 8 | CAMPEONATO GREGO",
-          "thumbnail": "https://i.ytimg.com/vi/XWJtQrmPpJU/hqdefault.jpg?v=6ad15f46",
-          "horarioAgendadoUTC": "2026-10-25T15:45:00Z",
-          "horarioBrasilia": "25/10, 12:45",
-          "link": "https://www.youtube.com/watch?v=XWJtQrmPpJU"
-        },
-        {
-          "videoId": "z0OqOM3FWK8",
-          "titulo": "LECCE X JUVENTUS: AO VIVO E COM IMAGENS | RODADA 8 | SERIE A",
-          "thumbnail": "https://i.ytimg.com/vi/z0OqOM3FWK8/hqdefault.jpg?v=6ad16187",
-          "horarioAgendadoUTC": "2026-10-25T16:30:00Z",
-          "horarioBrasilia": "25/10, 13:30",
-          "link": "https://www.youtube.com/watch?v=z0OqOM3FWK8"
-        }
-      ],
+      "totalLives": 0,
+      "lives": [],
       "erro": null
     },
     {
@@ -312,12 +197,12 @@
       "totalLives": 1,
       "lives": [
         {
-          "videoId": "bjSwKAFnYlY",
-          "titulo": "CRUZEIRO x LIBERTAD | LIBERTADORES FEMININA | QUARTAS DE FINAL | AO VIVO COM IMAGENS",
-          "thumbnail": "https://i.ytimg.com/vi/bjSwKAFnYlY/hqdefault.jpg?v=6adbddaf",
-          "horarioAgendadoUTC": "2026-10-26T00:00:00Z",
-          "horarioBrasilia": "25/10, 21:00",
-          "link": "https://www.youtube.com/watch?v=bjSwKAFnYlY"
+          "videoId": "gpeNoTZKDzY",
+          "titulo": "FIM DE PAPO AO VIVO | 26 DE OUTUBRO",
+          "thumbnail": "https://i.ytimg.com/vi/gpeNoTZKDzY/hqdefault.jpg?v=6ada3a19",
+          "horarioAgendadoUTC": "2026-10-26T21:00:00Z",
+          "horarioBrasilia": "26/10, 18:00",
+          "link": "https://www.youtube.com/watch?v=gpeNoTZKDzY"
         }
       ],
       "erro": null
@@ -326,90 +211,33 @@
       "canalId": "UCH-BU-Os3JSo2L8lBQxE8KA",
       "nome": "Xsports",
       "logo": "https://yt3.ggpht.com/CTQyaT5nUAWjH0Vb-WIOrecZ3f4mAlS1N4niAFtIAX-g8gpTxITlkOY-dnRyh3th_1HxJ7KE=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 2,
-      "lives": [
-        {
-          "videoId": "0XTQ-LyorFE",
-          "titulo": "ORLANDO PRIDE X GOTHAM FC - NWSL - AO VIVO E COM IMAGENS",
-          "thumbnail": "https://i.ytimg.com/vi/0XTQ-LyorFE/hqdefault.jpg?v=6add0834",
-          "horarioAgendadoUTC": "2026-10-25T18:45:00Z",
-          "horarioBrasilia": "25/10, 15:45",
-          "link": "https://www.youtube.com/watch?v=0XTQ-LyorFE"
-        },
-        {
-          "videoId": "77e09b7x2kk",
-          "titulo": "CRUZEIRO X LIBERTAD - LIBERTADORES FEMININA - QUARTAS DE FINAL - AO VIVO E COM IMAGENS",
-          "thumbnail": "https://i.ytimg.com/vi/77e09b7x2kk/hqdefault.jpg?v=6add088d",
-          "horarioAgendadoUTC": "2026-10-25T23:45:00Z",
-          "horarioBrasilia": "25/10, 20:45",
-          "link": "https://www.youtube.com/watch?v=77e09b7x2kk"
-        }
-      ],
+      "totalLives": 0,
+      "lives": [],
       "erro": null
     },
     {
       "canalId": "UC8RrjoT8ovQ43Le7qvHuoMA",
       "nome": "Metrópoles Esportes",
       "logo": "https://yt3.ggpht.com/v8aQZpnGvmyJESJlihwnHykFcQhUw4iXxFC9-DKmjqvP2KzLcUgGvXHnRB0YV47DoAJemkhQsQ=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 0,
-      "lives": [],
+      "totalLives": 1,
+      "lives": [
+        {
+          "videoId": "fyeGwW41Ehc",
+          "titulo": "METRÓPOLES 90 MINUTOS - AO VIVO - 26.10.26",
+          "thumbnail": "https://i.ytimg.com/vi/fyeGwW41Ehc/hqdefault.jpg?v=6ada0d9a",
+          "horarioAgendadoUTC": "2026-10-26T12:30:00Z",
+          "horarioBrasilia": "26/10, 09:30",
+          "link": "https://www.youtube.com/watch?v=fyeGwW41Ehc"
+        }
+      ],
       "erro": null
     },
     {
       "canalId": "UCfi9IhipFGSa0eD_EA8JHrA",
       "nome": "Canal GoLBrasil ",
       "logo": "https://yt3.ggpht.com/jH0azzxNbxmjDmzpzqV94Rnq0l3VUzxNinwPx4MqjEOTfkqbiCIxm-M0CQogVux0Z9_QJzy6=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 6,
-      "lives": [
-        {
-          "videoId": "OtYtd2wac-g",
-          "titulo": "AO VIVO:  HIBERNIAN X CELTIC  I LIGA DA ESCÓCIA I CANAL GOL BRASIL",
-          "thumbnail": "https://i.ytimg.com/vi/OtYtd2wac-g/hqdefault.jpg?v=6ad8ef64",
-          "horarioAgendadoUTC": "2026-10-25T12:00:00Z",
-          "horarioBrasilia": "25/10, 09:00",
-          "link": "https://www.youtube.com/watch?v=OtYtd2wac-g"
-        },
-        {
-          "videoId": "NhX-rvCGbVU",
-          "titulo": "AO VIVO: CSKA X SPARTAK MOSCOU I LIGA DA RÚSSIA I CANAL GOL BRASIL",
-          "thumbnail": "https://i.ytimg.com/vi/NhX-rvCGbVU/hqdefault.jpg?v=6ad94d7a",
-          "horarioAgendadoUTC": "2026-10-25T13:00:00Z",
-          "horarioBrasilia": "25/10, 10:00",
-          "link": "https://www.youtube.com/watch?v=NhX-rvCGbVU"
-        },
-        {
-          "videoId": "Mg0FoHSsjp0",
-          "titulo": "AO VIVO: ZENIT X DINAMO MAKHACHKALA I LIGA DA RÚSSIA I CANAL GOL BRASIL",
-          "thumbnail": "https://i.ytimg.com/vi/Mg0FoHSsjp0/hqdefault.jpg?v=6ad94da6",
-          "horarioAgendadoUTC": "2026-10-25T15:30:00Z",
-          "horarioBrasilia": "25/10, 12:30",
-          "link": "https://www.youtube.com/watch?v=Mg0FoHSsjp0"
-        },
-        {
-          "videoId": "jtr0IxT2c8M",
-          "titulo": "AO VIVO: VIKTORIA PLZEN X PARDUBICE I LIGA CHECA I CANAL GOL BRASIL",
-          "thumbnail": "https://i.ytimg.com/vi/jtr0IxT2c8M/hqdefault.jpg?v=6add66a2",
-          "horarioAgendadoUTC": "2026-10-25T17:00:00Z",
-          "horarioBrasilia": "25/10, 14:00",
-          "link": "https://www.youtube.com/watch?v=jtr0IxT2c8M"
-        },
-        {
-          "videoId": "PdlYlE7pvBQ",
-          "titulo": "AO VIVO: DEPORTIVO CALI(COL) X OLIMPIA (PAR) IQUARTAS I LIBERTADORES FEMININA I CANAL GOL BRASIL",
-          "thumbnail": "https://i.ytimg.com/vi/PdlYlE7pvBQ/hqdefault.jpg?v=6adcf443",
-          "horarioAgendadoUTC": "2026-10-25T20:00:00Z",
-          "horarioBrasilia": "25/10, 17:00",
-          "link": "https://www.youtube.com/watch?v=PdlYlE7pvBQ"
-        },
-        {
-          "videoId": "oxif3bhYXS0",
-          "titulo": "AO VIVO: CRUZEIRO (BRA) X LIBERTAD (PAR) IQUARTAS I LIBERTADORES FEMININA I CANAL GOL BRASIL",
-          "thumbnail": "https://i.ytimg.com/vi/oxif3bhYXS0/hqdefault.jpg?v=6adcf48c",
-          "horarioAgendadoUTC": "2026-10-26T00:00:00Z",
-          "horarioBrasilia": "25/10, 21:00",
-          "link": "https://www.youtube.com/watch?v=oxif3bhYXS0"
-        }
-      ],
+      "totalLives": 0,
+      "lives": [],
       "erro": null
     }
   ]
