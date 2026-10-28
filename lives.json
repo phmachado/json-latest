@@ -1,20 +1,44 @@
 {
-  "geradoEm": "2026-10-27T09:58:17.941Z",
-  "data": "2026-10-27",
+  "geradoEm": "2026-10-28T09:58:19.213Z",
+  "data": "2026-10-28",
   "canais": [
     {
       "canalId": "UCZiYbVptd3PVPf4f6eR6UaQ",
       "nome": "CazéTV",
       "logo": "https://yt3.ggpht.com/Zm3t3pgNIYY1HgkWYaWmU3E--oljMiWqX_2Ig4zkxziTkP3VOR9TGUmgJAPu7XrhP06ebxDg=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 1,
+      "totalLives": 4,
       "lives": [
         {
-          "videoId": "mraN4lL8IVw",
-          "titulo": "AO VIVO: ROMA X CAGLIARI | SÉRIE A ITALIANA 26/27 | 9ª RODADA",
-          "thumbnail": "https://i.ytimg.com/vi/mraN4lL8IVw/hqdefault.jpg?v=6ade5b3b",
-          "horarioAgendadoUTC": "2026-10-27T18:45:00Z",
-          "horarioBrasilia": "27/10, 15:45",
-          "link": "https://www.youtube.com/watch?v=mraN4lL8IVw"
+          "videoId": "WW90jZ1Lea0",
+          "titulo": "AO VIVO: BRASIL X POLÔNIA | COPA DO MUNDO FEMININA SUB-17 2026 | OITAVAS DE FINAL",
+          "thumbnail": "https://i.ytimg.com/vi/WW90jZ1Lea0/hqdefault.jpg?v=6ae10f6b",
+          "horarioAgendadoUTC": "2026-10-28T17:00:00Z",
+          "horarioBrasilia": "28/10, 14:00",
+          "link": "https://www.youtube.com/watch?v=WW90jZ1Lea0"
+        },
+        {
+          "videoId": "XK3UOBxPzqE",
+          "titulo": "AO VIVO: CORINTHIANS X INDEPENDIENTE SANTA FE | LIBERTADORES FEMININA 2026 | SEMIFINAL",
+          "thumbnail": "https://i.ytimg.com/vi/XK3UOBxPzqE/hqdefault.jpg?v=6ae118ec",
+          "horarioAgendadoUTC": "2026-10-28T19:15:00Z",
+          "horarioBrasilia": "28/10, 16:15",
+          "link": "https://www.youtube.com/watch?v=XK3UOBxPzqE"
+        },
+        {
+          "videoId": "t4pf4qZ0c14",
+          "titulo": "AO VIVO: FLUMINENSE X INTERNACIONAL | BRASILEIRÃO 2026 | 33ª RODADA",
+          "thumbnail": "https://i.ytimg.com/vi/t4pf4qZ0c14/hqdefault.jpg?v=6abbd245",
+          "horarioAgendadoUTC": "2026-10-28T21:00:00Z",
+          "horarioBrasilia": "28/10, 18:00",
+          "link": "https://www.youtube.com/watch?v=t4pf4qZ0c14"
+        },
+        {
+          "videoId": "mMA7t4TyKU8",
+          "titulo": "AO VIVO: CRUZEIRO X OLIMPIA | LIBERTADORES FEMININA 2026 | SEMIFINAL",
+          "thumbnail": "https://i.ytimg.com/vi/mMA7t4TyKU8/hqdefault.jpg?v=6ae11932",
+          "horarioAgendadoUTC": "2026-10-28T23:15:00Z",
+          "horarioBrasilia": "28/10, 20:15",
+          "link": "https://www.youtube.com/watch?v=mMA7t4TyKU8"
         }
       ],
       "erro": null
@@ -23,31 +47,39 @@
       "canalId": "UCgCKagVhzGnZcuP9bSMgMCg",
       "nome": "ge tv",
       "logo": "https://yt3.ggpht.com/dc3tNE8gU99pZ_5gPcl_7U-hKf_Zzguxa4wTSexNKVNAWxli7hblw2BsrdHWASnjXRWciqecfTk=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 3,
+      "totalLives": 4,
       "lives": [
         {
-          "videoId": "Ba7Tm5Ps7Xg",
-          "titulo": "AO VIVO! PRIMEIRA DESCIDA ANALISA JOGOS DA SEMANA 7 DA NFL #podcast | ge.globo",
-          "thumbnail": "https://i.ytimg.com/vi/Ba7Tm5Ps7Xg/hqdefault.jpg?v=6adf5d8b",
-          "horarioAgendadoUTC": "2026-10-27T14:00:00Z",
-          "horarioBrasilia": "27/10, 11:00",
-          "link": "https://www.youtube.com/watch?v=Ba7Tm5Ps7Xg"
+          "videoId": "pgZ5s97Oodw",
+          "titulo": "AO VIVO: HANDEBOL | JOGOS DA JUVENTUDE | PARCERIA TIME BRASIL TV | ge tv",
+          "thumbnail": "https://i.ytimg.com/vi/pgZ5s97Oodw/hqdefault.jpg?v=6ae0b2a6",
+          "horarioAgendadoUTC": "2026-10-28T10:30:00Z",
+          "horarioBrasilia": "28/10, 07:30",
+          "link": "https://www.youtube.com/watch?v=pgZ5s97Oodw"
         },
         {
-          "videoId": "TRQtVE_i1V8",
-          "titulo": "AO VIVO! NA PONTA DOS DEDOS COMENTA VITÓRIA DE KIMI ANTONELLI  #podcast | ge.globo",
-          "thumbnail": "https://i.ytimg.com/vi/TRQtVE_i1V8/hqdefault.jpg?v=6adf6734",
-          "horarioAgendadoUTC": "2026-10-27T17:00:00Z",
-          "horarioBrasilia": "27/10, 14:00",
-          "link": "https://www.youtube.com/watch?v=TRQtVE_i1V8"
+          "videoId": "SvI4Z9nHbIk",
+          "titulo": "AO VIVO: VÔLEI | JOGOS DA JUVENTUDE | PARCERIA TIME BRASIL TV | ge tv",
+          "thumbnail": "https://i.ytimg.com/vi/SvI4Z9nHbIk/hqdefault.jpg?v=6ae0b3e0",
+          "horarioAgendadoUTC": "2026-10-28T16:30:00Z",
+          "horarioBrasilia": "28/10, 13:30",
+          "link": "https://www.youtube.com/watch?v=SvI4Z9nHbIk"
         },
         {
-          "videoId": "iuGzXZLUTvM",
-          "titulo": "AO VIVO: SUZANO X GOIÁS | SUPERLIGA MASCULINA DE VÔLEI 2026/27 | ge tv",
-          "thumbnail": "https://i.ytimg.com/vi/iuGzXZLUTvM/hqdefault.jpg?v=6acbfc87",
-          "horarioAgendadoUTC": "2026-10-27T21:00:00Z",
-          "horarioBrasilia": "27/10, 18:00",
-          "link": "https://www.youtube.com/watch?v=iuGzXZLUTvM"
+          "videoId": "S5eEvauBYGM",
+          "titulo": "AO VIVO: SANTOS X PALMEIRAS | PRÉ-JOGO | BRASILEIRÃO 2026 | Premiere",
+          "thumbnail": "https://i.ytimg.com/vi/S5eEvauBYGM/hqdefault.jpg?v=6ad53f4c",
+          "horarioAgendadoUTC": "2026-10-28T21:30:00Z",
+          "horarioBrasilia": "28/10, 18:30",
+          "link": "https://www.youtube.com/watch?v=S5eEvauBYGM"
+        },
+        {
+          "videoId": "yL7MzrhVAJk",
+          "titulo": "AO VIVO: BAHIA X SÃO PAULO | BRASILEIRÃO 2026 | ge tv",
+          "thumbnail": "https://i.ytimg.com/vi/yL7MzrhVAJk/hqdefault.jpg?v=6acbffae",
+          "horarioAgendadoUTC": "2026-10-28T23:00:00Z",
+          "horarioBrasilia": "28/10, 20:00",
+          "link": "https://www.youtube.com/watch?v=yL7MzrhVAJk"
         }
       ],
       "erro": null
@@ -59,12 +91,12 @@
       "totalLives": 1,
       "lives": [
         {
-          "videoId": "rr8Je8v16rE",
-          "titulo": "AO VIVO: FLAMENGO E GRÊMIO VENCEM NO APAGAR DAS LUZES; KANE GANHA A BOLA DE OURO;",
-          "thumbnail": "https://i.ytimg.com/vi/rr8Je8v16rE/hqdefault.jpg?v=6adffb68",
-          "horarioAgendadoUTC": "2026-10-27T11:30:00Z",
-          "horarioBrasilia": "27/10, 08:30",
-          "link": "https://www.youtube.com/watch?v=rr8Je8v16rE"
+          "videoId": "6qnXA__aEFU",
+          "titulo": "AO VIVO: DIA ENORME DE BRASILEIRÃO! TUDO DE SANTOS X PALMEIRAS + BRIGA NO Z4",
+          "thumbnail": "https://i.ytimg.com/vi/6qnXA__aEFU/hqdefault.jpg?v=6ae138d6",
+          "horarioAgendadoUTC": "2026-10-28T11:30:00Z",
+          "horarioBrasilia": "28/10, 08:30",
+          "link": "https://www.youtube.com/watch?v=6qnXA__aEFU"
         }
       ],
       "erro": null
@@ -73,31 +105,39 @@
       "canalId": "UCw5-xj3AKqEizC7MvHaIPqA",
       "nome": "ESPN Brasil",
       "logo": "https://yt3.ggpht.com/atSFp-_qcwnDISOTP77d1_noGzZ0fQ-ogLumFMNzdDJVWbJwueHbDeeSAezGe0gKgf9zmx8YgQ=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 3,
+      "totalLives": 4,
       "lives": [
         {
-          "videoId": "y6_hoigmUT4",
-          "titulo": "BOCA JUNIORS X FLAMENGO AO VIVO: ASSISTA AO JOGO PELA MESSI CUP DE GRAÇA | ESPN",
-          "thumbnail": "https://i.ytimg.com/vi/y6_hoigmUT4/hqdefault.jpg?v=6ada842a",
-          "horarioAgendadoUTC": "2026-10-27T17:25:00Z",
-          "horarioBrasilia": "27/10, 14:25",
-          "link": "https://www.youtube.com/watch?v=y6_hoigmUT4"
+          "videoId": "kbDgD-RqOr0",
+          "titulo": "FLAMENGO X RIVER PLATE AO VIVO: ASSISTA ÀS QUARTAS DE FINAL DA MESSI CUP DE GRAÇA | ESPN",
+          "thumbnail": "https://i.ytimg.com/vi/kbDgD-RqOr0/hqdefault.jpg?v=6ae13145",
+          "horarioAgendadoUTC": "2026-10-28T14:00:00Z",
+          "horarioBrasilia": "28/10, 11:00",
+          "link": "https://www.youtube.com/watch?v=kbDgD-RqOr0"
         },
         {
-          "videoId": "SHwEbQ-eTDw",
-          "titulo": "BENFICA X INDEPENDIENTE DEL VALLE AO VIVO: ASSISTA AO JOGO PELA MESSI CUP DE GRAÇA | ESPN",
-          "thumbnail": "https://i.ytimg.com/vi/SHwEbQ-eTDw/hqdefault.jpg?v=6ada85f5",
-          "horarioAgendadoUTC": "2026-10-27T18:55:00Z",
-          "horarioBrasilia": "27/10, 15:55",
-          "link": "https://www.youtube.com/watch?v=SHwEbQ-eTDw"
+          "videoId": "XdfFatL-SIg",
+          "titulo": "PALMEIRAS X BENFICA AO VIVO: ASSISTA ÀS QUARTAS DE FINAL DA MESSI CUP DE GRAÇA | ESPN",
+          "thumbnail": "https://i.ytimg.com/vi/XdfFatL-SIg/hqdefault.jpg?v=6ae131ef",
+          "horarioAgendadoUTC": "2026-10-28T17:00:00Z",
+          "horarioBrasilia": "28/10, 14:00",
+          "link": "https://www.youtube.com/watch?v=XdfFatL-SIg"
         },
         {
-          "videoId": "CtnHwzRtAhw",
-          "titulo": "PALMEIRAS X ARSENAL AO VIVO: ASSISTA AO JOGO PELA MESSI CUP DE GRAÇA | ESPN",
-          "thumbnail": "https://i.ytimg.com/vi/CtnHwzRtAhw/hqdefault.jpg?v=6ada850c",
-          "horarioAgendadoUTC": "2026-10-27T20:25:00Z",
-          "horarioBrasilia": "27/10, 17:25",
-          "link": "https://www.youtube.com/watch?v=CtnHwzRtAhw"
+          "videoId": "YpMZ6UAWmzQ",
+          "titulo": "BAYERN X REAL MADRID AO VIVO: JOGO DA CHAMPIONS LEAGUE FEMININA COM IMAGENS E DE GRAÇA | ESPN",
+          "thumbnail": "https://i.ytimg.com/vi/YpMZ6UAWmzQ/hqdefault.jpg?v=6ae1009f",
+          "horarioAgendadoUTC": "2026-10-28T17:40:00Z",
+          "horarioBrasilia": "28/10, 14:40",
+          "link": "https://www.youtube.com/watch?v=YpMZ6UAWmzQ"
+        },
+        {
+          "videoId": "5UN6Wu5K69g",
+          "titulo": "MONZA X NAPOLI AO VIVO: JOGO DA SERIE A COM IMAGENS E DE GRAÇA | ESPN",
+          "thumbnail": "https://i.ytimg.com/vi/5UN6Wu5K69g/hqdefault.jpg?v=6ae0f322",
+          "horarioAgendadoUTC": "2026-10-28T19:35:00Z",
+          "horarioBrasilia": "28/10, 16:35",
+          "link": "https://www.youtube.com/watch?v=5UN6Wu5K69g"
         }
       ],
       "erro": null
@@ -106,8 +146,17 @@
       "canalId": "UC_oToDrJ6uca7d1dFVBmLtg",
       "nome": "Canal GOAT",
       "logo": "https://yt3.ggpht.com/NtXade9YlBhuNpJu5Tcj-PRXH57GtNbON4e6KgaGhZnuqKPDvrhUGcQl88j7F72BKLAaZ72QEow=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 0,
-      "lives": [],
+      "totalLives": 1,
+      "lives": [
+        {
+          "videoId": "Uru_eMbaNGw",
+          "titulo": "HEARTS X RANGERS | AO VIVO E COM IMAGENS | SCOTTISH PREMIERSHIP",
+          "thumbnail": "https://i.ytimg.com/vi/Uru_eMbaNGw/hqdefault.jpg?v=6adf67c3",
+          "horarioAgendadoUTC": "2026-10-28T19:50:00Z",
+          "horarioBrasilia": "28/10, 16:50",
+          "link": "https://www.youtube.com/watch?v=Uru_eMbaNGw"
+        }
+      ],
       "erro": null
     },
     {
@@ -122,31 +171,56 @@
       "canalId": "UCf9WJPpsh5BHDY-OeISgIqA",
       "nome": "N Sports",
       "logo": "https://yt3.ggpht.com/tt9WaJh3uawWJUv4upgjMNJgirABgKgaionIiPMTor-5rL5EnszV6sL8KDLOwXmqUZmKfnlu=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 0,
-      "lives": [],
+      "totalLives": 2,
+      "lives": [
+        {
+          "videoId": "p17pdAmX9dM",
+          "titulo": "AO VIVO E COM IMAGENS | CORINTHIANS X SANTA FÉ | SEMIFINAL | LIBERTADORES FEMININA 2026",
+          "thumbnail": "https://i.ytimg.com/vi/p17pdAmX9dM/hqdefault.jpg?v=6ae0f36f",
+          "horarioAgendadoUTC": "2026-10-28T19:30:00Z",
+          "horarioBrasilia": "28/10, 16:30",
+          "link": "https://www.youtube.com/watch?v=p17pdAmX9dM"
+        },
+        {
+          "videoId": "_UWqFB0zcmM",
+          "titulo": "AO VIVO E COM IMAGENS | CRUZEIRO X OLIMPIA | SEMIFINAL | LIBERTADORES FEMININA 2026",
+          "thumbnail": "https://i.ytimg.com/vi/_UWqFB0zcmM/hqdefault.jpg?v=6ae0f383",
+          "horarioAgendadoUTC": "2026-10-28T23:30:00Z",
+          "horarioBrasilia": "28/10, 20:30",
+          "link": "https://www.youtube.com/watch?v=_UWqFB0zcmM"
+        }
+      ],
       "erro": null
     },
     {
       "canalId": "UCMcc9elPZGpg6eU4i3YaCpA",
       "nome": "SportyNet",
       "logo": "https://yt3.ggpht.com/gljY0R_KSQ6j9HLIgFWayZnekdpxPfCH-aKmm_2OFV5nru3CuGMtPTL8cG0qliPcM65gtTPb=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 2,
+      "totalLives": 3,
       "lives": [
         {
-          "videoId": "owht7jYWHTg",
-          "titulo": "ASCOLI X SAMPDORIA: AO VIVO, COM IMAGENS E EXCLUSIVO | RODADA 9 | SÉRIE B ITALIANA",
-          "thumbnail": "https://i.ytimg.com/vi/owht7jYWHTg/hqdefault.jpg?v=6ad167f2",
-          "horarioAgendadoUTC": "2026-10-27T12:45:00Z",
-          "horarioBrasilia": "27/10, 09:45",
-          "link": "https://www.youtube.com/watch?v=owht7jYWHTg"
+          "videoId": "-0iktod2FJ0",
+          "titulo": "VENEZIA X INTER DE MILÃO: AO VIVO E COM IMAGENS | RODADA 9 | SERIE A",
+          "thumbnail": "https://i.ytimg.com/vi/-0iktod2FJ0/hqdefault.jpg?v=6ad26a39",
+          "horarioAgendadoUTC": "2026-10-28T17:00:00Z",
+          "horarioBrasilia": "28/10, 14:00",
+          "link": "https://www.youtube.com/watch?v=-0iktod2FJ0"
         },
         {
-          "videoId": "9AVl4tGTZjU",
-          "titulo": "CEARÁ X GOIÁS: AO VIVO E COM IMAGENS | RODADA 35 | SÉRIE B",
-          "thumbnail": "https://i.ytimg.com/vi/9AVl4tGTZjU/hqdefault.jpg?v=6ad16ada",
-          "horarioAgendadoUTC": "2026-10-27T21:45:00Z",
-          "horarioBrasilia": "27/10, 18:45",
-          "link": "https://www.youtube.com/watch?v=9AVl4tGTZjU"
+          "videoId": "TTgDpYBqTZU",
+          "titulo": "GENOA X JUVENTUS : AO VIVO E COM IMAGENS | RODADA 9 | SERIE A",
+          "thumbnail": "https://i.ytimg.com/vi/TTgDpYBqTZU/hqdefault.jpg?v=6ad4e799",
+          "horarioAgendadoUTC": "2026-10-28T19:30:00Z",
+          "horarioBrasilia": "28/10, 16:30",
+          "link": "https://www.youtube.com/watch?v=TTgDpYBqTZU"
+        },
+        {
+          "videoId": "OpEgx_Iu5uU",
+          "titulo": "AMÉRICA-MEX X TIJUANA: AO VIVO, COM IMAGENS E EXCLUSIVO| RODADA 15 - APERTURA |CAMPEONATO MEXICANO",
+          "thumbnail": "https://i.ytimg.com/vi/OpEgx_Iu5uU/hqdefault.jpg?v=6ad4ebb3",
+          "horarioAgendadoUTC": "2026-10-29T02:45:00Z",
+          "horarioBrasilia": "28/10, 23:45",
+          "link": "https://www.youtube.com/watch?v=OpEgx_Iu5uU"
         }
       ],
       "erro": null
@@ -155,31 +229,55 @@
       "canalId": "UC3KHYFWeB0WimMBfm3NEahQ",
       "nome": "UOL Esporte",
       "logo": "https://yt3.ggpht.com/WnRMVUq4sj-Q1bAp8yz9y7WqUzqcbSZYQMkeMlHF1Kdv0fa39fw1zf3ylt1cil-ntjuL-s21TA=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 3,
+      "totalLives": 6,
       "lives": [
         {
-          "videoId": "Ro7D8AP496w",
-          "titulo": "UOL NEWS ESPORTE | 27 DE OUTUBRO",
-          "thumbnail": "https://i.ytimg.com/vi/Ro7D8AP496w/hqdefault.jpg?v=6ad8d847",
-          "horarioAgendadoUTC": "2026-10-27T11:30:00Z",
-          "horarioBrasilia": "27/10, 08:30",
-          "link": "https://www.youtube.com/watch?v=Ro7D8AP496w"
+          "videoId": "HqcUXBLYmI0",
+          "titulo": "UOL NEWS ESPORTE | 28 D EOUTUBRO",
+          "thumbnail": "https://i.ytimg.com/vi/HqcUXBLYmI0/hqdefault.jpg?v=6adf37f5",
+          "horarioAgendadoUTC": "2026-10-28T11:30:00Z",
+          "horarioBrasilia": "28/10, 08:30",
+          "link": "https://www.youtube.com/watch?v=HqcUXBLYmI0"
         },
         {
-          "videoId": "pccRQerJ9eE",
-          "titulo": "DE PRIMEIRA AO VIVO | 27 DE OUTUBRO",
-          "thumbnail": "https://i.ytimg.com/vi/pccRQerJ9eE/hqdefault.jpg?v=6ad8d8ab",
-          "horarioAgendadoUTC": "2026-10-27T16:30:00Z",
-          "horarioBrasilia": "27/10, 13:30",
-          "link": "https://www.youtube.com/watch?v=pccRQerJ9eE"
+          "videoId": "4YIkL94Xtpk",
+          "titulo": "DE PRIMEIRA | 28 DE OUTUBRO",
+          "thumbnail": "https://i.ytimg.com/vi/4YIkL94Xtpk/hqdefault.jpg?v=6adf398a",
+          "horarioAgendadoUTC": "2026-10-28T16:30:00Z",
+          "horarioBrasilia": "28/10, 13:30",
+          "link": "https://www.youtube.com/watch?v=4YIkL94Xtpk"
         },
         {
-          "videoId": "KXS4M1LA7kY",
-          "titulo": "SPORTING X MARÍTIMO | TAÇA DA LIGA DE PORTUGAL | QUARTAS DE FINAL | JOGO COMPLETO",
-          "thumbnail": "https://i.ytimg.com/vi/KXS4M1LA7kY/hqdefault.jpg?v=6adff347",
-          "horarioAgendadoUTC": "2026-10-27T20:15:00Z",
-          "horarioBrasilia": "27/10, 17:15",
-          "link": "https://www.youtube.com/watch?v=KXS4M1LA7kY"
+          "videoId": "ZTNTZ6ZlAis",
+          "titulo": "CORINTHIANS X SANTA FE | LIBERTADORES FEMININA | SEMIFINAL | JOGO COMPLETO",
+          "thumbnail": "https://i.ytimg.com/vi/ZTNTZ6ZlAis/hqdefault.jpg?v=6ae1302f",
+          "horarioAgendadoUTC": "2026-10-28T20:00:00Z",
+          "horarioBrasilia": "28/10, 17:00",
+          "link": "https://www.youtube.com/watch?v=ZTNTZ6ZlAis"
+        },
+        {
+          "videoId": "1wLzCpiRGNU",
+          "titulo": "FIM DE PAPO AO VIVO | 28 DE OUTUBRO",
+          "thumbnail": "https://i.ytimg.com/vi/1wLzCpiRGNU/hqdefault.jpg?v=6adf3a41",
+          "horarioAgendadoUTC": "2026-10-28T21:00:00Z",
+          "horarioBrasilia": "28/10, 18:00",
+          "link": "https://www.youtube.com/watch?v=1wLzCpiRGNU"
+        },
+        {
+          "videoId": "FEIy9xfVtUg",
+          "titulo": "SÃO LOURENÇO X CHAPECOENSE | FUTSAL CATARINENSE | QUARTAS DE FINAL | JOGO COMPLETO",
+          "thumbnail": "https://i.ytimg.com/vi/FEIy9xfVtUg/hqdefault.jpg?v=6ae14a05",
+          "horarioAgendadoUTC": "2026-10-28T22:30:00Z",
+          "horarioBrasilia": "28/10, 19:30",
+          "link": "https://www.youtube.com/watch?v=FEIy9xfVtUg"
+        },
+        {
+          "videoId": "Trd4NnrS8gg",
+          "titulo": "CRUZEIRO X OLIMPIA | LIBERTADORES FEMININA | SEMIFINAL | JOGO COMPLETO",
+          "thumbnail": "https://i.ytimg.com/vi/Trd4NnrS8gg/hqdefault.jpg?v=6ae1294a",
+          "horarioAgendadoUTC": "2026-10-29T00:00:00Z",
+          "horarioBrasilia": "28/10, 21:00",
+          "link": "https://www.youtube.com/watch?v=Trd4NnrS8gg"
         }
       ],
       "erro": null
@@ -188,15 +286,47 @@
       "canalId": "UCH-BU-Os3JSo2L8lBQxE8KA",
       "nome": "Xsports",
       "logo": "https://yt3.ggpht.com/CTQyaT5nUAWjH0Vb-WIOrecZ3f4mAlS1N4niAFtIAX-g8gpTxITlkOY-dnRyh3th_1HxJ7KE=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 1,
+      "totalLives": 5,
       "lives": [
         {
-          "videoId": "COTlz0lCtkY",
-          "titulo": "BAYERN DE MUNIQUE X BARCELONA | EUROLIGA DE BASQUETE | AO VIVO E COM IMAGENS",
-          "thumbnail": "https://i.ytimg.com/vi/COTlz0lCtkY/hqdefault.jpg?v=6adfeaa5",
-          "horarioAgendadoUTC": "2026-10-27T19:00:00Z",
-          "horarioBrasilia": "27/10, 16:00",
-          "link": "https://www.youtube.com/watch?v=COTlz0lCtkY"
+          "videoId": "6bdW_OSr7AQ",
+          "titulo": "BESIKTAS X OLYMPIACOS | EUROLIGA DE BASQUETE | AO VIVO E COM IMAGENS",
+          "thumbnail": "https://i.ytimg.com/vi/6bdW_OSr7AQ/hqdefault.jpg?v=6ae108ff",
+          "horarioAgendadoUTC": "2026-10-28T17:15:00Z",
+          "horarioBrasilia": "28/10, 14:15",
+          "link": "https://www.youtube.com/watch?v=6bdW_OSr7AQ"
+        },
+        {
+          "videoId": "uFHyr6ncF0M",
+          "titulo": "CORINTHIANS X SANTA FE | LIBERTADORES FEMININA | AO VIVO E COM IMAGENS",
+          "thumbnail": "https://i.ytimg.com/vi/uFHyr6ncF0M/hqdefault.jpg?v=6ae10b51",
+          "horarioAgendadoUTC": "2026-10-28T19:50:00Z",
+          "horarioBrasilia": "28/10, 16:50",
+          "link": "https://www.youtube.com/watch?v=uFHyr6ncF0M"
+        },
+        {
+          "videoId": "Gbk8Z_wxG3g",
+          "titulo": "PAULISTANO X FRANCA | NBB | AO VIVO E COM IMAGENS",
+          "thumbnail": "https://i.ytimg.com/vi/Gbk8Z_wxG3g/hqdefault.jpg?v=6ae10c07",
+          "horarioAgendadoUTC": "2026-10-28T22:00:00Z",
+          "horarioBrasilia": "28/10, 19:00",
+          "link": "https://www.youtube.com/watch?v=Gbk8Z_wxG3g"
+        },
+        {
+          "videoId": "jeCixt79wKc",
+          "titulo": "CRUZEIRO X OLIMPIA | LIBERTADORES FEMININA | AO VIVO E COM IMAGENS",
+          "thumbnail": "https://i.ytimg.com/vi/jeCixt79wKc/hqdefault.jpg?v=6ae10cb1",
+          "horarioAgendadoUTC": "2026-10-29T00:00:00Z",
+          "horarioBrasilia": "28/10, 21:00",
+          "link": "https://www.youtube.com/watch?v=jeCixt79wKc"
+        },
+        {
+          "videoId": "d29b9iUr5BY",
+          "titulo": "TUCUMÁN X PLATENSE | COPA ARGENTINA | AO VIVO E COM IMAGENS",
+          "thumbnail": "https://i.ytimg.com/vi/d29b9iUr5BY/hqdefault.jpg?v=6ae10d9e",
+          "horarioAgendadoUTC": "2026-10-29T00:15:00Z",
+          "horarioBrasilia": "28/10, 21:15",
+          "link": "https://www.youtube.com/watch?v=d29b9iUr5BY"
         }
       ],
       "erro": null
@@ -208,12 +338,12 @@
       "totalLives": 1,
       "lives": [
         {
-          "videoId": "rIkf4mcm2WY",
-          "titulo": "METRÓPOLES 90 MINUTOS - AO VIVO - 27.10.26",
-          "thumbnail": "https://i.ytimg.com/vi/rIkf4mcm2WY/hqdefault.jpg?v=6ada0dd8",
-          "horarioAgendadoUTC": "2026-10-27T12:30:00Z",
-          "horarioBrasilia": "27/10, 09:30",
-          "link": "https://www.youtube.com/watch?v=rIkf4mcm2WY"
+          "videoId": "CaGWTSJyA34",
+          "titulo": "METRÓPOLES 90 MINUTOS - AO VIVO - 28.10.26",
+          "thumbnail": "https://i.ytimg.com/vi/CaGWTSJyA34/hqdefault.jpg?v=6ada0df9",
+          "horarioAgendadoUTC": "2026-10-28T12:30:00Z",
+          "horarioBrasilia": "28/10, 09:30",
+          "link": "https://www.youtube.com/watch?v=CaGWTSJyA34"
         }
       ],
       "erro": null
@@ -222,15 +352,23 @@
       "canalId": "UCfi9IhipFGSa0eD_EA8JHrA",
       "nome": "Canal GoLBrasil ",
       "logo": "https://yt3.ggpht.com/jH0azzxNbxmjDmzpzqV94Rnq0l3VUzxNinwPx4MqjEOTfkqbiCIxm-M0CQogVux0Z9_QJzy6=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 1,
+      "totalLives": 2,
       "lives": [
         {
-          "videoId": "mwijtpdOwXc",
-          "titulo": "AO VIVO: SÃO JOÃO DO JAGUARIBE X FAZENDA FUTSAL I BRASILEIRO DE FUTSAL I QUARTAS I CANAL GOL BRASIL",
-          "thumbnail": "https://i.ytimg.com/vi/mwijtpdOwXc/hqdefault.jpg?v=6adfdc98",
-          "horarioAgendadoUTC": "2026-10-27T22:30:00Z",
-          "horarioBrasilia": "27/10, 19:30",
-          "link": "https://www.youtube.com/watch?v=mwijtpdOwXc"
+          "videoId": "vTcdd-EbZNg",
+          "titulo": "AO VIVO: CORINTHIANS (BRA) X SANTA FÉ (COL) ISEMIFINAL I LIBERTADORES FEMININA I CANAL GOL BRASIL",
+          "thumbnail": "https://i.ytimg.com/vi/vTcdd-EbZNg/hqdefault.jpg?v=6adfdfde",
+          "horarioAgendadoUTC": "2026-10-28T20:00:00Z",
+          "horarioBrasilia": "28/10, 17:00",
+          "link": "https://www.youtube.com/watch?v=vTcdd-EbZNg"
+        },
+        {
+          "videoId": "lKsB6-7TQRA",
+          "titulo": "AO VIVO: SEMIFINAL I LIBERTADORES FEMININA I CANAL GOL BRASIL",
+          "thumbnail": "https://i.ytimg.com/vi/lKsB6-7TQRA/hqdefault.jpg?v=6adfe019",
+          "horarioAgendadoUTC": "2026-10-29T00:00:00Z",
+          "horarioBrasilia": "28/10, 21:00",
+          "link": "https://www.youtube.com/watch?v=lKsB6-7TQRA"
         }
       ],
       "erro": null
