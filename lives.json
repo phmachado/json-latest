@@ -1,36 +1,28 @@
 {
-  "geradoEm": "2026-11-02T09:58:25.433Z",
-  "data": "2026-11-02",
+  "geradoEm": "2026-11-03T09:58:21.128Z",
+  "data": "2026-11-03",
   "canais": [
     {
       "canalId": "UCZiYbVptd3PVPf4f6eR6UaQ",
       "nome": "CazéTV",
       "logo": "https://yt3.ggpht.com/Zm3t3pgNIYY1HgkWYaWmU3E--oljMiWqX_2Ig4zkxziTkP3VOR9TGUmgJAPu7XrhP06ebxDg=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 3,
+      "totalLives": 2,
       "lives": [
         {
-          "videoId": "cWEmbuUTIBI",
-          "titulo": "AO VIVO: BRASIL NAS OITAVAS DO VÔLEI DE PRAIA | JOGOS OLÍMPICOS DA JUVENTUDE DAKAR 2026",
-          "thumbnail": "https://i.ytimg.com/vi/cWEmbuUTIBI/hqdefault.jpg?v=6ae7d36e",
-          "horarioAgendadoUTC": "2026-11-02T12:45:00Z",
-          "horarioBrasilia": "02/11, 09:45",
-          "link": "https://www.youtube.com/watch?v=cWEmbuUTIBI"
+          "videoId": "CpwOi6XUGrw",
+          "titulo": "AO VIVO: TÊNIS DE MESA | BRUNA TAKAHASHI NO WTT CHAMPIONS DE FRANKFURT",
+          "thumbnail": "https://i.ytimg.com/vi/CpwOi6XUGrw/hqdefault.jpg?v=6ae8e63a",
+          "horarioAgendadoUTC": "2026-11-03T12:45:00Z",
+          "horarioBrasilia": "03/11, 09:45",
+          "link": "https://www.youtube.com/watch?v=CpwOi6XUGrw"
         },
         {
-          "videoId": "mXOil98FdlU",
-          "titulo": "AO VIVO (SOM AMBIENTE): FC LORIENT X STADE BRESTOIS | LIGUE 1 26/27 | 9ª RODADA",
-          "thumbnail": "https://i.ytimg.com/vi/mXOil98FdlU/hqdefault.jpg?v=6adb4c59",
-          "horarioAgendadoUTC": "2026-11-02T19:30:00Z",
-          "horarioBrasilia": "02/11, 16:30",
-          "link": "https://www.youtube.com/watch?v=mXOil98FdlU"
-        },
-        {
-          "videoId": "0EqZef2S9ws",
-          "titulo": "AO VIVO: FLUXO X PODPAH | KINGS LEAGUE BRAZIL | 3ª RODADA",
-          "thumbnail": "https://i.ytimg.com/vi/0EqZef2S9ws/hqdefault.jpg?v=6ae7b395",
-          "horarioAgendadoUTC": "2026-11-02T19:30:00Z",
-          "horarioBrasilia": "02/11, 16:30",
-          "link": "https://www.youtube.com/watch?v=0EqZef2S9ws"
+          "videoId": "yvQsmMVOJbY",
+          "titulo": "AO VIVO: BRUNO FELIPE E GABRIEL CAMPOS NA SEMIFINAL DO VÔLEI DE PRAIA | JOJ DAKAR 2026",
+          "thumbnail": "https://i.ytimg.com/vi/yvQsmMVOJbY/hqdefault.jpg?v=6ae915a3",
+          "horarioAgendadoUTC": "2026-11-03T15:00:00Z",
+          "horarioBrasilia": "03/11, 12:00",
+          "link": "https://www.youtube.com/watch?v=yvQsmMVOJbY"
         }
       ],
       "erro": null
@@ -39,31 +31,55 @@
       "canalId": "UCgCKagVhzGnZcuP9bSMgMCg",
       "nome": "ge tv",
       "logo": "https://yt3.ggpht.com/dc3tNE8gU99pZ_5gPcl_7U-hKf_Zzguxa4wTSexNKVNAWxli7hblw2BsrdHWASnjXRWciqecfTk=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 3,
+      "totalLives": 6,
       "lives": [
         {
-          "videoId": "25Bg-gqDPPM",
-          "titulo": "AO VIVO: CAROL GATTAZ E RICARDINHO NO LEVANTOU, CORTOU! + SESI BAURU X PRAIA CLUBE | ge tv",
-          "thumbnail": "https://i.ytimg.com/vi/25Bg-gqDPPM/hqdefault.jpg?v=6ae29aa5",
-          "horarioAgendadoUTC": "2026-11-02T20:00:00Z",
-          "horarioBrasilia": "02/11, 17:00",
-          "link": "https://www.youtube.com/watch?v=25Bg-gqDPPM"
+          "videoId": "L43qpaZhP3k",
+          "titulo": "AO VIVO: BASQUETE | JOGOS DA JUVENTUDE | FINAIS | PARCERIA TIME BRASIL TV | ge tv",
+          "thumbnail": "https://i.ytimg.com/vi/L43qpaZhP3k/hqdefault.jpg?v=6ae91b9b",
+          "horarioAgendadoUTC": "2026-11-03T10:30:00Z",
+          "horarioBrasilia": "03/11, 07:30",
+          "link": "https://www.youtube.com/watch?v=L43qpaZhP3k"
         },
         {
-          "videoId": "HMCxHb_8nYc",
-          "titulo": "AO VIVO: SESI BAURU X PRAIA CLUBE | SUPERLIGA MASCULINA DE VÔLEI 2026/27 | ge tv",
-          "thumbnail": "https://i.ytimg.com/vi/HMCxHb_8nYc/hqdefault.jpg?v=6ae29be7",
-          "horarioAgendadoUTC": "2026-11-02T21:15:00Z",
-          "horarioBrasilia": "02/11, 18:15",
-          "link": "https://www.youtube.com/watch?v=HMCxHb_8nYc"
+          "videoId": "MyJxjayu4Y0",
+          "titulo": "AO VIVO: VÔLEI DE PRAIA | JOGOS DA JUVENTUDE | FINAIS | PARCERIA TIME BRASIL TV | ge tv",
+          "thumbnail": "https://i.ytimg.com/vi/MyJxjayu4Y0/hqdefault.jpg?v=6ae91c77",
+          "horarioAgendadoUTC": "2026-11-03T17:45:00Z",
+          "horarioBrasilia": "03/11, 14:45",
+          "link": "https://www.youtube.com/watch?v=MyJxjayu4Y0"
         },
         {
-          "videoId": "sy-lswpVI7U",
-          "titulo": "AO VIVO! COPA DO BRASIL, SÃO PAULO X CORINTHIANS, CRUZEIRO CAMPEÃO DA LIBERTA FEM.! | Panela Sportv",
-          "thumbnail": "https://i.ytimg.com/vi/sy-lswpVI7U/hqdefault.jpg?v=6ae7888a",
-          "horarioAgendadoUTC": "2026-11-02T23:15:00Z",
-          "horarioBrasilia": "02/11, 20:15",
-          "link": "https://www.youtube.com/watch?v=sy-lswpVI7U"
+          "videoId": "S3O5pmcAP0U",
+          "titulo": "AO VIVO! PRIMEIRA DESCIDA ANALISA JOGOS DA SEMANA 8 DA NFL #podcast | ge tv",
+          "thumbnail": "https://i.ytimg.com/vi/S3O5pmcAP0U/hqdefault.jpg?v=6ae8cf35",
+          "horarioAgendadoUTC": "2026-11-03T19:00:00Z",
+          "horarioBrasilia": "03/11, 16:00",
+          "link": "https://www.youtube.com/watch?v=S3O5pmcAP0U"
+        },
+        {
+          "videoId": "PjxpTrtP05Q",
+          "titulo": "AO VIVO! NA PONTA DOS DEDOS ANALISA CAMPEONATO DE KIMI ANTONELLI! #podcast | ge.globo",
+          "thumbnail": "https://i.ytimg.com/vi/PjxpTrtP05Q/hqdefault.jpg?v=6ae8cf82",
+          "horarioAgendadoUTC": "2026-11-03T20:00:00Z",
+          "horarioBrasilia": "03/11, 17:00",
+          "link": "https://www.youtube.com/watch?v=PjxpTrtP05Q"
+        },
+        {
+          "videoId": "HuL_-edonxU",
+          "titulo": "AO VIVO: PAULISTANO BAURERI X SESI BAURU | SUPERLIGA FEMININA DE VÔLEI 2026/27 | ge tv",
+          "thumbnail": "https://i.ytimg.com/vi/HuL_-edonxU/hqdefault.jpg?v=6ae29e1f",
+          "horarioAgendadoUTC": "2026-11-03T21:00:00Z",
+          "horarioBrasilia": "03/11, 18:00",
+          "link": "https://www.youtube.com/watch?v=HuL_-edonxU"
+        },
+        {
+          "videoId": "GIsYvH8BlIA",
+          "titulo": "AO VIVO: MONTE CARMELO X SUZANO | SUPERLIGA MASCULINA DE VÔLEI 2026/27 | ge tv",
+          "thumbnail": "https://i.ytimg.com/vi/GIsYvH8BlIA/hqdefault.jpg?v=6ae2a22e",
+          "horarioAgendadoUTC": "2026-11-03T23:30:00Z",
+          "horarioBrasilia": "03/11, 20:30",
+          "link": "https://www.youtube.com/watch?v=GIsYvH8BlIA"
         }
       ],
       "erro": null
@@ -72,33 +88,41 @@
       "canalId": "UCs-6sCz2LJm1PrWQN4ErsPw",
       "nome": "TNT Sports Brasil",
       "logo": "https://yt3.ggpht.com/VQ2IGEcrhMSpuFb3RFDQOsVV9xI0shwQVorL8VLUGUGaV61Va1UMo4iwFOBVfOsrwTTYET22Hdk=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 0,
-      "lives": [],
+      "totalLives": 3,
+      "lives": [
+        {
+          "videoId": "PX2NGg-5QMY",
+          "titulo": "AO VIVO: DIA ABSURDO DE CHAMPIONS! BARCELONA, PSG, MANCHESTER UNITED, BAYERN, ATLÉTICO, ROMA E +",
+          "thumbnail": "https://i.ytimg.com/vi/PX2NGg-5QMY/hqdefault.jpg?v=6ae9082b",
+          "horarioAgendadoUTC": "2026-11-03T11:30:00Z",
+          "horarioBrasilia": "03/11, 08:30",
+          "link": "https://www.youtube.com/watch?v=PX2NGg-5QMY"
+        },
+        {
+          "videoId": "efFXOlwUXms",
+          "titulo": "BARCELONA EM CAMPO, MANCHESTER UNITED AO VIVO NO YOUTUBE E MAIS NA TERÇA DE CHAMPIONS!",
+          "thumbnail": "https://i.ytimg.com/vi/efFXOlwUXms/hqdefault.jpg?v=6ae8e625",
+          "horarioAgendadoUTC": "2026-11-03T16:30:00Z",
+          "horarioBrasilia": "03/11, 13:30",
+          "link": "https://www.youtube.com/watch?v=efFXOlwUXms"
+        },
+        {
+          "videoId": "kkTcb6SpMo0",
+          "titulo": "AO VIVO: MANCHESTER UNITED X ROMA | FASE DE LIGA | RODADA 4 | CHAMPIONS LEAGUE 2026/27",
+          "thumbnail": "https://i.ytimg.com/vi/kkTcb6SpMo0/hqdefault.jpg?v=6ae3b1b6",
+          "horarioAgendadoUTC": "2026-11-03T18:45:00Z",
+          "horarioBrasilia": "03/11, 15:45",
+          "link": "https://www.youtube.com/watch?v=kkTcb6SpMo0"
+        }
+      ],
       "erro": null
     },
     {
       "canalId": "UCw5-xj3AKqEizC7MvHaIPqA",
       "nome": "ESPN Brasil",
       "logo": "https://yt3.ggpht.com/atSFp-_qcwnDISOTP77d1_noGzZ0fQ-ogLumFMNzdDJVWbJwueHbDeeSAezGe0gKgf9zmx8YgQ=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 2,
-      "lives": [
-        {
-          "videoId": "nisTXtpSbKo",
-          "titulo": "BENFICA X ALVERCA AO VIVO: JOGO DO CAMPEONATO PORTUGUÊS COM IMAGENS E DE GRAÇA | ESPN",
-          "thumbnail": "https://i.ytimg.com/vi/nisTXtpSbKo/hqdefault.jpg?v=6ae0fa17",
-          "horarioAgendadoUTC": "2026-11-02T20:10:00Z",
-          "horarioBrasilia": "02/11, 17:10",
-          "link": "https://www.youtube.com/watch?v=nisTXtpSbKo"
-        },
-        {
-          "videoId": "2RUK252D_e8",
-          "titulo": "GOIÁS X CRB AO VIVO: ABRE O JOGO DA SÉRIE B | B DE BOLA 52",
-          "thumbnail": "https://i.ytimg.com/vi/2RUK252D_e8/hqdefault.jpg?v=6ae230e3",
-          "horarioAgendadoUTC": "2026-11-02T22:00:00Z",
-          "horarioBrasilia": "02/11, 19:00",
-          "link": "https://www.youtube.com/watch?v=2RUK252D_e8"
-        }
-      ],
+      "totalLives": 0,
+      "lives": [],
       "erro": null
     },
     {
@@ -129,64 +153,31 @@
       "canalId": "UCMcc9elPZGpg6eU4i3YaCpA",
       "nome": "SportyNet",
       "logo": "https://yt3.ggpht.com/gljY0R_KSQ6j9HLIgFWayZnekdpxPfCH-aKmm_2OFV5nru3CuGMtPTL8cG0qliPcM65gtTPb=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 3,
-      "lives": [
-        {
-          "videoId": "vKaFcaeW700",
-          "titulo": "SASSUOLO X FIORENTINA: AO VIVO E COM IMAGENS | RODADA 10 | SERIE A",
-          "thumbnail": "https://i.ytimg.com/vi/vKaFcaeW700/hqdefault.jpg?v=6ad7b931",
-          "horarioAgendadoUTC": "2026-11-02T17:30:00Z",
-          "horarioBrasilia": "02/11, 14:30",
-          "link": "https://www.youtube.com/watch?v=vKaFcaeW700"
-        },
-        {
-          "videoId": "V93u0Vos_Aw",
-          "titulo": "ATLHETIC X CEARÁ: AO VIVO E COM IMAGENS | RODADA 36 | SÉRIE B",
-          "thumbnail": "https://i.ytimg.com/vi/V93u0Vos_Aw/hqdefault.jpg?v=6ad7b81f",
-          "horarioAgendadoUTC": "2026-11-02T21:00:00Z",
-          "horarioBrasilia": "02/11, 18:00",
-          "link": "https://www.youtube.com/watch?v=V93u0Vos_Aw"
-        },
-        {
-          "videoId": "oD9qc6HTIPQ",
-          "titulo": "GOIÁS X CRB: AO VIVO E COM IMAGENS | RODADA 37 | SÉRIE B",
-          "thumbnail": "https://i.ytimg.com/vi/oD9qc6HTIPQ/hqdefault.jpg?v=6ad7bb43",
-          "horarioAgendadoUTC": "2026-11-02T23:30:00Z",
-          "horarioBrasilia": "02/11, 20:30",
-          "link": "https://www.youtube.com/watch?v=oD9qc6HTIPQ"
-        }
-      ],
+      "totalLives": 0,
+      "lives": [],
       "erro": null
     },
     {
       "canalId": "UC3KHYFWeB0WimMBfm3NEahQ",
       "nome": "UOL Esporte",
       "logo": "https://yt3.ggpht.com/WnRMVUq4sj-Q1bAp8yz9y7WqUzqcbSZYQMkeMlHF1Kdv0fa39fw1zf3ylt1cil-ntjuL-s21TA=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 3,
+      "totalLives": 2,
       "lives": [
         {
-          "videoId": "Fem82ORONm0",
-          "titulo": "POSSE DE BOLA AO VIVO COM MAURO CEZAR, ARNALDO, TIRONI, JUCA KFOURI, TRAJANO E DANILO LAVIERI",
-          "thumbnail": "https://i.ytimg.com/vi/Fem82ORONm0/hqdefault.jpg?v=6ae34d2b",
-          "horarioAgendadoUTC": "2026-11-02T11:30:00Z",
-          "horarioBrasilia": "02/11, 08:30",
-          "link": "https://www.youtube.com/watch?v=Fem82ORONm0"
+          "videoId": "HobO0VxOMug",
+          "titulo": "UOL NEWS ESPORTE AO VIVO | 03 DE NOVEMBRO",
+          "thumbnail": "https://i.ytimg.com/vi/HobO0VxOMug/hqdefault.jpg?v=6ae34ebf",
+          "horarioAgendadoUTC": "2026-11-03T11:30:00Z",
+          "horarioBrasilia": "03/11, 08:30",
+          "link": "https://www.youtube.com/watch?v=HobO0VxOMug"
         },
         {
-          "videoId": "FLPKNzRexUk",
-          "titulo": "DE PRIMEIRA AO VIVO | 02 DE NOVEMBRO",
-          "thumbnail": "https://i.ytimg.com/vi/FLPKNzRexUk/hqdefault.jpg?v=6ae34dd6",
-          "horarioAgendadoUTC": "2026-11-02T16:30:00Z",
-          "horarioBrasilia": "02/11, 13:30",
-          "link": "https://www.youtube.com/watch?v=FLPKNzRexUk"
-        },
-        {
-          "videoId": "6do-weWZGsc",
-          "titulo": "FIM DE PAPO AO VIVO | 2 DE NOVEMBRO",
-          "thumbnail": "https://i.ytimg.com/vi/6do-weWZGsc/hqdefault.jpg?v=6ae34e49",
-          "horarioAgendadoUTC": "2026-11-02T21:00:00Z",
-          "horarioBrasilia": "02/11, 18:00",
-          "link": "https://www.youtube.com/watch?v=6do-weWZGsc"
+          "videoId": "M2z4-lqW9RA",
+          "titulo": "DE PRIMEIRA AO VIVO | 3 DE NOVEMBRO",
+          "thumbnail": "https://i.ytimg.com/vi/M2z4-lqW9RA/hqdefault.jpg?v=6ae34f03",
+          "horarioAgendadoUTC": "2026-11-03T16:30:00Z",
+          "horarioBrasilia": "03/11, 13:30",
+          "link": "https://www.youtube.com/watch?v=M2z4-lqW9RA"
         }
       ],
       "erro": null
@@ -203,103 +194,15 @@
       "canalId": "UC8RrjoT8ovQ43Le7qvHuoMA",
       "nome": "Metrópoles Esportes",
       "logo": "https://yt3.ggpht.com/v8aQZpnGvmyJESJlihwnHykFcQhUw4iXxFC9-DKmjqvP2KzLcUgGvXHnRB0YV47DoAJemkhQsQ=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 12,
+      "totalLives": 1,
       "lives": [
         {
-          "videoId": "HAgcNhleNOI",
-          "titulo": "VERA CRUZ x SANTOS - COPA ATLÂNTICO SUB-19 2026 - AO VIVO - 02.11.26",
-          "thumbnail": "https://i.ytimg.com/vi/HAgcNhleNOI/hqdefault.jpg?v=6ada5f93",
-          "horarioAgendadoUTC": "2026-11-02T10:45:00Z",
-          "horarioBrasilia": "02/11, 07:45",
-          "link": "https://www.youtube.com/watch?v=HAgcNhleNOI"
-        },
-        {
-          "videoId": "ConYi0u_f7o",
-          "titulo": "SPORT x GRÊMIO - COPA ATLÂNTICO SUB-19 2026 - AO VIVO - 02.11.26",
-          "thumbnail": "https://i.ytimg.com/vi/ConYi0u_f7o/hqdefault.jpg?v=6ada5f48",
-          "horarioAgendadoUTC": "2026-11-02T10:45:00Z",
-          "horarioBrasilia": "02/11, 07:45",
-          "link": "https://www.youtube.com/watch?v=ConYi0u_f7o"
-        },
-        {
-          "videoId": "2yF09Q1bsmk",
-          "titulo": "QFC x ATLÉTICO-PI - COPA ATLÂNTICO SUB-19 2026 - AO VIVO - 02.11.26",
-          "thumbnail": "https://i.ytimg.com/vi/2yF09Q1bsmk/hqdefault.jpg?v=6ada5fe1",
-          "horarioAgendadoUTC": "2026-11-02T10:45:00Z",
-          "horarioBrasilia": "02/11, 07:45",
-          "link": "https://www.youtube.com/watch?v=2yF09Q1bsmk"
-        },
-        {
-          "videoId": "idxu-Tu5bKs",
-          "titulo": "FORTALEZA x VILA REAL - COPA ATLÂNTICO SUB-19 2026 - AO VIVO - 02.11.26",
-          "thumbnail": "https://i.ytimg.com/vi/idxu-Tu5bKs/hqdefault.jpg?v=6ae5036f",
-          "horarioAgendadoUTC": "2026-11-02T12:35:00Z",
-          "horarioBrasilia": "02/11, 09:35",
-          "link": "https://www.youtube.com/watch?v=idxu-Tu5bKs"
-        },
-        {
-          "videoId": "qjjt1kHo1B4",
-          "titulo": "AMÉRICA-RN x MACEIÓ - COPA ATLÂNTICO SUB-19 2026 - AO VIVO - 02.11.26",
-          "thumbnail": "https://i.ytimg.com/vi/qjjt1kHo1B4/hqdefault.jpg?v=6ae5025f",
-          "horarioAgendadoUTC": "2026-11-02T12:35:00Z",
-          "horarioBrasilia": "02/11, 09:35",
-          "link": "https://www.youtube.com/watch?v=qjjt1kHo1B4"
-        },
-        {
-          "videoId": "uR2kzKgNmKk",
-          "titulo": "CORINTHIANS x PETROLINA - COPA ATLÂNTICO SUB-19 2026 - AO VIVO - 02.11.26",
-          "thumbnail": "https://i.ytimg.com/vi/uR2kzKgNmKk/hqdefault.jpg?v=6ae5032f",
-          "horarioAgendadoUTC": "2026-11-02T12:35:00Z",
-          "horarioBrasilia": "02/11, 09:35",
-          "link": "https://www.youtube.com/watch?v=uR2kzKgNmKk"
-        },
-        {
-          "videoId": "n_seozpH97c",
-          "titulo": "VITÓRIA x BRASILIENSE - COPA ATLÂNTICO SUB-19 2026 - AO VIVO - 02.11.26",
-          "thumbnail": "https://i.ytimg.com/vi/n_seozpH97c/hqdefault.jpg?v=6ae50445",
-          "horarioAgendadoUTC": "2026-11-02T16:45:00Z",
-          "horarioBrasilia": "02/11, 13:45",
-          "link": "https://www.youtube.com/watch?v=n_seozpH97c"
-        },
-        {
-          "videoId": "uhfioIQ35ak",
-          "titulo": "AMÉRICA-PE x NÁUTICO - COPA ATLÂNTICO SUB-19 2026 - AO VIVO - 02.11.26",
-          "thumbnail": "https://i.ytimg.com/vi/uhfioIQ35ak/hqdefault.jpg?v=6ae503a7",
-          "horarioAgendadoUTC": "2026-11-02T16:45:00Z",
-          "horarioBrasilia": "02/11, 13:45",
-          "link": "https://www.youtube.com/watch?v=uhfioIQ35ak"
-        },
-        {
-          "videoId": "Du9N1fm6Ou0",
-          "titulo": "IPOJUCA x BOTAFOGO - COPA ATLÂNTICO SUB-19 2026 - AO VIVO - 02.11.26",
-          "thumbnail": "https://i.ytimg.com/vi/Du9N1fm6Ou0/hqdefault.jpg?v=6ae503e8",
-          "horarioAgendadoUTC": "2026-11-02T16:45:00Z",
-          "horarioBrasilia": "02/11, 13:45",
-          "link": "https://www.youtube.com/watch?v=Du9N1fm6Ou0"
-        },
-        {
-          "videoId": "KcdKunNqv_M",
-          "titulo": "ATLÉTICO CEARENSE x VILA REAL - TAÇA FARES LOPES 2026 - AO VIVO - 02.11.26",
-          "thumbnail": "https://i.ytimg.com/vi/KcdKunNqv_M/hqdefault.jpg?v=6ae12ab4",
-          "horarioAgendadoUTC": "2026-11-02T17:45:00Z",
-          "horarioBrasilia": "02/11, 14:45",
-          "link": "https://www.youtube.com/watch?v=KcdKunNqv_M"
-        },
-        {
-          "videoId": "dD57T-pLO34",
-          "titulo": "ATLÉTICO-MG x CRUZEIRO-PB - COPA ATLÂNTICO SUB-19 2026 - AO VIVO - 02.11.26",
-          "thumbnail": "https://i.ytimg.com/vi/dD57T-pLO34/hqdefault.jpg?v=6ae504c0",
-          "horarioAgendadoUTC": "2026-11-02T18:45:00Z",
-          "horarioBrasilia": "02/11, 15:45",
-          "link": "https://www.youtube.com/watch?v=dD57T-pLO34"
-        },
-        {
-          "videoId": "S6YHwlHqt_s",
-          "titulo": "PALMEIRAS x CS NORTE AMÉRICA - COPA ATLÂNTICO SUB-19 2026 - AO VIVO - 02.11.26",
-          "thumbnail": "https://i.ytimg.com/vi/S6YHwlHqt_s/hqdefault.jpg?v=6ae50483",
-          "horarioAgendadoUTC": "2026-11-02T18:45:00Z",
-          "horarioBrasilia": "02/11, 15:45",
-          "link": "https://www.youtube.com/watch?v=S6YHwlHqt_s"
+          "videoId": "_NfYMOjXURc",
+          "titulo": "METRÓPOLES 90 MINUTOS - AO VIVO - 03.11.26",
+          "thumbnail": "https://i.ytimg.com/vi/_NfYMOjXURc/hqdefault.jpg?v=6ae954dd",
+          "horarioAgendadoUTC": "2026-11-03T12:30:00Z",
+          "horarioBrasilia": "03/11, 09:30",
+          "link": "https://www.youtube.com/watch?v=_NfYMOjXURc"
         }
       ],
       "erro": null
@@ -311,28 +214,28 @@
       "totalLives": 3,
       "lives": [
         {
-          "videoId": "Iqaq2mFIaAU",
-          "titulo": "AO VIVO: KRYLYA SOVETOV X ZENIT  I LIGA DA RÚSSIA I CANAL GOL BRASIL",
-          "thumbnail": "https://i.ytimg.com/vi/Iqaq2mFIaAU/hqdefault.jpg?v=6ae7dca3",
-          "horarioAgendadoUTC": "2026-11-02T15:00:00Z",
-          "horarioBrasilia": "02/11, 12:00",
-          "link": "https://www.youtube.com/watch?v=Iqaq2mFIaAU"
+          "videoId": "lqEgX8axLrs",
+          "titulo": "AO VIVO: COPA NORDESTE DE FUTSAL I DIA 03 I CANAL GOL BRASIL",
+          "thumbnail": "https://i.ytimg.com/vi/lqEgX8axLrs/hqdefault.jpg?v=6ae52e6b",
+          "horarioAgendadoUTC": "2026-11-03T15:00:00Z",
+          "horarioBrasilia": "03/11, 12:00",
+          "link": "https://www.youtube.com/watch?v=lqEgX8axLrs"
         },
         {
-          "videoId": "_1n-kssAYiQ",
-          "titulo": "AO VIVO: COPA NORDESTE DE FUTSAL I DIA 02 I CANAL GOL BRASIL",
-          "thumbnail": "https://i.ytimg.com/vi/_1n-kssAYiQ/hqdefault.jpg?v=6ae52dd4",
-          "horarioAgendadoUTC": "2026-11-02T15:00:00Z",
-          "horarioBrasilia": "02/11, 12:00",
-          "link": "https://www.youtube.com/watch?v=_1n-kssAYiQ"
+          "videoId": "hGb0zZXkIm0",
+          "titulo": "AO VIVO: SIRIUS X HALMSTAD I LIGA DA SUÉCIA I CANAL GOL BRASIL",
+          "thumbnail": "https://i.ytimg.com/vi/hGb0zZXkIm0/hqdefault.jpg?v=6ae91c3e",
+          "horarioAgendadoUTC": "2026-11-03T18:00:00Z",
+          "horarioBrasilia": "03/11, 15:00",
+          "link": "https://www.youtube.com/watch?v=hGb0zZXkIm0"
         },
         {
-          "videoId": "loW8HIkHKVM",
-          "titulo": "AO VIVO: SONDERJYSKE X COPENHAGEN I LIGA DA DINAMARCA I CANAL GOL BRASIL",
-          "thumbnail": "https://i.ytimg.com/vi/loW8HIkHKVM/hqdefault.jpg?v=6ae7ddcb",
-          "horarioAgendadoUTC": "2026-11-02T18:00:00Z",
-          "horarioBrasilia": "02/11, 15:00",
-          "link": "https://www.youtube.com/watch?v=loW8HIkHKVM"
+          "videoId": "lpmSWYeNgEs",
+          "titulo": "AO VIVO: ALIANZA LIMA X CIENCIANO I LIGA DO PERU I CANAL GOL BRASIL",
+          "thumbnail": "https://i.ytimg.com/vi/lpmSWYeNgEs/hqdefault.jpg?v=6ae96439",
+          "horarioAgendadoUTC": "2026-11-04T01:00:00Z",
+          "horarioBrasilia": "03/11, 22:00",
+          "link": "https://www.youtube.com/watch?v=lpmSWYeNgEs"
         }
       ],
       "erro": null
