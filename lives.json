@@ -1,6 +1,6 @@
 {
-  "geradoEm": "2026-11-11T09:58:19.507Z",
-  "data": "2026-11-11",
+  "geradoEm": "2026-11-12T09:58:19.349Z",
+  "data": "2026-11-12",
   "canais": [
     {
       "canalId": "UCZiYbVptd3PVPf4f6eR6UaQ",
@@ -9,28 +9,28 @@
       "totalLives": 3,
       "lives": [
         {
-          "videoId": "aO39ky6JmRM",
-          "titulo": "AO VIVO: BRASIL NO HANDEBOL DE PRAIA | JOGOS OLÍMPICOS DA JUVENTUDE DAKAR 2026",
-          "thumbnail": "https://i.ytimg.com/vi/aO39ky6JmRM/hqdefault.jpg?v=6af39b38",
-          "horarioAgendadoUTC": "2026-11-11T11:40:00Z",
-          "horarioBrasilia": "11/11, 08:40",
-          "link": "https://www.youtube.com/watch?v=aO39ky6JmRM"
+          "videoId": "OZUt4IQZ87o",
+          "titulo": "AO VIVO: BRASIL NA ESGRIMA | JOGOS OLÍMPICOS DA JUVENTUDE DAKAR 2026",
+          "thumbnail": "https://i.ytimg.com/vi/OZUt4IQZ87o/hqdefault.jpg?v=6af4e311",
+          "horarioAgendadoUTC": "2026-11-12T10:15:00Z",
+          "horarioBrasilia": "12/11, 07:15",
+          "link": "https://www.youtube.com/watch?v=OZUt4IQZ87o"
         },
         {
-          "videoId": "320EUYC0Wxw",
-          "titulo": "AO VIVO: BRAZILIAN STORM ESTÁ NA ÁGUA! | ISA GAMES 2026 | VALENDO VAGA OLÍMPICA",
-          "thumbnail": "https://i.ytimg.com/vi/320EUYC0Wxw/hqdefault.jpg?v=6af39305",
-          "horarioAgendadoUTC": "2026-11-11T11:50:00Z",
-          "horarioBrasilia": "11/11, 08:50",
-          "link": "https://www.youtube.com/watch?v=320EUYC0Wxw"
+          "videoId": "1b9F5xU-4HI",
+          "titulo": "AO VIVO: MIGUEL PUPO E TAINÁ HINCKEL NA ÁGUA! | ISA GAMES 2026 | VALENDO VAGA OLÍMPICA",
+          "thumbnail": "https://i.ytimg.com/vi/1b9F5xU-4HI/hqdefault.jpg?v=6af4e62d",
+          "horarioAgendadoUTC": "2026-11-12T11:50:00Z",
+          "horarioBrasilia": "12/11, 08:50",
+          "link": "https://www.youtube.com/watch?v=1b9F5xU-4HI"
         },
         {
-          "videoId": "zzoXup4rDLU",
-          "titulo": "AO VIVO (SOM AMBIENTE): TÊNIS DE MESA | GIULIA TAKAHASHI E LAURA WATANABE | WTT ISTAMBUL",
-          "thumbnail": "https://i.ytimg.com/vi/zzoXup4rDLU/hqdefault.jpg?v=6af32441",
-          "horarioAgendadoUTC": "2026-11-11T13:00:00Z",
-          "horarioBrasilia": "11/11, 10:00",
-          "link": "https://www.youtube.com/watch?v=zzoXup4rDLU"
+          "videoId": "wxBI4DLVz2g",
+          "titulo": "AO VIVO (SOM AMBIENTE): TÊNIS DE MESA | GIULIA TAKAHASHI E LAURA WATANABE | WTT CONTENDER ISTAMBUL",
+          "thumbnail": "https://i.ytimg.com/vi/wxBI4DLVz2g/hqdefault.jpg?v=6af4e522",
+          "horarioAgendadoUTC": "2026-11-12T13:30:00Z",
+          "horarioBrasilia": "12/11, 10:30",
+          "link": "https://www.youtube.com/watch?v=wxBI4DLVz2g"
         }
       ],
       "erro": null
@@ -39,15 +39,39 @@
       "canalId": "UCgCKagVhzGnZcuP9bSMgMCg",
       "nome": "ge tv",
       "logo": "https://yt3.ggpht.com/dc3tNE8gU99pZ_5gPcl_7U-hKf_Zzguxa4wTSexNKVNAWxli7hblw2BsrdHWASnjXRWciqecfTk=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 1,
+      "totalLives": 4,
       "lives": [
         {
-          "videoId": "L2xQZYgH91U",
-          "titulo": "AO VIVO: FLAMENGO X INTERNACIONAL | FINAL | COPA DO BRASIL FEMININA 2026 | ge tv",
-          "thumbnail": "https://i.ytimg.com/vi/L2xQZYgH91U/hqdefault.jpg?v=6af3582f",
-          "horarioAgendadoUTC": "2026-11-11T23:30:00Z",
-          "horarioBrasilia": "11/11, 20:30",
-          "link": "https://www.youtube.com/watch?v=L2xQZYgH91U"
+          "videoId": "VQEPBgCEAMg",
+          "titulo": "AO VIVO! ICE BLUE TEM RAZÃO SOBRE O JIU-JITSU? UBUNTU ESPORTE CLUBE DEBATE | #podcast | ge.globo",
+          "thumbnail": "https://i.ytimg.com/vi/VQEPBgCEAMg/hqdefault.jpg?v=6af4bcba",
+          "horarioAgendadoUTC": "2026-11-12T14:00:00Z",
+          "horarioBrasilia": "12/11, 11:00",
+          "link": "https://www.youtube.com/watch?v=VQEPBgCEAMg"
+        },
+        {
+          "videoId": "1SacMDj6QUc",
+          "titulo": "AO VIVO: PINHEIROS X PAULISTANO BARUERI | SUPERLIGA FEMININA 2026/27 | ge tv",
+          "thumbnail": "https://i.ytimg.com/vi/1SacMDj6QUc/hqdefault.jpg?v=6aef3264",
+          "horarioAgendadoUTC": "2026-11-12T21:00:00Z",
+          "horarioBrasilia": "12/11, 18:00",
+          "link": "https://www.youtube.com/watch?v=1SacMDj6QUc"
+        },
+        {
+          "videoId": "MHuhtQWm4nQ",
+          "titulo": "AO VIVO: SÃO BERNARDO X ATHLETIC-MG | BRASILEIRÃO SÉRIE B 2026 | ge tv",
+          "thumbnail": "https://i.ytimg.com/vi/MHuhtQWm4nQ/hqdefault.jpg?v=6aef3ddc",
+          "horarioAgendadoUTC": "2026-11-12T22:45:00Z",
+          "horarioBrasilia": "12/11, 19:45",
+          "link": "https://www.youtube.com/watch?v=MHuhtQWm4nQ"
+        },
+        {
+          "videoId": "tWBzbr4NQSM",
+          "titulo": "AO VIVO: WASHINGTON COMMANDERS X NEW YORK GIANTS | NFL 2026/27 | ge tv",
+          "thumbnail": "https://i.ytimg.com/vi/tWBzbr4NQSM/hqdefault.jpg?v=6aef33b9",
+          "horarioAgendadoUTC": "2026-11-13T01:00:00Z",
+          "horarioBrasilia": "12/11, 22:00",
+          "link": "https://www.youtube.com/watch?v=tWBzbr4NQSM"
         }
       ],
       "erro": null
@@ -72,8 +96,17 @@
       "canalId": "UC_oToDrJ6uca7d1dFVBmLtg",
       "nome": "Canal GOAT",
       "logo": "https://yt3.ggpht.com/NtXade9YlBhuNpJu5Tcj-PRXH57GtNbON4e6KgaGhZnuqKPDvrhUGcQl88j7F72BKLAaZ72QEow=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 0,
-      "lives": [],
+      "totalLives": 1,
+      "lives": [
+        {
+          "videoId": "5qqyIhHmKJc",
+          "titulo": "CURAÇAO X PANAMÁ | QUARTAS DE FINAL | AO VIVO E COM IMAGENS | CONCACAF NATIONS LEAGUE",
+          "thumbnail": "https://i.ytimg.com/vi/5qqyIhHmKJc/hqdefault.jpg?v=6aecdb2d",
+          "horarioAgendadoUTC": "2026-11-13T00:20:00Z",
+          "horarioBrasilia": "12/11, 21:20",
+          "link": "https://www.youtube.com/watch?v=5qqyIhHmKJc"
+        }
+      ],
       "erro": null
     },
     {
@@ -107,28 +140,28 @@
       "totalLives": 3,
       "lives": [
         {
-          "videoId": "pcUF0D4g83M",
-          "titulo": "UOL NEWS ESPORTE | 11 DE NOVEMBRO",
-          "thumbnail": "https://i.ytimg.com/vi/pcUF0D4g83M/hqdefault.jpg?v=6af1f926",
-          "horarioAgendadoUTC": "2026-11-11T11:30:00Z",
-          "horarioBrasilia": "11/11, 08:30",
-          "link": "https://www.youtube.com/watch?v=pcUF0D4g83M"
+          "videoId": "3bqP37EoAqM",
+          "titulo": "UOL NEWS ESPORTE | 12 DE NOVEMBRO",
+          "thumbnail": "https://i.ytimg.com/vi/3bqP37EoAqM/hqdefault.jpg?v=6af1fa4a",
+          "horarioAgendadoUTC": "2026-11-12T11:30:00Z",
+          "horarioBrasilia": "12/11, 08:30",
+          "link": "https://www.youtube.com/watch?v=3bqP37EoAqM"
         },
         {
-          "videoId": "JaP7KYJZgAI",
-          "titulo": "DE PRIMEIRA AO VIVO | 11 DE NOVEMBRO",
-          "thumbnail": "https://i.ytimg.com/vi/JaP7KYJZgAI/hqdefault.jpg?v=6af1f985",
-          "horarioAgendadoUTC": "2026-11-11T16:30:00Z",
-          "horarioBrasilia": "11/11, 13:30",
-          "link": "https://www.youtube.com/watch?v=JaP7KYJZgAI"
+          "videoId": "3En4LBU3Ns0",
+          "titulo": "DE PRIMEIRA AO VIVO | 12 DE NOVEMBRO",
+          "thumbnail": "https://i.ytimg.com/vi/3En4LBU3Ns0/hqdefault.jpg?v=6af1fa8a",
+          "horarioAgendadoUTC": "2026-11-12T16:30:00Z",
+          "horarioBrasilia": "12/11, 13:30",
+          "link": "https://www.youtube.com/watch?v=3En4LBU3Ns0"
         },
         {
-          "videoId": "KxDcP-LsMv8",
-          "titulo": "FIM DE PAPO AO VIVO | 11 DE NOVEMBRO",
-          "thumbnail": "https://i.ytimg.com/vi/KxDcP-LsMv8/hqdefault.jpg?v=6af3b7d0",
-          "horarioAgendadoUTC": "2026-11-11T21:00:00Z",
-          "horarioBrasilia": "11/11, 18:00",
-          "link": "https://www.youtube.com/watch?v=KxDcP-LsMv8"
+          "videoId": "nG9a5mE6t2w",
+          "titulo": "FIM DE PAPO AO VIVO | 12 DE NOVEMBRO",
+          "thumbnail": "https://i.ytimg.com/vi/nG9a5mE6t2w/hqdefault.jpg?v=6af3b7f9",
+          "horarioAgendadoUTC": "2026-11-12T21:00:00Z",
+          "horarioBrasilia": "12/11, 18:00",
+          "link": "https://www.youtube.com/watch?v=nG9a5mE6t2w"
         }
       ],
       "erro": null
@@ -140,28 +173,28 @@
       "totalLives": 3,
       "lives": [
         {
-          "videoId": "JZMk2Lv-DZE",
-          "titulo": "STEIN CASCAVEL X EXA YSATY | LIBERTADORES DE FUTSAL FEMININO | AO VIVO E COM IMAGENS",
-          "thumbnail": "https://i.ytimg.com/vi/JZMk2Lv-DZE/hqdefault.jpg?v=6af3de2d",
-          "horarioAgendadoUTC": "2026-11-11T17:15:00Z",
-          "horarioBrasilia": "11/11, 14:15",
-          "link": "https://www.youtube.com/watch?v=JZMk2Lv-DZE"
+          "videoId": "UNl9pMEkLx0",
+          "titulo": "RED BULL BRAGANTINO X CORINTHIANS | SEMIFINAL DO PAULISTÃO SUB-20 | AO VIVO E COM IMAGENS",
+          "thumbnail": "https://i.ytimg.com/vi/UNl9pMEkLx0/hqdefault.jpg?v=6af51998",
+          "horarioAgendadoUTC": "2026-11-12T17:45:00Z",
+          "horarioBrasilia": "12/11, 14:45",
+          "link": "https://www.youtube.com/watch?v=UNl9pMEkLx0"
         },
         {
-          "videoId": "2nBiJD9CvM0",
-          "titulo": "PARTIZAN X BASKONIA | EUROLIGA DE BASQUETE | AO VIVO E COM IMAGENS",
-          "thumbnail": "https://i.ytimg.com/vi/2nBiJD9CvM0/hqdefault.jpg?v=6af3df7d",
-          "horarioAgendadoUTC": "2026-11-11T19:30:00Z",
-          "horarioBrasilia": "11/11, 16:30",
-          "link": "https://www.youtube.com/watch?v=2nBiJD9CvM0"
+          "videoId": "lj6Ie1B0BqE",
+          "titulo": "REAL MADRID X ESTRELA VERMELHA | EUROLIGA DE BASQUETE | AO VIVO E COM IMAGENS",
+          "thumbnail": "https://i.ytimg.com/vi/lj6Ie1B0BqE/hqdefault.jpg?v=6af4b442",
+          "horarioAgendadoUTC": "2026-11-12T19:50:00Z",
+          "horarioBrasilia": "12/11, 16:50",
+          "link": "https://www.youtube.com/watch?v=lj6Ie1B0BqE"
         },
         {
-          "videoId": "OhvYFrK4Vn8",
-          "titulo": "FERRO CARRIL OESTE X PEÑAROL | LIBERTADORES DE FUTSAL FEMININO | AO VIVO E COM IMAGENS",
-          "thumbnail": "https://i.ytimg.com/vi/OhvYFrK4Vn8/hqdefault.jpg?v=6af3ded9",
-          "horarioAgendadoUTC": "2026-11-11T22:15:00Z",
-          "horarioBrasilia": "11/11, 19:15",
-          "link": "https://www.youtube.com/watch?v=OhvYFrK4Vn8"
+          "videoId": "COQLytPF-38",
+          "titulo": "BOTAFOGO X FRANCA | NOVO BASQUETE BRASIL | AO VIVO E COM IMAGENS",
+          "thumbnail": "https://i.ytimg.com/vi/COQLytPF-38/hqdefault.jpg?v=6af4b5d6",
+          "horarioAgendadoUTC": "2026-11-12T22:50:00Z",
+          "horarioBrasilia": "12/11, 19:50",
+          "link": "https://www.youtube.com/watch?v=COQLytPF-38"
         }
       ],
       "erro": null
@@ -170,39 +203,15 @@
       "canalId": "UC8RrjoT8ovQ43Le7qvHuoMA",
       "nome": "Metrópoles Esportes",
       "logo": "https://yt3.ggpht.com/v8aQZpnGvmyJESJlihwnHykFcQhUw4iXxFC9-DKmjqvP2KzLcUgGvXHnRB0YV47DoAJemkhQsQ=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 4,
+      "totalLives": 1,
       "lives": [
         {
-          "videoId": "rb9spLdN7D0",
-          "titulo": "TIROL x FORTALEZA - TAÇA FARES LOPES 2026 - AO VIVO - 11.11.26",
-          "thumbnail": "https://i.ytimg.com/vi/rb9spLdN7D0/hqdefault.jpg?v=6aedd878",
-          "horarioAgendadoUTC": "2026-11-11T18:15:00Z",
-          "horarioBrasilia": "11/11, 15:15",
-          "link": "https://www.youtube.com/watch?v=rb9spLdN7D0"
-        },
-        {
-          "videoId": "A3kEUPpSIgE",
-          "titulo": "SERRA BRANCA x CAMPINENSE - COPA PARAÍBA 2026 - AO VIVO E COM IMAGENS - 11.11.26",
-          "thumbnail": "https://i.ytimg.com/vi/A3kEUPpSIgE/hqdefault.jpg?v=6af24780",
-          "horarioAgendadoUTC": "2026-11-11T22:45:00Z",
-          "horarioBrasilia": "11/11, 19:45",
-          "link": "https://www.youtube.com/watch?v=A3kEUPpSIgE"
-        },
-        {
-          "videoId": "7OoY9_Tyrug",
-          "titulo": "ESPORTE x NACIONAL- COPA PARAÍBA 2026 - AO VIVO E COM IMAGENS - 11.11.26",
-          "thumbnail": "https://i.ytimg.com/vi/7OoY9_Tyrug/hqdefault.jpg?v=6af24721",
-          "horarioAgendadoUTC": "2026-11-11T22:45:00Z",
-          "horarioBrasilia": "11/11, 19:45",
-          "link": "https://www.youtube.com/watch?v=7OoY9_Tyrug"
-        },
-        {
-          "videoId": "Diml8PBc17k",
-          "titulo": "ATLÉTICO CAJAZEIRAS x TREZE - COPA PARAÍBA 2026 - AO VIVO E COM IMAGENS - 11.11.26",
-          "thumbnail": "https://i.ytimg.com/vi/Diml8PBc17k/hqdefault.jpg?v=6af246dd",
-          "horarioAgendadoUTC": "2026-11-11T22:45:00Z",
-          "horarioBrasilia": "11/11, 19:45",
-          "link": "https://www.youtube.com/watch?v=Diml8PBc17k"
+          "videoId": "niLYcIQXpdo",
+          "titulo": "CEARÁ x ATLÉTICO CEARENSE - TAÇA FARES LOPES 2026 - AO VIVO - 12.11.26",
+          "thumbnail": "https://i.ytimg.com/vi/niLYcIQXpdo/hqdefault.jpg?v=6af3ad30",
+          "horarioAgendadoUTC": "2026-11-12T17:45:00Z",
+          "horarioBrasilia": "12/11, 14:45",
+          "link": "https://www.youtube.com/watch?v=niLYcIQXpdo"
         }
       ],
       "erro": null
@@ -211,17 +220,8 @@
       "canalId": "UCfi9IhipFGSa0eD_EA8JHrA",
       "nome": "Canal GoLBrasil ",
       "logo": "https://yt3.ggpht.com/jH0azzxNbxmjDmzpzqV94Rnq0l3VUzxNinwPx4MqjEOTfkqbiCIxm-M0CQogVux0Z9_QJzy6=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 1,
-      "lives": [
-        {
-          "videoId": "h3yLlttJFxM",
-          "titulo": "AO VIVO: LIBERTADORES DE FUTSAL FEMININAI DIA 05 I CANAL GOL BRASIL",
-          "thumbnail": "https://i.ytimg.com/vi/h3yLlttJFxM/hqdefault.jpg?v=6aea75a3",
-          "horarioAgendadoUTC": "2026-11-11T15:00:00Z",
-          "horarioBrasilia": "11/11, 12:00",
-          "link": "https://www.youtube.com/watch?v=h3yLlttJFxM"
-        }
-      ],
+      "totalLives": 0,
+      "lives": [],
       "erro": null
     }
   ]
