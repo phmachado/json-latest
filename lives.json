@@ -1,68 +1,36 @@
 {
-  "geradoEm": "2026-11-13T09:58:19.060Z",
-  "data": "2026-11-13",
+  "geradoEm": "2026-11-14T09:58:18.452Z",
+  "data": "2026-11-14",
   "canais": [
     {
       "canalId": "UCZiYbVptd3PVPf4f6eR6UaQ",
       "nome": "CazéTV",
       "logo": "https://yt3.ggpht.com/Zm3t3pgNIYY1HgkWYaWmU3E--oljMiWqX_2Ig4zkxziTkP3VOR9TGUmgJAPu7XrhP06ebxDg=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 7,
+      "totalLives": 3,
       "lives": [
         {
-          "videoId": "2_TMPqDbSWw",
-          "titulo": "AO VIVO: FINAIS DO HANDEBOL DE PRAIA | BRASIL NA DECISÃO | JOJ DAKAR 2026",
-          "thumbnail": "https://i.ytimg.com/vi/2_TMPqDbSWw/hqdefault.jpg?v=6af643ef",
-          "horarioAgendadoUTC": "2026-11-13T11:15:00Z",
-          "horarioBrasilia": "13/11, 08:15",
-          "link": "https://www.youtube.com/watch?v=2_TMPqDbSWw"
+          "videoId": "CtXu2Tr61Nk",
+          "titulo": "AO VIVO: SURFE | ISA GAMES 2026 | VALENDO VAGA OLÍMPICA | 8º DIA",
+          "thumbnail": "https://i.ytimg.com/vi/CtXu2Tr61Nk/hqdefault.jpg?v=6af740ee",
+          "horarioAgendadoUTC": "2026-11-14T11:50:00Z",
+          "horarioBrasilia": "14/11, 08:50",
+          "link": "https://www.youtube.com/watch?v=CtXu2Tr61Nk"
         },
         {
-          "videoId": "pRgkE-zYhx0",
-          "titulo": "AO VIVO: A BRAZILIAN STORM ESTÁ NA ÁGUA! | ISA GAMES 2026 | 7º DIA",
-          "thumbnail": "https://i.ytimg.com/vi/pRgkE-zYhx0/hqdefault.jpg?v=6af62da9",
-          "horarioAgendadoUTC": "2026-11-13T11:50:00Z",
-          "horarioBrasilia": "13/11, 08:50",
-          "link": "https://www.youtube.com/watch?v=pRgkE-zYhx0"
+          "videoId": "QAUTwNdWCoI",
+          "titulo": "AO VIVO: LOGO APÓS O AMISTOSO BRASIL X JAPÃO | GERAL CAZÉTV",
+          "thumbnail": "https://i.ytimg.com/vi/QAUTwNdWCoI/hqdefault.jpg?v=6af7298b",
+          "horarioAgendadoUTC": "2026-11-14T12:15:00Z",
+          "horarioBrasilia": "14/11, 09:15",
+          "link": "https://www.youtube.com/watch?v=QAUTwNdWCoI"
         },
         {
-          "videoId": "FlrV2RHsNEg",
-          "titulo": "AO VIVO: TÊNIS DE MESA | LEO IIZUKA E GUI TEODORO | WTT CONTENDER DE ISTAMBUL",
-          "thumbnail": "https://i.ytimg.com/vi/FlrV2RHsNEg/hqdefault.jpg?v=6af60701",
-          "horarioAgendadoUTC": "2026-11-13T13:20:00Z",
-          "horarioBrasilia": "13/11, 10:20",
-          "link": "https://www.youtube.com/watch?v=FlrV2RHsNEg"
-        },
-        {
-          "videoId": "zziLykH_d-A",
-          "titulo": "AO VIVO: JUDÔ | BRASIL NO GRAND PRIX DE ZAGREB | 1º DIA",
-          "thumbnail": "https://i.ytimg.com/vi/zziLykH_d-A/hqdefault.jpg?v=6af62eb5",
-          "horarioAgendadoUTC": "2026-11-13T15:30:00Z",
-          "horarioBrasilia": "13/11, 12:30",
-          "link": "https://www.youtube.com/watch?v=zziLykH_d-A"
-        },
-        {
-          "videoId": "whyZ5vRQx58",
-          "titulo": "AO VIVO (SOM AMBIENTE): CERIMÔNIA DE ENCERRAMENTO | JOGOS OLÍMPICOS DA JUVENTUDE DAKAR 2026",
-          "thumbnail": "https://i.ytimg.com/vi/whyZ5vRQx58/hqdefault.jpg?v=6af60bcc",
-          "horarioAgendadoUTC": "2026-11-13T18:00:00Z",
-          "horarioBrasilia": "13/11, 15:00",
-          "link": "https://www.youtube.com/watch?v=whyZ5vRQx58"
-        },
-        {
-          "videoId": "lYHdORCGh2g",
-          "titulo": "TÁ CHEGANDO O ATP FINALS E O WTA FINALS! JOÃO E GUTO TREINAM JUNTOS | QUADRA ABERTA",
-          "thumbnail": "https://i.ytimg.com/vi/lYHdORCGh2g/hqdefault.jpg?v=6af6338f",
-          "horarioAgendadoUTC": "2026-11-13T20:00:00Z",
-          "horarioBrasilia": "13/11, 17:00",
-          "link": "https://www.youtube.com/watch?v=lYHdORCGh2g"
-        },
-        {
-          "videoId": "mlwe5EISni4",
-          "titulo": "AO VIVO: É FINAL! CAZÉTV FC X GLOBO | COPA ACERJ FEMININA 2026",
-          "thumbnail": "https://i.ytimg.com/vi/mlwe5EISni4/hqdefault.jpg?v=6af6224f",
-          "horarioAgendadoUTC": "2026-11-13T23:30:00Z",
-          "horarioBrasilia": "13/11, 20:30",
-          "link": "https://www.youtube.com/watch?v=mlwe5EISni4"
+          "videoId": "SjQ7MECWIsY",
+          "titulo": "AO VIVO: JUDÔ | BRASIL NO GRAND PRIX DE ZAGREB | 2º DIA",
+          "thumbnail": "https://i.ytimg.com/vi/SjQ7MECWIsY/hqdefault.jpg?v=6af62f65",
+          "horarioAgendadoUTC": "2026-11-14T15:45:00Z",
+          "horarioBrasilia": "14/11, 12:45",
+          "link": "https://www.youtube.com/watch?v=SjQ7MECWIsY"
         }
       ],
       "erro": null
@@ -74,20 +42,20 @@
       "totalLives": 2,
       "lives": [
         {
-          "videoId": "6eBH1D_HzCs",
-          "titulo": "AO VIVO: SÉRVIA X ALEMANHA | UEFA NATIONS LEAGUE 2026 | FASE DE GRUPOS | ge tv",
-          "thumbnail": "https://i.ytimg.com/vi/6eBH1D_HzCs/hqdefault.jpg?v=6af4fae0",
-          "horarioAgendadoUTC": "2026-11-13T18:15:00Z",
-          "horarioBrasilia": "13/11, 15:15",
-          "link": "https://www.youtube.com/watch?v=6eBH1D_HzCs"
+          "videoId": "OJ4ry4Foi7E",
+          "titulo": "AO VIVO: NORDE VÔLEI X SÃO JOSÉ | SUPERLIGA MASCULINA DE VÔLEI 2026/27 | ge tv",
+          "thumbnail": "https://i.ytimg.com/vi/OJ4ry4Foi7E/hqdefault.jpg?v=6aef3c52",
+          "horarioAgendadoUTC": "2026-11-14T17:45:00Z",
+          "horarioBrasilia": "14/11, 14:45",
+          "link": "https://www.youtube.com/watch?v=OJ4ry4Foi7E"
         },
         {
-          "videoId": "IYqqYugncRI",
-          "titulo": "AO VIVO: PRAIA CLUBE X MACKENZIE | SUPERLIGA FEMININA DE VÔLEI 2026/27 | ge tv",
-          "thumbnail": "https://i.ytimg.com/vi/IYqqYugncRI/hqdefault.jpg?v=6aef366a",
-          "horarioAgendadoUTC": "2026-11-13T21:00:00Z",
-          "horarioBrasilia": "13/11, 18:00",
-          "link": "https://www.youtube.com/watch?v=IYqqYugncRI"
+          "videoId": "aGjabv6NFqc",
+          "titulo": "PORTUGAL X DINAMARCA | AQUECIMENTO AO VIVO | LIGA DAS NAÇÕES DA UEFA | #live | sportv",
+          "thumbnail": "https://i.ytimg.com/vi/aGjabv6NFqc/hqdefault.jpg?v=6af23ae4",
+          "horarioAgendadoUTC": "2026-11-14T19:00:00Z",
+          "horarioBrasilia": "14/11, 16:00",
+          "link": "https://www.youtube.com/watch?v=aGjabv6NFqc"
         }
       ],
       "erro": null
@@ -96,25 +64,8 @@
       "canalId": "UCs-6sCz2LJm1PrWQN4ErsPw",
       "nome": "TNT Sports Brasil",
       "logo": "https://yt3.ggpht.com/VQ2IGEcrhMSpuFb3RFDQOsVV9xI0shwQVorL8VLUGUGaV61Va1UMo4iwFOBVfOsrwTTYET22Hdk=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 2,
-      "lives": [
-        {
-          "videoId": "gUa9ayiDg6o",
-          "titulo": "AO VIVO: SANTOS X PALMEIRAS | SEMIFINAL - VOLTA | PAULISTÃO S-20 2026",
-          "thumbnail": "https://i.ytimg.com/vi/gUa9ayiDg6o/hqdefault.jpg?v=6af630c4",
-          "horarioAgendadoUTC": "2026-11-13T17:45:00Z",
-          "horarioBrasilia": "13/11, 14:45",
-          "link": "https://www.youtube.com/watch?v=gUa9ayiDg6o"
-        },
-        {
-          "videoId": "9SURja93R1E",
-          "titulo": "AO VIVO: BRASIL X PERU | AMISTOSO INTERNACIONAL DA SELEÇÃO SUB-20 COM IMAGENS",
-          "thumbnail": "https://i.ytimg.com/vi/9SURja93R1E/hqdefault.jpg?v=6aee6d03",
-          "horarioAgendadoUTC": "2026-11-13T22:15:00Z",
-          "horarioBrasilia": "13/11, 19:15",
-          "link": "https://www.youtube.com/watch?v=9SURja93R1E"
-        }
-      ],
+      "totalLives": 0,
+      "lives": [],
       "erro": null
     },
     {
@@ -124,12 +75,12 @@
       "totalLives": 1,
       "lives": [
         {
-          "videoId": "HjppUYdHNaY",
-          "titulo": "ESCÓCIA x MACEDÔNIA DO NORTE AO VIVO: JOGO DA NATIONS LEAGUE COM IMAGENS E DE GRAÇA | ESPN",
-          "thumbnail": "https://i.ytimg.com/vi/HjppUYdHNaY/hqdefault.jpg?v=6af4aa02",
-          "horarioAgendadoUTC": "2026-11-13T19:40:00Z",
-          "horarioBrasilia": "13/11, 16:40",
-          "link": "https://www.youtube.com/watch?v=HjppUYdHNaY"
+          "videoId": "wyfq7qaJmb4",
+          "titulo": "SÉRIE B AO VIVO! RODADA FINAL COM IMAGENS: CAMPEÃO, DEFINIÇÃO DOS PLAYOFFS E REBAIXADOS | B DE BOLA",
+          "thumbnail": "https://i.ytimg.com/vi/wyfq7qaJmb4/hqdefault.jpg?v=6af48c8c",
+          "horarioAgendadoUTC": "2026-11-14T18:00:00Z",
+          "horarioBrasilia": "14/11, 15:00",
+          "link": "https://www.youtube.com/watch?v=wyfq7qaJmb4"
         }
       ],
       "erro": null
@@ -138,15 +89,31 @@
       "canalId": "UC_oToDrJ6uca7d1dFVBmLtg",
       "nome": "Canal GOAT",
       "logo": "https://yt3.ggpht.com/NtXade9YlBhuNpJu5Tcj-PRXH57GtNbON4e6KgaGhZnuqKPDvrhUGcQl88j7F72BKLAaZ72QEow=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 1,
+      "totalLives": 3,
       "lives": [
         {
-          "videoId": "qFwLLP72oQI",
-          "titulo": "GUATEMALA X CANADÁ | QUARTAS DE FINAL | AO VIVO E COM IMAGENS | CONCACAF NATIONS LEAGUE",
-          "thumbnail": "https://i.ytimg.com/vi/qFwLLP72oQI/hqdefault.jpg?v=6aecee94",
-          "horarioAgendadoUTC": "2026-11-14T01:50:00Z",
-          "horarioBrasilia": "13/11, 22:50",
-          "link": "https://www.youtube.com/watch?v=qFwLLP72oQI"
+          "videoId": "c7hu6fjt_7w",
+          "titulo": "JUVENTUDE X BOTAFOGO-SP | AO VIVO E COM IMAGENS | BRASILEIRÃO SÉRIE B",
+          "thumbnail": "https://i.ytimg.com/vi/c7hu6fjt_7w/hqdefault.jpg?v=6af54b20",
+          "horarioAgendadoUTC": "2026-11-14T18:30:00Z",
+          "horarioBrasilia": "14/11, 15:30",
+          "link": "https://www.youtube.com/watch?v=c7hu6fjt_7w"
+        },
+        {
+          "videoId": "JbZfS_5Sio8",
+          "titulo": "HAITI X ESTADOS UNIDOS | QUARTAS DE FINAL | AO VIVO E COM IMAGENS | CONCACAF NATIONS LEAGUE",
+          "thumbnail": "https://i.ytimg.com/vi/JbZfS_5Sio8/hqdefault.jpg?v=6af2afe7",
+          "horarioAgendadoUTC": "2026-11-14T21:20:00Z",
+          "horarioBrasilia": "14/11, 18:20",
+          "link": "https://www.youtube.com/watch?v=JbZfS_5Sio8"
+        },
+        {
+          "videoId": "bwwMxAg-K1Q",
+          "titulo": "JAMAICA X MÉXICO | QUARTAS DE FINAL | AO VIVO E COM IMAGENS | CONCACAF NATIONS LEAGUE",
+          "thumbnail": "https://i.ytimg.com/vi/bwwMxAg-K1Q/hqdefault.jpg?v=6af5465e",
+          "horarioAgendadoUTC": "2026-11-15T00:50:00Z",
+          "horarioBrasilia": "14/11, 21:50",
+          "link": "https://www.youtube.com/watch?v=bwwMxAg-K1Q"
         }
       ],
       "erro": null
@@ -171,39 +138,40 @@
       "canalId": "UCMcc9elPZGpg6eU4i3YaCpA",
       "nome": "SportyNet",
       "logo": "https://yt3.ggpht.com/gljY0R_KSQ6j9HLIgFWayZnekdpxPfCH-aKmm_2OFV5nru3CuGMtPTL8cG0qliPcM65gtTPb=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 0,
-      "lives": [],
+      "totalLives": 2,
+      "lives": [
+        {
+          "videoId": "634HzfFlADc",
+          "titulo": "AMÉRICA-MG x AVAÍ: AO VIVO E COM IMAGENS | RODADA 38 | SÉRIE B",
+          "thumbnail": "https://i.ytimg.com/vi/634HzfFlADc/hqdefault.jpg?v=6af363f6",
+          "horarioAgendadoUTC": "2026-11-14T19:15:00Z",
+          "horarioBrasilia": "14/11, 16:15",
+          "link": "https://www.youtube.com/watch?v=634HzfFlADc"
+        },
+        {
+          "videoId": "tbBHNdnt78A",
+          "titulo": "CRB x CEARÁ: AO VIVO E COM IMAGENS | RODADA 38 | SÉRIE B",
+          "thumbnail": "https://i.ytimg.com/vi/tbBHNdnt78A/hqdefault.jpg?v=6af3658e",
+          "horarioAgendadoUTC": "2026-11-14T19:15:00Z",
+          "horarioBrasilia": "14/11, 16:15",
+          "link": "https://www.youtube.com/watch?v=tbBHNdnt78A"
+        }
+      ],
       "erro": null
     },
     {
       "canalId": "UC3KHYFWeB0WimMBfm3NEahQ",
       "nome": "UOL Esporte",
       "logo": "https://yt3.ggpht.com/WnRMVUq4sj-Q1bAp8yz9y7WqUzqcbSZYQMkeMlHF1Kdv0fa39fw1zf3ylt1cil-ntjuL-s21TA=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 3,
+      "totalLives": 1,
       "lives": [
         {
-          "videoId": "WkavWEouk2I",
-          "titulo": "POSSE DE BOLA AO VIVO COM MAURO CEZAR, ARNALDO, LUIZA OLIVEIRA, JUCA KFOURI, TRAJANO E LAVIERI",
-          "thumbnail": "https://i.ytimg.com/vi/WkavWEouk2I/hqdefault.jpg?v=6af1f89e",
-          "horarioAgendadoUTC": "2026-11-13T11:30:00Z",
-          "horarioBrasilia": "13/11, 08:30",
-          "link": "https://www.youtube.com/watch?v=WkavWEouk2I"
-        },
-        {
-          "videoId": "k7OkMS23mzU",
-          "titulo": "DE PRIMEIRA AO VIVO | 13 DE NOVEMBRO",
-          "thumbnail": "https://i.ytimg.com/vi/k7OkMS23mzU/hqdefault.jpg?v=6af1fb7c",
-          "horarioAgendadoUTC": "2026-11-13T16:30:00Z",
-          "horarioBrasilia": "13/11, 13:30",
-          "link": "https://www.youtube.com/watch?v=k7OkMS23mzU"
-        },
-        {
-          "videoId": "ZGDajfGeqc4",
-          "titulo": "FIM DE PAPO AO VIVO | 13 DE NOVEMBRO",
-          "thumbnail": "https://i.ytimg.com/vi/ZGDajfGeqc4/hqdefault.jpg?v=6af3b81e",
-          "horarioAgendadoUTC": "2026-11-13T21:00:00Z",
-          "horarioBrasilia": "13/11, 18:00",
-          "link": "https://www.youtube.com/watch?v=ZGDajfGeqc4"
+          "videoId": "1IhomG6ZmWc",
+          "titulo": "AO VIVO: MITSUBISHI CUP 2026 COM IMAGENS | ASSISTA A ETAPA DO EVENTO EM MOGI GUAÇU (SP)",
+          "thumbnail": "https://i.ytimg.com/vi/1IhomG6ZmWc/hqdefault.jpg?v=6af6528f",
+          "horarioAgendadoUTC": "2026-11-14T13:30:00Z",
+          "horarioBrasilia": "14/11, 10:30",
+          "link": "https://www.youtube.com/watch?v=1IhomG6ZmWc"
         }
       ],
       "erro": null
@@ -212,31 +180,55 @@
       "canalId": "UCH-BU-Os3JSo2L8lBQxE8KA",
       "nome": "Xsports",
       "logo": "https://yt3.ggpht.com/CTQyaT5nUAWjH0Vb-WIOrecZ3f4mAlS1N4niAFtIAX-g8gpTxITlkOY-dnRyh3th_1HxJ7KE=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 3,
+      "totalLives": 6,
       "lives": [
         {
-          "videoId": "0OVcl9w0M1k",
-          "titulo": "ANADOLU EFES X VIRTUS BOLOGNA | EUROLIGA DE BASQUETE | AO VIVO E COM IMAGENS",
-          "thumbnail": "https://i.ytimg.com/vi/0OVcl9w0M1k/hqdefault.jpg?v=6af6175e",
-          "horarioAgendadoUTC": "2026-11-13T17:30:00Z",
-          "horarioBrasilia": "13/11, 14:30",
-          "link": "https://www.youtube.com/watch?v=0OVcl9w0M1k"
+          "videoId": "5Qsf47i9tL0",
+          "titulo": "VASCO X SÃO LOURENÇO | SEMIFINAL DA LNF SILVER | AO VIVO E COM IMAGENS",
+          "thumbnail": "https://i.ytimg.com/vi/5Qsf47i9tL0/hqdefault.jpg?v=6af772d1",
+          "horarioAgendadoUTC": "2026-11-14T14:30:00Z",
+          "horarioBrasilia": "14/11, 11:30",
+          "link": "https://www.youtube.com/watch?v=5Qsf47i9tL0"
         },
         {
-          "videoId": "Bj6eNQWJtFI",
-          "titulo": "STEIN CASCAVEL X PEÑAROL | SEMIFINAL DA LIBERTADORES DE FUTSAL FEMININO | AO VIVO E COM IMAGENS",
-          "thumbnail": "https://i.ytimg.com/vi/Bj6eNQWJtFI/hqdefault.jpg?v=6af6178b",
-          "horarioAgendadoUTC": "2026-11-13T20:00:00Z",
-          "horarioBrasilia": "13/11, 17:00",
-          "link": "https://www.youtube.com/watch?v=Bj6eNQWJtFI"
+          "videoId": "rIcyWx4X8Ws",
+          "titulo": "WASHINGTON SPIRIT X UTAH ROYALS | CAMPEONATO AMERICANO FEMININO | AO VIVO E COM IMAGENS",
+          "thumbnail": "https://i.ytimg.com/vi/rIcyWx4X8Ws/hqdefault.jpg?v=6af7715b",
+          "horarioAgendadoUTC": "2026-11-14T16:45:00Z",
+          "horarioBrasilia": "14/11, 13:45",
+          "link": "https://www.youtube.com/watch?v=rIcyWx4X8Ws"
         },
         {
-          "videoId": "c43A1g-lsYo",
-          "titulo": "SÃO JOSÉ X PAULISTANO | NOVO BASQUETE BRASIL | AO VIVO E COM IMAGENS",
-          "thumbnail": "https://i.ytimg.com/vi/c43A1g-lsYo/hqdefault.jpg?v=6af5ff6e",
-          "horarioAgendadoUTC": "2026-11-13T21:50:00Z",
-          "horarioBrasilia": "13/11, 18:50",
-          "link": "https://www.youtube.com/watch?v=c43A1g-lsYo"
+          "videoId": "qWGosXrAbAQ",
+          "titulo": "MAGNUS X ATLÂNTICO | SEMIFINAL DA LIGA NACIONAL DE FUTSAL | AO VIVO E COM IMAGENS",
+          "thumbnail": "https://i.ytimg.com/vi/qWGosXrAbAQ/hqdefault.jpg?v=6af76f97",
+          "horarioAgendadoUTC": "2026-11-14T19:00:00Z",
+          "horarioBrasilia": "14/11, 16:00",
+          "link": "https://www.youtube.com/watch?v=qWGosXrAbAQ"
+        },
+        {
+          "videoId": "lbHp_MnQhbM",
+          "titulo": "STEIN CASCAVEL X LA UNIÓN | FINAL DA LIBERTADORES FEMININA | AO VIVO E COM IMAGENS",
+          "thumbnail": "https://i.ytimg.com/vi/lbHp_MnQhbM/hqdefault.jpg?v=6af7b654",
+          "horarioAgendadoUTC": "2026-11-14T20:00:00Z",
+          "horarioBrasilia": "14/11, 17:00",
+          "link": "https://www.youtube.com/watch?v=lbHp_MnQhbM"
+        },
+        {
+          "videoId": "AHxCAxanrjo",
+          "titulo": "BANFIELD X BOCA JUNIORS | SEMIFINAL DA COPA ARGENTINA | AO VIVO E COM IMAGENS",
+          "thumbnail": "https://i.ytimg.com/vi/AHxCAxanrjo/hqdefault.jpg?v=6af7bc98",
+          "horarioAgendadoUTC": "2026-11-14T21:50:00Z",
+          "horarioBrasilia": "14/11, 18:50",
+          "link": "https://www.youtube.com/watch?v=AHxCAxanrjo"
+        },
+        {
+          "videoId": "t247mSxaGg4",
+          "titulo": "JARAGUÁ X JOINVILLE | SEMIFINAL DA LIGA NACIONAL DE FUTSAL | AO VIVO E COM IMAGENS",
+          "thumbnail": "https://i.ytimg.com/vi/t247mSxaGg4/hqdefault.jpg?v=6af7699d",
+          "horarioAgendadoUTC": "2026-11-14T22:00:00Z",
+          "horarioBrasilia": "14/11, 19:00",
+          "link": "https://www.youtube.com/watch?v=t247mSxaGg4"
         }
       ],
       "erro": null
@@ -245,23 +237,72 @@
       "canalId": "UC8RrjoT8ovQ43Le7qvHuoMA",
       "nome": "Metrópoles Esportes",
       "logo": "https://yt3.ggpht.com/v8aQZpnGvmyJESJlihwnHykFcQhUw4iXxFC9-DKmjqvP2KzLcUgGvXHnRB0YV47DoAJemkhQsQ=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 0,
-      "lives": [],
+      "totalLives": 5,
+      "lives": [
+        {
+          "videoId": "xtYqU9D4a78",
+          "titulo": "FORTALEZA x PALMÁCIA - TAÇA FARES LOPES 2026 - AO VIVO - 14.11.26",
+          "thumbnail": "https://i.ytimg.com/vi/xtYqU9D4a78/hqdefault.jpg?v=6aedd53f",
+          "horarioAgendadoUTC": "2026-11-14T11:45:00Z",
+          "horarioBrasilia": "14/11, 08:45",
+          "link": "https://www.youtube.com/watch?v=xtYqU9D4a78"
+        },
+        {
+          "videoId": "dZwxfFK6_qU",
+          "titulo": "X1 ARENA - DIA 1 - AO VIVO E COM IMAGENS - 14.11.26",
+          "thumbnail": "https://i.ytimg.com/vi/dZwxfFK6_qU/hqdefault.jpg?v=6af46ed9",
+          "horarioAgendadoUTC": "2026-11-14T16:00:00Z",
+          "horarioBrasilia": "14/11, 13:00",
+          "link": "https://www.youtube.com/watch?v=dZwxfFK6_qU"
+        },
+        {
+          "videoId": "rlHWjAqSDfE",
+          "titulo": "FIGUEIRENSE x MARCÍLIO DIAS - COPA SANTA CATARINA 2026 - AO VIVO E COM IMAGENS - 14.11.26",
+          "thumbnail": "https://i.ytimg.com/vi/rlHWjAqSDfE/hqdefault.jpg?v=6af635c2",
+          "horarioAgendadoUTC": "2026-11-14T17:45:00Z",
+          "horarioBrasilia": "14/11, 14:45",
+          "link": "https://www.youtube.com/watch?v=rlHWjAqSDfE"
+        },
+        {
+          "videoId": "vwlGUIHwxgU",
+          "titulo": "SERRA BRANCA x NACIONAL - COPA PARAÍBA 2026 - AO VIVO E COM IMAGENS - 14.11.26",
+          "thumbnail": "https://i.ytimg.com/vi/vwlGUIHwxgU/hqdefault.jpg?v=6af632d1",
+          "horarioAgendadoUTC": "2026-11-14T18:45:00Z",
+          "horarioBrasilia": "14/11, 15:45",
+          "link": "https://www.youtube.com/watch?v=vwlGUIHwxgU"
+        },
+        {
+          "videoId": "UeLgvfPqZg0",
+          "titulo": "ICASA x QUIXADÁ - TAÇA FARES LOPES 2026 - AO VIVO - 14.11.26",
+          "thumbnail": "https://i.ytimg.com/vi/UeLgvfPqZg0/hqdefault.jpg?v=6af63156",
+          "horarioAgendadoUTC": "2026-11-14T19:45:00Z",
+          "horarioBrasilia": "14/11, 16:45",
+          "link": "https://www.youtube.com/watch?v=UeLgvfPqZg0"
+        }
+      ],
       "erro": null
     },
     {
       "canalId": "UCfi9IhipFGSa0eD_EA8JHrA",
       "nome": "Canal GoLBrasil ",
       "logo": "https://yt3.ggpht.com/jH0azzxNbxmjDmzpzqV94Rnq0l3VUzxNinwPx4MqjEOTfkqbiCIxm-M0CQogVux0Z9_QJzy6=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 1,
+      "totalLives": 2,
       "lives": [
         {
-          "videoId": "BIeNneqkJTs",
-          "titulo": "AO VIVO: SEMIFINAIS I LIBERTADORES DE FUTSAL FEMININO  I CANAL GOL BRASIL",
-          "thumbnail": "https://i.ytimg.com/vi/BIeNneqkJTs/hqdefault.jpg?v=6af519c8",
-          "horarioAgendadoUTC": "2026-11-13T14:00:00Z",
-          "horarioBrasilia": "13/11, 11:00",
-          "link": "https://www.youtube.com/watch?v=BIeNneqkJTs"
+          "videoId": "izA7rF279lM",
+          "titulo": "AO VIVO: TRAIPU X MAGÉ FUTSAL I CAMPEONATO BRASILEIRO DE FUTSAL 2026 I CANAL GOL BRASIL",
+          "thumbnail": "https://i.ytimg.com/vi/izA7rF279lM/hqdefault.jpg?v=6aee2fca",
+          "horarioAgendadoUTC": "2026-11-14T22:00:00Z",
+          "horarioBrasilia": "14/11, 19:00",
+          "link": "https://www.youtube.com/watch?v=izA7rF279lM"
+        },
+        {
+          "videoId": "8-oR3n4ciRo",
+          "titulo": "AO VIVO: WELLINGTON X SIDNEY FC I A-LEAGUE WOMEN 2026/27 I CANAL GOL BRASIL",
+          "thumbnail": "https://i.ytimg.com/vi/8-oR3n4ciRo/hqdefault.jpg?v=6aee2d4e",
+          "horarioAgendadoUTC": "2026-11-15T01:00:00Z",
+          "horarioBrasilia": "14/11, 22:00",
+          "link": "https://www.youtube.com/watch?v=8-oR3n4ciRo"
         }
       ],
       "erro": null
