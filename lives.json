@@ -1,28 +1,20 @@
 {
-  "geradoEm": "2026-11-17T09:58:19.883Z",
-  "data": "2026-11-17",
+  "geradoEm": "2026-11-18T09:58:23.514Z",
+  "data": "2026-11-18",
   "canais": [
     {
       "canalId": "UCZiYbVptd3PVPf4f6eR6UaQ",
       "nome": "CazéTV",
       "logo": "https://yt3.ggpht.com/Zm3t3pgNIYY1HgkWYaWmU3E--oljMiWqX_2Ig4zkxziTkP3VOR9TGUmgJAPu7XrhP06ebxDg=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 2,
+      "totalLives": 1,
       "lives": [
         {
-          "videoId": "BJYvQoXXJyU",
-          "titulo": "AO VIVO: LOGO APÓS O AMISTOSO BRASIL X SINGAPURA | GERAL CAZÉTV",
-          "thumbnail": "https://i.ytimg.com/vi/BJYvQoXXJyU/hqdefault.jpg?v=6afb6f74",
-          "horarioAgendadoUTC": "2026-11-17T11:45:00Z",
-          "horarioBrasilia": "17/11, 08:45",
-          "link": "https://www.youtube.com/watch?v=BJYvQoXXJyU"
-        },
-        {
-          "videoId": "m9GZ-bkD5aI",
-          "titulo": "AO VIVO: SANTOS X SÃO PAULO | PAULISTÃO F 2026 | SEMIFINAL",
-          "thumbnail": "https://i.ytimg.com/vi/m9GZ-bkD5aI/hqdefault.jpg?v=6afb2f8c",
-          "horarioAgendadoUTC": "2026-11-17T21:15:00Z",
-          "horarioBrasilia": "17/11, 18:15",
-          "link": "https://www.youtube.com/watch?v=m9GZ-bkD5aI"
+          "videoId": "9B48Zrg5s18",
+          "titulo": "AO VIVO: CORITIBA X SANTOS | BRASILEIRÃO 2026 | 35ª RODADA",
+          "thumbnail": "https://i.ytimg.com/vi/9B48Zrg5s18/hqdefault.jpg?v=6af367af",
+          "horarioAgendadoUTC": "2026-11-18T21:00:00Z",
+          "horarioBrasilia": "18/11, 18:00",
+          "link": "https://www.youtube.com/watch?v=9B48Zrg5s18"
         }
       ],
       "erro": null
@@ -31,47 +23,23 @@
       "canalId": "UCgCKagVhzGnZcuP9bSMgMCg",
       "nome": "ge tv",
       "logo": "https://yt3.ggpht.com/dc3tNE8gU99pZ_5gPcl_7U-hKf_Zzguxa4wTSexNKVNAWxli7hblw2BsrdHWASnjXRWciqecfTk=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 5,
+      "totalLives": 2,
       "lives": [
         {
-          "videoId": "d3kC7Y0yeeE",
-          "titulo": "AO VIVO! PRIMEIRA DESCIDA ANALISA JOGOS DA SEMANA 10 DA NFL #podcast | ge tv",
-          "thumbnail": "https://i.ytimg.com/vi/d3kC7Y0yeeE/hqdefault.jpg?v=6afb1989",
-          "horarioAgendadoUTC": "2026-11-17T13:00:00Z",
-          "horarioBrasilia": "17/11, 10:00",
-          "link": "https://www.youtube.com/watch?v=d3kC7Y0yeeE"
+          "videoId": "Xp2Skvaa6Vo",
+          "titulo": "AO VIVO: CRUZEIRO X PALMEIRAS | PRÉ-JOGO | BRASILEIRÃO 2026 | Premiere",
+          "thumbnail": "https://i.ytimg.com/vi/Xp2Skvaa6Vo/hqdefault.jpg?v=6af4e08e",
+          "horarioAgendadoUTC": "2026-11-18T22:30:00Z",
+          "horarioBrasilia": "18/11, 19:30",
+          "link": "https://www.youtube.com/watch?v=Xp2Skvaa6Vo"
         },
         {
-          "videoId": "51yjbIjuZAM",
-          "titulo": "AO VIVO! NA PONTA DOS DEDOS COM ENTREVISTAS EXCLUSIVAS DA AUDI! #podcast | ge.globo",
-          "thumbnail": "https://i.ytimg.com/vi/51yjbIjuZAM/hqdefault.jpg?v=6afb1a65",
-          "horarioAgendadoUTC": "2026-11-17T15:00:00Z",
-          "horarioBrasilia": "17/11, 12:00",
-          "link": "https://www.youtube.com/watch?v=51yjbIjuZAM"
-        },
-        {
-          "videoId": "A-xUFpjFaUM",
-          "titulo": "AO VIVO: FLUMINENSE X MINAS  | SUPERLIGA FEMININA DE VÔLEI 2026/27 | ge tv",
-          "thumbnail": "https://i.ytimg.com/vi/A-xUFpjFaUM/hqdefault.jpg?v=6af84a7a",
-          "horarioAgendadoUTC": "2026-11-17T21:00:00Z",
-          "horarioBrasilia": "17/11, 18:00",
-          "link": "https://www.youtube.com/watch?v=A-xUFpjFaUM"
-        },
-        {
-          "videoId": "sjbsQZiGmtI",
-          "titulo": "AO VIVO: ARGENTINA X COSTA RICA | AMISTOSO INTERNACIONAL | ge tv",
-          "thumbnail": "https://i.ytimg.com/vi/sjbsQZiGmtI/hqdefault.jpg?v=6af843d8",
-          "horarioAgendadoUTC": "2026-11-17T22:30:00Z",
-          "horarioBrasilia": "17/11, 19:30",
-          "link": "https://www.youtube.com/watch?v=sjbsQZiGmtI"
-        },
-        {
-          "videoId": "FjXzPtcFUl4",
-          "titulo": "AO VIVO! BRASIL X SINGAPURA: TUDO SOBRE O AMISTOSO DA SELEÇÃO! | Denilson show | ge tv",
-          "thumbnail": "https://i.ytimg.com/vi/FjXzPtcFUl4/hqdefault.jpg?v=6afba1f2",
-          "horarioAgendadoUTC": "2026-11-18T01:00:00Z",
-          "horarioBrasilia": "17/11, 22:00",
-          "link": "https://www.youtube.com/watch?v=FjXzPtcFUl4"
+          "videoId": "orAMvndHR00",
+          "titulo": "FLAMENGO X ATHLETICO-PR | AQUECIMENTO AO VIVO | BRASILEIRÃO 2026 | #live | sportv",
+          "thumbnail": "https://i.ytimg.com/vi/orAMvndHR00/hqdefault.jpg?v=6afb5def",
+          "horarioAgendadoUTC": "2026-11-18T22:30:00Z",
+          "horarioBrasilia": "18/11, 19:30",
+          "link": "https://www.youtube.com/watch?v=orAMvndHR00"
         }
       ],
       "erro": null
@@ -80,40 +48,23 @@
       "canalId": "UCs-6sCz2LJm1PrWQN4ErsPw",
       "nome": "TNT Sports Brasil",
       "logo": "https://yt3.ggpht.com/VQ2IGEcrhMSpuFb3RFDQOsVV9xI0shwQVorL8VLUGUGaV61Va1UMo4iwFOBVfOsrwTTYET22Hdk=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 1,
-      "lives": [
-        {
-          "videoId": "U6t2TBSTSbs",
-          "titulo": "AO VIVO: BRASIL X SINGAPURA - REACT E ANÁLISE DO JOGO DA SELEÇÃO BRASILEIRA",
-          "thumbnail": "https://i.ytimg.com/vi/U6t2TBSTSbs/hqdefault.jpg?v=6afb9888",
-          "horarioAgendadoUTC": "2026-11-17T11:30:00Z",
-          "horarioBrasilia": "17/11, 08:30",
-          "link": "https://www.youtube.com/watch?v=U6t2TBSTSbs"
-        }
-      ],
+      "totalLives": 0,
+      "lives": [],
       "erro": null
     },
     {
       "canalId": "UCw5-xj3AKqEizC7MvHaIPqA",
       "nome": "ESPN Brasil",
       "logo": "https://yt3.ggpht.com/atSFp-_qcwnDISOTP77d1_noGzZ0fQ-ogLumFMNzdDJVWbJwueHbDeeSAezGe0gKgf9zmx8YgQ=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 2,
+      "totalLives": 1,
       "lives": [
         {
-          "videoId": "DuVae8D34fU",
-          "titulo": "AO VIVO: SEEDORF CONCEDE ENTREVISTA COLETIVA NO CORINTHIANS | ESPN",
-          "thumbnail": "https://i.ytimg.com/vi/DuVae8D34fU/hqdefault.jpg?v=6afb96d1",
-          "horarioAgendadoUTC": "2026-11-17T17:00:00Z",
-          "horarioBrasilia": "17/11, 14:00",
-          "link": "https://www.youtube.com/watch?v=DuVae8D34fU"
-        },
-        {
-          "videoId": "bXt7uTbYfoI",
-          "titulo": "UCRÂNIA x GEÓRGIA AO VIVO: JOGO DA NATIONS LEAGUE COM IMAGENS E DE GRAÇA | ESPN",
-          "thumbnail": "https://i.ytimg.com/vi/bXt7uTbYfoI/hqdefault.jpg?v=6af4aa2b",
-          "horarioAgendadoUTC": "2026-11-17T19:40:00Z",
-          "horarioBrasilia": "17/11, 16:40",
-          "link": "https://www.youtube.com/watch?v=bXt7uTbYfoI"
+          "videoId": "mMiq7Yh7vTg",
+          "titulo": "HÄCKEN x MANCHESTER CITY AO VIVO: JOGO DA CHAMPIONS LEAGUE FEMININA COM IMAGENS E DE GRAÇA | ESPN",
+          "thumbnail": "https://i.ytimg.com/vi/mMiq7Yh7vTg/hqdefault.jpg?v=6af4a9c7",
+          "horarioAgendadoUTC": "2026-11-18T17:40:00Z",
+          "horarioBrasilia": "18/11, 14:40",
+          "link": "https://www.youtube.com/watch?v=mMiq7Yh7vTg"
         }
       ],
       "erro": null
@@ -122,23 +73,15 @@
       "canalId": "UC_oToDrJ6uca7d1dFVBmLtg",
       "nome": "Canal GOAT",
       "logo": "https://yt3.ggpht.com/NtXade9YlBhuNpJu5Tcj-PRXH57GtNbON4e6KgaGhZnuqKPDvrhUGcQl88j7F72BKLAaZ72QEow=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 2,
+      "totalLives": 1,
       "lives": [
         {
-          "videoId": "KLFxHpfufgo",
-          "titulo": "ESTADOS UNIDOS X HAITI | QUARTAS DE FINAL | AO VIVO E COM IMAGENS | CONCACAF NATIONS LEAGUE",
-          "thumbnail": "https://i.ytimg.com/vi/KLFxHpfufgo/hqdefault.jpg?v=6af2b397",
-          "horarioAgendadoUTC": "2026-11-17T23:40:00Z",
-          "horarioBrasilia": "17/11, 20:40",
-          "link": "https://www.youtube.com/watch?v=KLFxHpfufgo"
-        },
-        {
-          "videoId": "-S9J8AP37Uo",
-          "titulo": "MÉXICO X JAMAICA | QUARTAS DE FINAL | AO VIVO E COM IMAGENS | CONCACAF NATIONS LEAGUE",
-          "thumbnail": "https://i.ytimg.com/vi/-S9J8AP37Uo/hqdefault.jpg?v=6af63f9c",
-          "horarioAgendadoUTC": "2026-11-18T02:10:00Z",
-          "horarioBrasilia": "17/11, 23:10",
-          "link": "https://www.youtube.com/watch?v=-S9J8AP37Uo"
+          "videoId": "aEjK92ziS8M",
+          "titulo": "NOVORIZONTINO X FORTALEZA | JOGO COMPLETO | BRASILEIRÃO SÉRIE B",
+          "thumbnail": "https://i.ytimg.com/vi/aEjK92ziS8M/hqdefault.jpg?v=6afd7045",
+          "horarioAgendadoUTC": "2026-11-18T17:00:00Z",
+          "horarioBrasilia": "18/11, 14:00",
+          "link": "https://www.youtube.com/watch?v=aEjK92ziS8M"
         }
       ],
       "erro": null
@@ -174,28 +117,28 @@
       "totalLives": 3,
       "lives": [
         {
-          "videoId": "PjRQjAQwLrg",
-          "titulo": "UOL NEWS ESPORTE | 17 DE NOVEMBRO DE 2026",
-          "thumbnail": "https://i.ytimg.com/vi/PjRQjAQwLrg/hqdefault.jpg?v=6af7a1dc",
-          "horarioAgendadoUTC": "2026-11-17T12:00:00Z",
-          "horarioBrasilia": "17/11, 09:00",
-          "link": "https://www.youtube.com/watch?v=PjRQjAQwLrg"
+          "videoId": "R5YpWtDSx24",
+          "titulo": "UOL NEWS ESPORTE | 18 DE NOVEMBRO DE 2026",
+          "thumbnail": "https://i.ytimg.com/vi/R5YpWtDSx24/hqdefault.jpg?v=6af7a5a5",
+          "horarioAgendadoUTC": "2026-11-18T11:30:00Z",
+          "horarioBrasilia": "18/11, 08:30",
+          "link": "https://www.youtube.com/watch?v=R5YpWtDSx24"
         },
         {
-          "videoId": "jQlxxYqR7vw",
-          "titulo": "DE PRIMEIRA | 17 DE NOVEMBRO",
-          "thumbnail": "https://i.ytimg.com/vi/jQlxxYqR7vw/hqdefault.jpg?v=6af7a8f4",
-          "horarioAgendadoUTC": "2026-11-17T16:30:00Z",
-          "horarioBrasilia": "17/11, 13:30",
-          "link": "https://www.youtube.com/watch?v=jQlxxYqR7vw"
+          "videoId": "CpmPcIvHOfc",
+          "titulo": "DE PRIMEIRA | 18 DE NOVEMBRO",
+          "thumbnail": "https://i.ytimg.com/vi/CpmPcIvHOfc/hqdefault.jpg?v=6af7a972",
+          "horarioAgendadoUTC": "2026-11-18T16:30:00Z",
+          "horarioBrasilia": "18/11, 13:30",
+          "link": "https://www.youtube.com/watch?v=CpmPcIvHOfc"
         },
         {
-          "videoId": "S5ii9U9T-PU",
-          "titulo": "CARTÃO VERMELHO | 17 DE NOVEMBRO",
-          "thumbnail": "https://i.ytimg.com/vi/S5ii9U9T-PU/hqdefault.jpg?v=6af7ae2e",
-          "horarioAgendadoUTC": "2026-11-17T21:00:00Z",
-          "horarioBrasilia": "17/11, 18:00",
-          "link": "https://www.youtube.com/watch?v=S5ii9U9T-PU"
+          "videoId": "qOctrm5MrJQ",
+          "titulo": "FIM DE PAPO | 18 DE NOVEMBRO",
+          "thumbnail": "https://i.ytimg.com/vi/qOctrm5MrJQ/hqdefault.jpg?v=6afb508e",
+          "horarioAgendadoUTC": "2026-11-18T21:00:00Z",
+          "horarioBrasilia": "18/11, 18:00",
+          "link": "https://www.youtube.com/watch?v=qOctrm5MrJQ"
         }
       ],
       "erro": null
@@ -204,23 +147,56 @@
       "canalId": "UCH-BU-Os3JSo2L8lBQxE8KA",
       "nome": "Xsports",
       "logo": "https://yt3.ggpht.com/CTQyaT5nUAWjH0Vb-WIOrecZ3f4mAlS1N4niAFtIAX-g8gpTxITlkOY-dnRyh3th_1HxJ7KE=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 0,
-      "lives": [],
+      "totalLives": 1,
+      "lives": [
+        {
+          "videoId": "tF8MOitF0WM",
+          "titulo": "AO VIVO: BESIKTAS X REAL MADRID | EUROLIGA DE BASQUETE | Xsports",
+          "thumbnail": "https://i.ytimg.com/vi/tF8MOitF0WM/hqdefault.jpg?v=6afc77d7",
+          "horarioAgendadoUTC": "2026-11-18T16:45:00Z",
+          "horarioBrasilia": "18/11, 13:45",
+          "link": "https://www.youtube.com/watch?v=tF8MOitF0WM"
+        }
+      ],
       "erro": null
     },
     {
       "canalId": "UC8RrjoT8ovQ43Le7qvHuoMA",
       "nome": "Metrópoles Esportes",
       "logo": "https://yt3.ggpht.com/v8aQZpnGvmyJESJlihwnHykFcQhUw4iXxFC9-DKmjqvP2KzLcUgGvXHnRB0YV47DoAJemkhQsQ=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 1,
+      "totalLives": 4,
       "lives": [
         {
-          "videoId": "3PF9ZQoSnqg",
-          "titulo": "PALMÁCIA x FORTALEZA - TAÇA FARES LOPES 2026 - AO VIVO - 17.11.26",
-          "thumbnail": "https://i.ytimg.com/vi/3PF9ZQoSnqg/hqdefault.jpg?v=6af63261",
-          "horarioAgendadoUTC": "2026-11-17T17:45:00Z",
-          "horarioBrasilia": "17/11, 14:45",
-          "link": "https://www.youtube.com/watch?v=3PF9ZQoSnqg"
+          "videoId": "gQeRsUlQR3c",
+          "titulo": "ATLÉTICO CEARENSE x CEARÁ - TAÇA FARES LOPES 2026 - AO VIVO - 18.11.26",
+          "thumbnail": "https://i.ytimg.com/vi/gQeRsUlQR3c/hqdefault.jpg?v=6afaec59",
+          "horarioAgendadoUTC": "2026-11-18T21:45:00Z",
+          "horarioBrasilia": "18/11, 18:45",
+          "link": "https://www.youtube.com/watch?v=gQeRsUlQR3c"
+        },
+        {
+          "videoId": "0xgUAqta01Q",
+          "titulo": "QUIXADÁ x GUARANI DE JUAZEIRO - TAÇA FARES LOPES 2026 - AO VIVO - 18.11.26",
+          "thumbnail": "https://i.ytimg.com/vi/0xgUAqta01Q/hqdefault.jpg?v=6afaecdd",
+          "horarioAgendadoUTC": "2026-11-18T21:45:00Z",
+          "horarioBrasilia": "18/11, 18:45",
+          "link": "https://www.youtube.com/watch?v=0xgUAqta01Q"
+        },
+        {
+          "videoId": "6fq8qiAHytk",
+          "titulo": "CAMPINENSE x ESPORTE - COPA PARAÍBA 2026 - AO VIVO E COM IMAGENS - 18.11.26",
+          "thumbnail": "https://i.ytimg.com/vi/6fq8qiAHytk/hqdefault.jpg?v=6afaed74",
+          "horarioAgendadoUTC": "2026-11-18T22:45:00Z",
+          "horarioBrasilia": "18/11, 19:45",
+          "link": "https://www.youtube.com/watch?v=6fq8qiAHytk"
+        },
+        {
+          "videoId": "5StkueTu5iY",
+          "titulo": "NACIONAL x ATLÉTICO CAJAZEIRAS - COPA PARAÍBA 2026 - AO VIVO E COM IMAGENS - 18.11.26",
+          "thumbnail": "https://i.ytimg.com/vi/5StkueTu5iY/hqdefault.jpg?v=6afaedb7",
+          "horarioAgendadoUTC": "2026-11-18T22:45:00Z",
+          "horarioBrasilia": "18/11, 19:45",
+          "link": "https://www.youtube.com/watch?v=5StkueTu5iY"
         }
       ],
       "erro": null
@@ -229,8 +205,25 @@
       "canalId": "UCfi9IhipFGSa0eD_EA8JHrA",
       "nome": "Canal GoLBrasil ",
       "logo": "https://yt3.ggpht.com/jH0azzxNbxmjDmzpzqV94Rnq0l3VUzxNinwPx4MqjEOTfkqbiCIxm-M0CQogVux0Z9_QJzy6=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 0,
-      "lives": [],
+      "totalLives": 2,
+      "lives": [
+        {
+          "videoId": "LdTeMkegR5w",
+          "titulo": "AO VIVO: SEMIFINAIS I COPA INTERCONTINENTAL DE FUTSAL I CANAL GOL BRASIL",
+          "thumbnail": "https://i.ytimg.com/vi/LdTeMkegR5w/hqdefault.jpg?v=6af91525",
+          "horarioAgendadoUTC": "2026-11-18T17:00:00Z",
+          "horarioBrasilia": "18/11, 14:00",
+          "link": "https://www.youtube.com/watch?v=LdTeMkegR5w"
+        },
+        {
+          "videoId": "bC9e761ABP8",
+          "titulo": "AO VIVO: BARCELONA X CORDOBA I LIGA ESPANHOLA DE FUTSAL 2026/27 I CANAL GOL BRASIL",
+          "thumbnail": "https://i.ytimg.com/vi/bC9e761ABP8/hqdefault.jpg?v=6aee33c3",
+          "horarioAgendadoUTC": "2026-11-18T19:30:00Z",
+          "horarioBrasilia": "18/11, 16:30",
+          "link": "https://www.youtube.com/watch?v=bC9e761ABP8"
+        }
+      ],
       "erro": null
     }
   ]
