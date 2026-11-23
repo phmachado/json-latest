@@ -1,84 +1,28 @@
 {
-  "geradoEm": "2026-11-22T09:58:19.532Z",
-  "data": "2026-11-22",
+  "geradoEm": "2026-11-23T09:58:24.017Z",
+  "data": "2026-11-23",
   "canais": [
     {
       "canalId": "UCZiYbVptd3PVPf4f6eR6UaQ",
       "nome": "CazéTV",
       "logo": "https://yt3.ggpht.com/Zm3t3pgNIYY1HgkWYaWmU3E--oljMiWqX_2Ig4zkxziTkP3VOR9TGUmgJAPu7XrhP06ebxDg=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 9,
+      "totalLives": 2,
       "lives": [
         {
-          "videoId": "U783JSxqQlo",
-          "titulo": "AO VIVO: JUVENTUS X VENEZIA | SÉRIE A ITALIANA 26/27 | 12ª RODADA",
-          "thumbnail": "https://i.ytimg.com/vi/U783JSxqQlo/hqdefault.jpg?v=6b0066b9",
-          "horarioAgendadoUTC": "2026-11-22T11:00:00Z",
-          "horarioBrasilia": "22/11, 08:00",
-          "link": "https://www.youtube.com/watch?v=U783JSxqQlo"
+          "videoId": "ePqZKF2Ui7A",
+          "titulo": "AO VIVO: PODPAH FUNKBOL CLUBE X DESIMPAIN | KINGS CUP BRAZIL | QUARTAS DE FINAL",
+          "thumbnail": "https://i.ytimg.com/vi/ePqZKF2Ui7A/hqdefault.jpg?v=6b03513e",
+          "horarioAgendadoUTC": "2026-11-23T18:30:00Z",
+          "horarioBrasilia": "23/11, 15:30",
+          "link": "https://www.youtube.com/watch?v=ePqZKF2Ui7A"
         },
         {
-          "videoId": "DkeKLWqMyqE",
-          "titulo": "AO VIVO: BARCELONA X VILLARREAL | LALIGA 26/27 | 13ª RODADA",
-          "thumbnail": "https://i.ytimg.com/vi/DkeKLWqMyqE/hqdefault.jpg?v=6b00d5fe",
-          "horarioAgendadoUTC": "2026-11-22T12:00:00Z",
-          "horarioBrasilia": "22/11, 09:00",
-          "link": "https://www.youtube.com/watch?v=DkeKLWqMyqE"
-        },
-        {
-          "videoId": "tsmmAd5U064",
-          "titulo": "AO VIVO: PARIS FC X ANGERS | LIGUE 1 26/27 | 11ª RODADA",
-          "thumbnail": "https://i.ytimg.com/vi/tsmmAd5U064/hqdefault.jpg?v=6afe199e",
-          "horarioAgendadoUTC": "2026-11-22T13:20:00Z",
-          "horarioBrasilia": "22/11, 10:20",
-          "link": "https://www.youtube.com/watch?v=tsmmAd5U064"
-        },
-        {
-          "videoId": "tIM_T-D66iI",
-          "titulo": "AO VIVO: RACING CLUB X REAL SOCIEDAD | LALIGA 26/27 | 13ª RODADA",
-          "thumbnail": "https://i.ytimg.com/vi/tIM_T-D66iI/hqdefault.jpg?v=6afe1933",
-          "horarioAgendadoUTC": "2026-11-22T15:00:00Z",
-          "horarioBrasilia": "22/11, 12:00",
-          "link": "https://www.youtube.com/watch?v=tIM_T-D66iI"
-        },
-        {
-          "videoId": "LKwpO-D0opc",
-          "titulo": "AO VIVO: FC LORIENT X RENNES | LIGUE 1 26/27 | 11ª RODADA",
-          "thumbnail": "https://i.ytimg.com/vi/LKwpO-D0opc/hqdefault.jpg?v=6afe1a13",
-          "horarioAgendadoUTC": "2026-11-22T15:35:00Z",
-          "horarioBrasilia": "22/11, 12:35",
-          "link": "https://www.youtube.com/watch?v=LKwpO-D0opc"
-        },
-        {
-          "videoId": "4OHKw9l6TIQ",
-          "titulo": "AO VIVO: OSASUNA X MÁLAGA | LALIGA 26/27 | 13ª RODADA",
-          "thumbnail": "https://i.ytimg.com/vi/4OHKw9l6TIQ/hqdefault.jpg?v=6b00651b",
-          "horarioAgendadoUTC": "2026-11-22T17:15:00Z",
-          "horarioBrasilia": "22/11, 14:15",
-          "link": "https://www.youtube.com/watch?v=4OHKw9l6TIQ"
-        },
-        {
-          "videoId": "MF8LYbKU0nc",
-          "titulo": "AO VIVO: GETAFE X ATLÉTICO DE MADRID | LALIGA 26/27 | 13ª RODADA",
-          "thumbnail": "https://i.ytimg.com/vi/MF8LYbKU0nc/hqdefault.jpg?v=6b006747",
-          "horarioAgendadoUTC": "2026-11-22T19:20:00Z",
-          "horarioBrasilia": "22/11, 16:20",
-          "link": "https://www.youtube.com/watch?v=MF8LYbKU0nc"
-        },
-        {
-          "videoId": "n2KWc_xbPAA",
-          "titulo": "AO VIVO: FLUMINENSE X MIRASSOL | BRASILEIRÃO 2026 | 36ª RODADA",
-          "thumbnail": "https://i.ytimg.com/vi/n2KWc_xbPAA/hqdefault.jpg?v=6afe1ae9",
-          "horarioAgendadoUTC": "2026-11-22T21:30:00Z",
-          "horarioBrasilia": "22/11, 18:30",
-          "link": "https://www.youtube.com/watch?v=n2KWc_xbPAA"
-        },
-        {
-          "videoId": "ctkkRR8xVoA",
-          "titulo": "AO VIVO: RESENHA PÓS-JOGO FLUMINENSE X MIRASSOL | RODA DE BOBO",
-          "thumbnail": "https://i.ytimg.com/vi/ctkkRR8xVoA/hqdefault.jpg?v=6aff0a0a",
-          "horarioAgendadoUTC": "2026-11-22T23:30:00Z",
-          "horarioBrasilia": "22/11, 20:30",
-          "link": "https://www.youtube.com/watch?v=ctkkRR8xVoA"
+          "videoId": "GKBnXdzCNY4",
+          "titulo": "AO VIVO: LEVANTE X ELCHE | LALIGA 26/27 | 13ª RODADA",
+          "thumbnail": "https://i.ytimg.com/vi/GKBnXdzCNY4/hqdefault.jpg?v=6b035034",
+          "horarioAgendadoUTC": "2026-11-23T19:45:00Z",
+          "horarioBrasilia": "23/11, 16:45",
+          "link": "https://www.youtube.com/watch?v=GKBnXdzCNY4"
         }
       ],
       "erro": null
@@ -87,31 +31,47 @@
       "canalId": "UCgCKagVhzGnZcuP9bSMgMCg",
       "nome": "ge tv",
       "logo": "https://yt3.ggpht.com/dc3tNE8gU99pZ_5gPcl_7U-hKf_Zzguxa4wTSexNKVNAWxli7hblw2BsrdHWASnjXRWciqecfTk=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 3,
+      "totalLives": 5,
       "lives": [
         {
-          "videoId": "54xZw1Uo90s",
-          "titulo": "JOGO COMPLETO: INDIANAPOLIS COLTS X HOUSTON TEXANS | NFL 2026/27 | SEMANA 11 | ge tv",
-          "thumbnail": "https://i.ytimg.com/vi/54xZw1Uo90s/hqdefault.jpg?v=6b01cb19",
-          "horarioAgendadoUTC": "2026-11-22T17:32:00Z",
-          "horarioBrasilia": "22/11, 14:32",
-          "link": "https://www.youtube.com/watch?v=54xZw1Uo90s"
+          "videoId": "aWD6ZxSsWdM",
+          "titulo": "JOGO COMPLETO: FLUMINENSE X MINAS  | SUPERLIGA FEMININA DE VÔLEI 2026/27 | ge tv",
+          "thumbnail": "https://i.ytimg.com/vi/aWD6ZxSsWdM/hqdefault.jpg?v=6b01cd75",
+          "horarioAgendadoUTC": "2026-11-23T18:30:00Z",
+          "horarioBrasilia": "23/11, 15:30",
+          "link": "https://www.youtube.com/watch?v=aWD6ZxSsWdM"
         },
         {
-          "videoId": "QrxLzNfrZuo",
-          "titulo": "AO VIVO: JACKSONVILLE JAGUARS X NEW YORK GIANTS | NFL 2026/27 | ge tv",
-          "thumbnail": "https://i.ytimg.com/vi/QrxLzNfrZuo/hqdefault.jpg?v=6afcb950",
-          "horarioAgendadoUTC": "2026-11-22T20:00:00Z",
-          "horarioBrasilia": "22/11, 17:00",
-          "link": "https://www.youtube.com/watch?v=QrxLzNfrZuo"
+          "videoId": "cLDBIryqUR4",
+          "titulo": "AO VIVO: RICARDINHO E CAROL GATTAZ NO LEVANTOU, CORTOU! + MINAS X SESI-BAURU | ge tv",
+          "thumbnail": "https://i.ytimg.com/vi/cLDBIryqUR4/hqdefault.jpg?v=6aff79f8",
+          "horarioAgendadoUTC": "2026-11-23T20:00:00Z",
+          "horarioBrasilia": "23/11, 17:00",
+          "link": "https://www.youtube.com/watch?v=cLDBIryqUR4"
         },
         {
-          "videoId": "PCQui9-vzLQ",
-          "titulo": "MINNESOTA VIKINGS X SAN FRANCISCO 49ERS | AQUECIMENTO AO VIVO | NFL | #live | sportv",
-          "thumbnail": "https://i.ytimg.com/vi/PCQui9-vzLQ/hqdefault.jpg?v=6afde221",
-          "horarioAgendadoUTC": "2026-11-23T00:30:00Z",
-          "horarioBrasilia": "22/11, 21:30",
-          "link": "https://www.youtube.com/watch?v=PCQui9-vzLQ"
+          "videoId": "n3vHLCrjFRg",
+          "titulo": "AO VIVO: MINAS X SESI-BAURU | SUPERLIGA FEMININA 2026/27 | ge tv",
+          "thumbnail": "https://i.ytimg.com/vi/n3vHLCrjFRg/hqdefault.jpg?v=6afefa6b",
+          "horarioAgendadoUTC": "2026-11-23T21:15:00Z",
+          "horarioBrasilia": "23/11, 18:15",
+          "link": "https://www.youtube.com/watch?v=n3vHLCrjFRg"
+        },
+        {
+          "videoId": "ZHpNObYBdXA",
+          "titulo": "SANTOS X GRÊMIO | AQUECIMENTO AO VIVO | BRASILEIRÃO 2026 | #live | sportv",
+          "thumbnail": "https://i.ytimg.com/vi/ZHpNObYBdXA/hqdefault.jpg?v=6aff3cf3",
+          "horarioAgendadoUTC": "2026-11-23T23:00:00Z",
+          "horarioBrasilia": "23/11, 20:00",
+          "link": "https://www.youtube.com/watch?v=ZHpNObYBdXA"
+        },
+        {
+          "videoId": "CGoWQDnp6yA",
+          "titulo": "AO VIVO! PALMEIRAS X FLAMENGO E A RODADA DECISIVA DO BRASILEIRÃO! | Panela Sportv",
+          "thumbnail": "https://i.ytimg.com/vi/CGoWQDnp6yA/hqdefault.jpg?v=6aff8714",
+          "horarioAgendadoUTC": "2026-11-23T23:15:00Z",
+          "horarioBrasilia": "23/11, 20:15",
+          "link": "https://www.youtube.com/watch?v=CGoWQDnp6yA"
         }
       ],
       "erro": null
@@ -120,23 +80,15 @@
       "canalId": "UCs-6sCz2LJm1PrWQN4ErsPw",
       "nome": "TNT Sports Brasil",
       "logo": "https://yt3.ggpht.com/VQ2IGEcrhMSpuFb3RFDQOsVV9xI0shwQVorL8VLUGUGaV61Va1UMo4iwFOBVfOsrwTTYET22Hdk=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 2,
+      "totalLives": 1,
       "lives": [
         {
-          "videoId": "3zH9LgZQhSs",
-          "titulo": "AO VIVO: CORINTHIANS X PALMEIRAS | FINAL - IDA | PAULISTÃO S-20 2026",
-          "thumbnail": "https://i.ytimg.com/vi/3zH9LgZQhSs/hqdefault.jpg?v=6afdd5a9",
-          "horarioAgendadoUTC": "2026-11-22T18:45:00Z",
-          "horarioBrasilia": "22/11, 15:45",
-          "link": "https://www.youtube.com/watch?v=3zH9LgZQhSs"
-        },
-        {
-          "videoId": "MaskB6Bs6aU",
-          "titulo": "AO VIVO: CHICAGO FIRE X CHARLOTTE FC | LEWANDOWSKI EM CAMPO NOS PLAYOFFS DA MLS",
-          "thumbnail": "https://i.ytimg.com/vi/MaskB6Bs6aU/hqdefault.jpg?v=6afdd43a",
-          "horarioAgendadoUTC": "2026-11-22T23:15:00Z",
-          "horarioBrasilia": "22/11, 20:15",
-          "link": "https://www.youtube.com/watch?v=MaskB6Bs6aU"
+          "videoId": "4EFq8uZ6cxA",
+          "titulo": "AO VIVO: FLAMENGO É CAMPEÃO BRASILEIRO; GALO ATROPELADO; TUDO DA RODADA DO BR;ESQUENTA PRA CHAMPIONS",
+          "thumbnail": "https://i.ytimg.com/vi/4EFq8uZ6cxA/hqdefault.jpg?v=6b03536b",
+          "horarioAgendadoUTC": "2026-11-23T11:30:00Z",
+          "horarioBrasilia": "23/11, 08:30",
+          "link": "https://www.youtube.com/watch?v=4EFq8uZ6cxA"
         }
       ],
       "erro": null
@@ -145,72 +97,23 @@
       "canalId": "UCw5-xj3AKqEizC7MvHaIPqA",
       "nome": "ESPN Brasil",
       "logo": "https://yt3.ggpht.com/atSFp-_qcwnDISOTP77d1_noGzZ0fQ-ogLumFMNzdDJVWbJwueHbDeeSAezGe0gKgf9zmx8YgQ=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 3,
-      "lives": [
-        {
-          "videoId": "huivmjaqWRk",
-          "titulo": "SASSUOLO X GENOA AO VIVO: JOGO DO CAMPEONATO ITALIANO COM IMAGENS E DE GRAÇA | ESPN",
-          "thumbnail": "https://i.ytimg.com/vi/huivmjaqWRk/hqdefault.jpg?v=6afe02c6",
-          "horarioAgendadoUTC": "2026-11-22T13:50:00Z",
-          "horarioBrasilia": "22/11, 10:50",
-          "link": "https://www.youtube.com/watch?v=huivmjaqWRk"
-        },
-        {
-          "videoId": "mhtlLRjfupQ",
-          "titulo": "NFL REDZONE AO VIVO: ASSISTA AO MELHOR DOS JOGOS DA SEMANA 11 DA NFL",
-          "thumbnail": "https://i.ytimg.com/vi/mhtlLRjfupQ/hqdefault.jpg?v=6b00680c",
-          "horarioAgendadoUTC": "2026-11-22T17:30:00Z",
-          "horarioBrasilia": "22/11, 14:30",
-          "link": "https://www.youtube.com/watch?v=mhtlLRjfupQ"
-        },
-        {
-          "videoId": "OLR7-2xE-mI",
-          "titulo": "ATLÉTICO-GO X VILA NOVA AO VIVO: PLAYOFF DA SÉRIE B - ABRE O JOGO E NARRAÇÃO | B DE BOLA",
-          "thumbnail": "https://i.ytimg.com/vi/OLR7-2xE-mI/hqdefault.jpg?v=6afcad47",
-          "horarioAgendadoUTC": "2026-11-22T20:00:00Z",
-          "horarioBrasilia": "22/11, 17:00",
-          "link": "https://www.youtube.com/watch?v=OLR7-2xE-mI"
-        }
-      ],
+      "totalLives": 0,
+      "lives": [],
       "erro": null
     },
     {
       "canalId": "UC_oToDrJ6uca7d1dFVBmLtg",
       "nome": "Canal GOAT",
       "logo": "https://yt3.ggpht.com/NtXade9YlBhuNpJu5Tcj-PRXH57GtNbON4e6KgaGhZnuqKPDvrhUGcQl88j7F72BKLAaZ72QEow=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 4,
+      "totalLives": 1,
       "lives": [
         {
-          "videoId": "D4aesni67BA",
-          "titulo": "KAISERSLAUTERN X DYNAMO DRESDEN | AO VIVO E COM IMAGENS | BUNDESLIGA 2",
-          "thumbnail": "https://i.ytimg.com/vi/D4aesni67BA/hqdefault.jpg?v=6afc7291",
-          "horarioAgendadoUTC": "2026-11-22T12:20:00Z",
-          "horarioBrasilia": "22/11, 09:20",
-          "link": "https://www.youtube.com/watch?v=D4aesni67BA"
-        },
-        {
-          "videoId": "WNqkf3-LPk4",
-          "titulo": "AUGSBURG X MAINZ 05 | AO VIVO E COM IMAGENS | BUNDESLIGA",
-          "thumbnail": "https://i.ytimg.com/vi/WNqkf3-LPk4/hqdefault.jpg?v=6aff1232",
-          "horarioAgendadoUTC": "2026-11-22T14:20:00Z",
-          "horarioBrasilia": "22/11, 11:20",
-          "link": "https://www.youtube.com/watch?v=WNqkf3-LPk4"
-        },
-        {
-          "videoId": "FiGD9ZtMbQI",
-          "titulo": "WERDER BREMEN X HAMBURGO | AO VIVO E COM IMAGENS | BUNDESLIGA",
-          "thumbnail": "https://i.ytimg.com/vi/FiGD9ZtMbQI/hqdefault.jpg?v=6afb58e3",
-          "horarioAgendadoUTC": "2026-11-22T16:20:00Z",
-          "horarioBrasilia": "22/11, 13:20",
-          "link": "https://www.youtube.com/watch?v=FiGD9ZtMbQI"
-        },
-        {
-          "videoId": "wpBaB5NN3Nk",
-          "titulo": "ATLÉTICO-GO X VILA NOVA | PLAYOFF DE ACESSO | AO VIVO E COM IMAGENS | BRASILEIRÃO SÉRIE B",
-          "thumbnail": "https://i.ytimg.com/vi/wpBaB5NN3Nk/hqdefault.jpg?v=6afb18ae",
-          "horarioAgendadoUTC": "2026-11-22T20:30:00Z",
-          "horarioBrasilia": "22/11, 17:30",
-          "link": "https://www.youtube.com/watch?v=wpBaB5NN3Nk"
+          "videoId": "AI3Ww-hnik8",
+          "titulo": "AL AHLI X AL NASSR | JOGO COMPLETO | SAUDI PRO LEAGUE",
+          "thumbnail": "https://i.ytimg.com/vi/AI3Ww-hnik8/hqdefault.jpg?v=6b010b2c",
+          "horarioAgendadoUTC": "2026-11-23T17:00:00Z",
+          "horarioBrasilia": "23/11, 14:00",
+          "link": "https://www.youtube.com/watch?v=AI3Ww-hnik8"
         }
       ],
       "erro": null
@@ -227,48 +130,23 @@
       "canalId": "UCf9WJPpsh5BHDY-OeISgIqA",
       "nome": "N Sports",
       "logo": "https://yt3.ggpht.com/tt9WaJh3uawWJUv4upgjMNJgirABgKgaionIiPMTor-5rL5EnszV6sL8KDLOwXmqUZmKfnlu=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 1,
-      "lives": [
-        {
-          "videoId": "YCLA4ogTjjQ",
-          "titulo": "🔴 AO VIVO E COM IMAGENS I DE GRAAFSCHAP X AJAX I LIGA HOLANDESA FEMININA 2026/27",
-          "thumbnail": "https://i.ytimg.com/vi/YCLA4ogTjjQ/hqdefault.jpg?v=6b01b358",
-          "horarioAgendadoUTC": "2026-11-22T15:30:00Z",
-          "horarioBrasilia": "22/11, 12:30",
-          "link": "https://www.youtube.com/watch?v=YCLA4ogTjjQ"
-        }
-      ],
+      "totalLives": 0,
+      "lives": [],
       "erro": null
     },
     {
       "canalId": "UCMcc9elPZGpg6eU4i3YaCpA",
       "nome": "SportyNet",
       "logo": "https://yt3.ggpht.com/gljY0R_KSQ6j9HLIgFWayZnekdpxPfCH-aKmm_2OFV5nru3CuGMtPTL8cG0qliPcM65gtTPb=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 3,
+      "totalLives": 1,
       "lives": [
         {
-          "videoId": "oSHfG4Ve5wE",
-          "titulo": "PANATHINAIKOS x OFI: AO VIVO, COM IMAGENS E EXCLUSIVO | RODADA 11 | CAMPEONATO GREGO",
-          "thumbnail": "https://i.ytimg.com/vi/oSHfG4Ve5wE/hqdefault.jpg?v=6af1ce01",
-          "horarioAgendadoUTC": "2026-11-22T14:45:00Z",
-          "horarioBrasilia": "22/11, 11:45",
-          "link": "https://www.youtube.com/watch?v=oSHfG4Ve5wE"
-        },
-        {
-          "videoId": "bbImME13yaU",
-          "titulo": "MILAN x FROSINONE : AO VIVO E COM IMAGENS | RODADA 12 | SERIE A",
-          "thumbnail": "https://i.ytimg.com/vi/bbImME13yaU/hqdefault.jpg?v=6af1d10d",
-          "horarioAgendadoUTC": "2026-11-22T16:45:00Z",
-          "horarioBrasilia": "22/11, 13:45",
-          "link": "https://www.youtube.com/watch?v=bbImME13yaU"
-        },
-        {
-          "videoId": "e6Wabr6pHMs",
-          "titulo": "CRICIÚMA x FORTALEZA: AO VIVO E COM IMAGENS | Brasileirão Série B - 2026 - PLAYOFFS - IDA",
-          "thumbnail": "https://i.ytimg.com/vi/e6Wabr6pHMs/hqdefault.jpg?v=6aff2897",
-          "horarioAgendadoUTC": "2026-11-22T18:30:00Z",
-          "horarioBrasilia": "22/11, 15:30",
-          "link": "https://www.youtube.com/watch?v=e6Wabr6pHMs"
+          "videoId": "YR8PgUjm9Hc",
+          "titulo": "MONZA x FIORENTINA: AO VIVO E COM IMAGENS | RODADA 12 | SERIE A",
+          "thumbnail": "https://i.ytimg.com/vi/YR8PgUjm9Hc/hqdefault.jpg?v=6af1db35",
+          "horarioAgendadoUTC": "2026-11-23T19:45:00Z",
+          "horarioBrasilia": "23/11, 16:45",
+          "link": "https://www.youtube.com/watch?v=YR8PgUjm9Hc"
         }
       ],
       "erro": null
@@ -277,47 +155,56 @@
       "canalId": "UC3KHYFWeB0WimMBfm3NEahQ",
       "nome": "UOL Esporte",
       "logo": "https://yt3.ggpht.com/WnRMVUq4sj-Q1bAp8yz9y7WqUzqcbSZYQMkeMlHF1Kdv0fa39fw1zf3ylt1cil-ntjuL-s21TA=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 0,
-      "lives": [],
+      "totalLives": 3,
+      "lives": [
+        {
+          "videoId": "pCCRm_hXO7Q",
+          "titulo": "DE PRIMEIRA | 23 DE SETEMBRO",
+          "thumbnail": "https://i.ytimg.com/vi/pCCRm_hXO7Q/hqdefault.jpg?v=6aff5ec6",
+          "horarioAgendadoUTC": "2026-11-23T16:30:00Z",
+          "horarioBrasilia": "23/11, 13:30",
+          "link": "https://www.youtube.com/watch?v=pCCRm_hXO7Q"
+        },
+        {
+          "videoId": "752x8hon7Lk",
+          "titulo": "JARARACA'S O PODCAST | 23 DE NOVEMBRO",
+          "thumbnail": "https://i.ytimg.com/vi/752x8hon7Lk/hqdefault.jpg?v=6afb5303",
+          "horarioAgendadoUTC": "2026-11-23T21:00:00Z",
+          "horarioBrasilia": "23/11, 18:00",
+          "link": "https://www.youtube.com/watch?v=752x8hon7Lk"
+        },
+        {
+          "videoId": "yiW9A4Ru3iU",
+          "titulo": "FIM DE PAPO | 23 DE NOVEMBRO",
+          "thumbnail": "https://i.ytimg.com/vi/yiW9A4Ru3iU/hqdefault.jpg?v=6afb516f",
+          "horarioAgendadoUTC": "2026-11-23T21:00:00Z",
+          "horarioBrasilia": "23/11, 18:00",
+          "link": "https://www.youtube.com/watch?v=yiW9A4Ru3iU"
+        }
+      ],
       "erro": null
     },
     {
       "canalId": "UCH-BU-Os3JSo2L8lBQxE8KA",
       "nome": "Xsports",
       "logo": "https://yt3.ggpht.com/CTQyaT5nUAWjH0Vb-WIOrecZ3f4mAlS1N4niAFtIAX-g8gpTxITlkOY-dnRyh3th_1HxJ7KE=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 4,
+      "totalLives": 2,
       "lives": [
         {
-          "videoId": "q9-KXvWyuqk",
+          "videoId": "8lE-Ddd6Zic",
           "titulo": "AO VIVO: SURF BRASIL PRO | ETAPA DA GUARDA DO EMBAÚ",
-          "thumbnail": "https://i.ytimg.com/vi/q9-KXvWyuqk/hqdefault.jpg?v=6b025942",
-          "horarioAgendadoUTC": "2026-11-22T10:45:00Z",
-          "horarioBrasilia": "22/11, 07:45",
-          "link": "https://www.youtube.com/watch?v=q9-KXvWyuqk"
+          "thumbnail": "https://i.ytimg.com/vi/8lE-Ddd6Zic/hqdefault.jpg?v=6b039fd0",
+          "horarioAgendadoUTC": "2026-11-23T14:00:00Z",
+          "horarioBrasilia": "23/11, 11:00",
+          "link": "https://www.youtube.com/watch?v=8lE-Ddd6Zic"
         },
         {
-          "videoId": "32ezKJlzgGI",
-          "titulo": "AO VIVO: COPA DO MUNDO DE SKI ALPINO | SLALOM ESPECIAL - RUN 02",
-          "thumbnail": "https://i.ytimg.com/vi/32ezKJlzgGI/hqdefault.jpg?v=6b02597d",
-          "horarioAgendadoUTC": "2026-11-22T12:30:00Z",
-          "horarioBrasilia": "22/11, 09:30",
-          "link": "https://www.youtube.com/watch?v=32ezKJlzgGI"
-        },
-        {
-          "videoId": "wxFq2PZuI_8",
-          "titulo": "AO VIVO: CORINTHIANS X PALMEIRAS | FINAL DO PAULISTA SUB-20",
-          "thumbnail": "https://i.ytimg.com/vi/wxFq2PZuI_8/hqdefault.jpg?v=6b0259ad",
-          "horarioAgendadoUTC": "2026-11-22T18:45:00Z",
-          "horarioBrasilia": "22/11, 15:45",
-          "link": "https://www.youtube.com/watch?v=wxFq2PZuI_8"
-        },
-        {
-          "videoId": "oezjuwYZUqQ",
-          "titulo": "AO VIVO: MOGI X PAULISTANO | NOVO BASQUETE BRASIL",
-          "thumbnail": "https://i.ytimg.com/vi/oezjuwYZUqQ/hqdefault.jpg?v=6b0259eb",
-          "horarioAgendadoUTC": "2026-11-22T20:00:00Z",
-          "horarioBrasilia": "22/11, 17:00",
-          "link": "https://www.youtube.com/watch?v=oezjuwYZUqQ"
+          "videoId": "nH8GD1Y2YiQ",
+          "titulo": "FINAIS DA SULA E LIBERTA, RODADA DO BRASILEIRÃO | RODADA XSPORTS",
+          "thumbnail": "https://i.ytimg.com/vi/nH8GD1Y2YiQ/hqdefault.jpg?v=6b025a65",
+          "horarioAgendadoUTC": "2026-11-23T23:30:00Z",
+          "horarioBrasilia": "23/11, 20:30",
+          "link": "https://www.youtube.com/watch?v=nH8GD1Y2YiQ"
         }
       ],
       "erro": null
@@ -326,65 +213,8 @@
       "canalId": "UC8RrjoT8ovQ43Le7qvHuoMA",
       "nome": "Metrópoles Esportes",
       "logo": "https://yt3.ggpht.com/v8aQZpnGvmyJESJlihwnHykFcQhUw4iXxFC9-DKmjqvP2KzLcUgGvXHnRB0YV47DoAJemkhQsQ=s800-c-k-c0x00ffffff-no-rj",
-      "totalLives": 7,
-      "lives": [
-        {
-          "videoId": "WZQN5BYuH88",
-          "titulo": "MARCÍLIO DIAS x JOINVILLE - FINAL COPA SANTA CATARINA 2026 - AO VIVO - 22.11.26",
-          "thumbnail": "https://i.ytimg.com/vi/WZQN5BYuH88/hqdefault.jpg?v=6afda7b8",
-          "horarioAgendadoUTC": "2026-11-22T19:30:00Z",
-          "horarioBrasilia": "22/11, 16:30",
-          "link": "https://www.youtube.com/watch?v=WZQN5BYuH88"
-        },
-        {
-          "videoId": "-9HnzhZHF7c",
-          "titulo": "TREZE x NACIONAL - COPA PARAÍBA 2026 - AO VIVO E COM IMAGENS - 22.11.26",
-          "thumbnail": "https://i.ytimg.com/vi/-9HnzhZHF7c/hqdefault.jpg?v=6afeeca5",
-          "horarioAgendadoUTC": "2026-11-22T19:45:00Z",
-          "horarioBrasilia": "22/11, 16:45",
-          "link": "https://www.youtube.com/watch?v=-9HnzhZHF7c"
-        },
-        {
-          "videoId": "rSpzNqT3ulM",
-          "titulo": "VILA REAL x ATLÉTICO CEARENSE - TAÇA FARES LOPES 2026 - AO VIVO E COM IMAGENS - 22.11.26",
-          "thumbnail": "https://i.ytimg.com/vi/rSpzNqT3ulM/hqdefault.jpg?v=6afeeebc",
-          "horarioAgendadoUTC": "2026-11-22T19:45:00Z",
-          "horarioBrasilia": "22/11, 16:45",
-          "link": "https://www.youtube.com/watch?v=rSpzNqT3ulM"
-        },
-        {
-          "videoId": "c8MrcHqRiIE",
-          "titulo": "ATLÉTICO CAJAZEIRAS x CAMPINENSE - COPA PARAÍBA 2026 - AO VIVO E COM IMAGENS - 22.11.26",
-          "thumbnail": "https://i.ytimg.com/vi/c8MrcHqRiIE/hqdefault.jpg?v=6afeeb5f",
-          "horarioAgendadoUTC": "2026-11-22T19:45:00Z",
-          "horarioBrasilia": "22/11, 16:45",
-          "link": "https://www.youtube.com/watch?v=c8MrcHqRiIE"
-        },
-        {
-          "videoId": "KSXkX9I4fYM",
-          "titulo": "ESPORTE x SERRA BRANCA - COPA PARAÍBA 2026 - AO VIVO E COM IMAGENS - 22.11.26",
-          "thumbnail": "https://i.ytimg.com/vi/KSXkX9I4fYM/hqdefault.jpg?v=6afeed40",
-          "horarioAgendadoUTC": "2026-11-22T19:45:00Z",
-          "horarioBrasilia": "22/11, 16:45",
-          "link": "https://www.youtube.com/watch?v=KSXkX9I4fYM"
-        },
-        {
-          "videoId": "Lpvsyjo1_iw",
-          "titulo": "GUARANI DE JUAZEIRO x ICASA - TAÇA FARES LOPES 2026 - AO VIVO E COM IMAGENS - 22.11.26",
-          "thumbnail": "https://i.ytimg.com/vi/Lpvsyjo1_iw/hqdefault.jpg?v=6afeef81",
-          "horarioAgendadoUTC": "2026-11-22T19:45:00Z",
-          "horarioBrasilia": "22/11, 16:45",
-          "link": "https://www.youtube.com/watch?v=Lpvsyjo1_iw"
-        },
-        {
-          "videoId": "zbBv7-R8sys",
-          "titulo": "TIROL x PALMÁCIA - TAÇA FARES LOPES 2026 - AO VIVO E COM IMAGENS - 22.11.26",
-          "thumbnail": "https://i.ytimg.com/vi/zbBv7-R8sys/hqdefault.jpg?v=6afeee56",
-          "horarioAgendadoUTC": "2026-11-22T19:45:00Z",
-          "horarioBrasilia": "22/11, 16:45",
-          "link": "https://www.youtube.com/watch?v=zbBv7-R8sys"
-        }
-      ],
+      "totalLives": 0,
+      "lives": [],
       "erro": null
     },
     {
@@ -394,28 +224,28 @@
       "totalLives": 3,
       "lives": [
         {
-          "videoId": "5ib_GTnkdDQ",
-          "titulo": "AO VIVO: SIRIUS X DJURGARDEN I LIGA DA SUÉCIA 2026 I CANAL GOL BRASIL",
-          "thumbnail": "https://i.ytimg.com/vi/5ib_GTnkdDQ/hqdefault.jpg?v=6aee41d1",
-          "horarioAgendadoUTC": "2026-11-22T13:00:00Z",
-          "horarioBrasilia": "22/11, 10:00",
-          "link": "https://www.youtube.com/watch?v=5ib_GTnkdDQ"
+          "videoId": "8q3IxQnPPSA",
+          "titulo": "AO VIVO: DIA 01 I COPA AMÉRICA FUTEBOL 7 I 2026 I CANAL GOL BRASIL",
+          "thumbnail": "https://i.ytimg.com/vi/8q3IxQnPPSA/hqdefault.jpg?v=6aee43e6",
+          "horarioAgendadoUTC": "2026-11-23T12:00:00Z",
+          "horarioBrasilia": "23/11, 09:00",
+          "link": "https://www.youtube.com/watch?v=8q3IxQnPPSA"
         },
         {
-          "videoId": "osWPEtiH8xU",
-          "titulo": "AO VIVO: SPARTA PRAGA X SLOVAN LIBEREC I LIGA DA REPÚBLICA CHECA 2026/27 I CANAL GOL BRASIL",
-          "thumbnail": "https://i.ytimg.com/vi/osWPEtiH8xU/hqdefault.jpg?v=6aee4252",
-          "horarioAgendadoUTC": "2026-11-22T17:00:00Z",
-          "horarioBrasilia": "22/11, 14:00",
-          "link": "https://www.youtube.com/watch?v=osWPEtiH8xU"
+          "videoId": "OAmzy3Ok2tg",
+          "titulo": "AO VIVO: BRØNDBY X MIDTJYLLAND I LIGA DA DINAMARCA 2026/27 I CANAL GOL BRASIL",
+          "thumbnail": "https://i.ytimg.com/vi/OAmzy3Ok2tg/hqdefault.jpg?v=6aee44a3",
+          "horarioAgendadoUTC": "2026-11-23T18:00:00Z",
+          "horarioBrasilia": "23/11, 15:00",
+          "link": "https://www.youtube.com/watch?v=OAmzy3Ok2tg"
         },
         {
-          "videoId": "IdrGolkGVBU",
-          "titulo": "AO VIVO: SPORT HUANCAYO X UINVERSITÁRIO I ÚLTIMA RODADA I CLAUSURA I LIGA DO PERUI CANAL GOL BRASIL",
-          "thumbnail": "https://i.ytimg.com/vi/IdrGolkGVBU/hqdefault.jpg?v=6affbd75",
-          "horarioAgendadoUTC": "2026-11-22T20:00:00Z",
-          "horarioBrasilia": "22/11, 17:00",
-          "link": "https://www.youtube.com/watch?v=IdrGolkGVBU"
+          "videoId": "O07D1ZrMfHk",
+          "titulo": "AO VIVO: PALMA FUTSAL X INTER I LIGA ESPANHOLA DE FUTSAL 2026/27 I CANAL GOL BRASIL",
+          "thumbnail": "https://i.ytimg.com/vi/O07D1ZrMfHk/hqdefault.jpg?v=6aee45b9",
+          "horarioAgendadoUTC": "2026-11-23T19:30:00Z",
+          "horarioBrasilia": "23/11, 16:30",
+          "link": "https://www.youtube.com/watch?v=O07D1ZrMfHk"
         }
       ],
       "erro": null
